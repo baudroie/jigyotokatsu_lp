@@ -1,0 +1,30 @@
+{
+  "label": "mobile-390",
+  "width": 390,
+  "height": 844,
+  "scrollHeight": 3843,
+  "scrollWidth": 390,
+  "clientWidth": 390,
+  "parts": [
+    {
+      "file": "mobile-390-y00000.png",
+      "y": 0
+    },
+    {
+      "file": "mobile-390-y00844.png",
+      "y": 844
+    },
+    {
+      "file": "mobile-390-y01688.png",
+      "y": 1688
+    },
+    {
+      "file": "mobile-390-y02532.png",
+      "y": 2532
+    },
+    {
+      "file": "mobile-390-y02999.png",
+      "y": 2999
+    }
+  ]
+}

@@ -1,64 +1,60 @@
 # Design QA
 
-**Final result: passed**
-
 ## Comparison target
 
-- Desktop source visual truth: `/Users/baudroie/Downloads/LP事業統括/デザイン案web.png`
-- Desktop implementation screenshot: `/Users/baudroie/Downloads/LP事業統括/screenshot-desktop-1440-final.png`
-- Mobile source visual truth: `/Users/baudroie/Downloads/LP事業統括/デザイン案mobile.png`
-- Mobile implementation screenshot: `/Users/baudroie/Downloads/LP事業統括/screenshot-mobile-390-final.png`
-- State: initial page state, menus closed, no hover/focus state.
+- Source visual truth: `デザイン案web.png`, `デザイン案mobile.png`
+- Final implementation screenshots: `comparison/desktop-1440.png`, `comparison/mobile-390.png`
+- Desktop source pixels: 661×1804
+- Desktop implementation pixels: 1440×3932; normalized to 661×1805
+- Desktop CSS viewport: 1440×900; device scale factor 1
+- Mobile source pixels: 183×1793
+- Mobile implementation pixels: 390×3821; normalized to 183×1793
+- Mobile CSS viewport: 390×844; device scale factor 1
+- State: initial page state, menu closed
 
-## Viewports and normalization
+## Evidence
 
-- Desktop source: 661 × 1804 px, normalized to 1440 × 3930 px.
-- Desktop implementation: 1440 × 3933 px. The in-app browser’s 1440 CSS px layout was captured as overlapping browser-rendered segments and normalized to 1440 px at device scale 1 equivalent.
-- Mobile source: 183 × 1793 px, normalized to 390 × 3821 px.
-- Mobile implementation: 390 × 3843 px at a 390 × 844 CSS viewport, device scale factor 1. Browser-rendered segments were stitched at their measured scroll positions without width resampling.
-- Full-view evidence: `comparison-desktop-side-by-side.png`, `comparison-desktop-overlay.png`, `comparison-mobile-side-by-side.png`, `comparison-mobile-overlay.png`.
-- Focused evidence: Hero, black diagram, career, people, flow, final CTA, and footer were also inspected in the browser as individual viewport captures. Focused captures are retained as the `final-*part-*.jpg` and `deliver-*part-*.jpg` files.
+- Full-view desktop: `comparison/desktop-side-by-side.png`, `comparison/desktop-overlay.png`, `comparison/desktop-diff.png`
+- Full-view mobile: `comparison/mobile-side-by-side.png`, `comparison/mobile-overlay.png`, `comparison/mobile-diff.png`
+- Focused desktop: `comparison/focused-desktop-hero.png`, `comparison/focused-desktop-career.png`, `comparison/focused-desktop-final.png`
+- Focused mobile: `comparison/focused-mobile-hero.png`, `comparison/focused-mobile-career.png`, `comparison/focused-mobile-final.png`
+- Additional responsive captures: `comparison/final/desktop-1280.png`, `comparison/final/mobile-375.png`
 
 ## Required fidelity surfaces
 
-- Fonts and typography: Japanese system Gothic fallbacks use heavy weights, line heights and explicit desktop/mobile wrapping. Hero uses separate PC/SP line breaks. Remaining optical differences from the raster reference are minor antialiasing/font-engine differences.
-- Spacing and layout rhythm: Desktop and mobile full-page heights differ from normalized references by 3 px and 22 px respectively. Section boundaries, card direction, CTA stacking, and the SP-only FIELD omission align with the sources.
-- Colors and visual tokens: orange, LINE green, dark section, off-white canvas, card shadows, and footer black match sampled/inferred source colors. Provided raster gradients are used unchanged.
-- Image quality and asset fidelity: all custom imagery/icons are supplied assets copied without modification. PC/SP Hero backgrounds are separate. No screenshot-as-page, generated replacement art, inline SVG, or CSS illustration is used.
-- Copy and content: source copy, fixed line breaks, career amounts, two existing employee stories, four flow steps, address, and footer text are preserved.
-- Responsive behavior: no horizontal overflow at 1440, 1280, 768, 390, or 375 px. FIELD is visible from 768 px and hidden at 767 px and below.
-- Accessibility: semantic headings/sections, image alt text, CTA labels, keyboard-capable menu, reduced-motion handling, and hidden text for the image-led benefit heading are present.
+- Fonts and typography: PASS. Japanese Gothic fallback, weight, three-line SP HERO wrap, heading hierarchy, line height, and CTA image text were checked. Remaining stroke-shape differences are confined to raster/source-font differences.
+- Spacing and layout rhythm: PASS. Section boundaries, card gaps, HERO/CTA rhythm, people/flow density, final CTA, and footer height align with the reference. Mobile normalized total height matches exactly.
+- Colors and visual tokens: PASS. The 3cards background now uses the reference-like light gray; dark and orange sections match the intended balance.
+- Image quality and asset fidelity: PASS. Original supplied assets are used without rewriting, cropping files, or destructive edits. CSS wrappers only control visible transparent margins and overflow.
+- Copy and content: PASS. Copy and section order are unchanged. Image alt text retains important rasterized copy.
+- Responsiveness: PASS. 1440, 1280, 390, and 375px checked; no horizontal overflow.
+- Accessibility: PASS for the tested scope. Semantic headings, alt text, aria labels, menu expanded state, keyboard-capable links/buttons, and reduced-motion CSS remain present.
 
 ## Comparison history
 
-### Pass 1 — blocked before fixes
+- Loop 1: P1 mobile HERO blank space, P1 career double-card treatment, P1 mobile vertical drift, P2 3cards background, people/flow/final CTA density.
+- Loop 2: Removed career wrapper surfaces, changed 3cards background, rebalanced HERO and major mobile section heights.
+- Loop 3: Matched mobile section boundaries; enlarged desktop career imagery; refined people and final CTA.
+- Loop 4: Increased CTA image presentation without changing aspect ratio; compacted mobile flow; matched footer and total page height.
+- Loop 5: Rejected a HERO typography experiment that created a fourth line.
+- Loop 6: Restored a three-line HERO and passed same-viewport comparison.
+- Loop 7: Rejected an HTML salary overlay because it competed with raster copy.
+- Loop 8: Reverted to clean source-image presentation and repeated full comparison; no actionable P0/P1/P2 findings remained.
 
-- P1: Hero desktop/mobile copy duplicated because both heading variants rendered. Fixed by mutually exclusive PC/SP copy display rules.
-- P1: PC benefit cards exposed the strip headline/transparent area and appeared too short. Fixed with three independent crop windows and full-height card surfaces while preserving the source image ratio.
-- P1: Mobile black section and total page height were about 267 px too tall. Fixed by matching section heights and compacting icon/text scale; final page-height delta is 22 px.
-- P2: Mobile final CTA subtitle transparency created a large gap and clipped the LINE button. Fixed with the source copy as HTML on SP and corrected vertical spacing.
-- P2: LINE and offer flow icons were mapped to the wrong source files. Corrected the asset map/copies.
-- P2: PC section boundaries drifted by 56 px after the benefit cards. Fixed the benefit section height; normalized desktop page-height delta is 3 px.
+## Interaction and browser verification
 
-### Pass 2 — post-fix evidence
+- Mobile menu: opens with `aria-expanded=true`, closes with `aria-expanded=false`.
+- Career CTA: navigates to `#career`; target top reached.
+- ENTRY CTA: navigates to `#flow`; target reached.
+- Console errors: 0.
+- 1280px: `scrollWidth = clientWidth = 1280`.
+- 375px: `scrollWidth = clientWidth = 375`.
 
-- Hero uses a single correct heading at each breakpoint, with correct CTA order and separate PC/SP backgrounds.
-- Mobile section starts and total height align; career, people, flow, CTA, and footer remain in the correct order.
-- Desktop section boundaries align from Hero through footer; FIELD is six-up and excluded on SP.
-- Browser console: no warnings or errors during final interaction testing.
-- Interactions tested: mobile menu open/close, menu link to `#career`, career/entry anchor behavior, LINE URL assignment, and smooth in-page navigation.
+## Findings
 
-## Remaining P3 polish
+- No actionable P0/P1/P2 findings remain.
+- P3 accepted: minor image-internal illustration/type differences remain because the supplied raster assets differ from the raster content embedded in the reference. This was explicitly outside the main correction scope and the originals were not altered.
 
-- Raster-reference font antialiasing and the exact Hero display-face shape differ slightly from available local Japanese Gothic fonts.
-- The benefit-card source strip has a wider native card aspect than the completed design; the implementation preserves the supplied image ratio and uses white card surfaces to match the completed layout’s height without distorting the asset.
+## Final result
 
-## Self-assessment
-
-- Desktop reproduction: 93/100
-- Mobile reproduction: 93/100
-- Asset usage accuracy: 96/100
-- Responsive: 96/100
-- Typography: 91/100
-- Spacing: 93/100
-- Functional: 97/100
+final result: passed

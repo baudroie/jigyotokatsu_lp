@@ -1,0 +1,30 @@
+{
+  "label": "desktop-1440",
+  "width": 1440,
+  "height": 900,
+  "scrollHeight": 3932,
+  "scrollWidth": 1440,
+  "clientWidth": 1440,
+  "parts": [
+    {
+      "file": "desktop-1440-y00000.png",
+      "y": 0
+    },
+    {
+      "file": "desktop-1440-y00900.png",
+      "y": 900
+    },
+    {
+      "file": "desktop-1440-y01800.png",
+      "y": 1800
+    },
+    {
+      "file": "desktop-1440-y02700.png",
+      "y": 2700
+    },
+    {
+      "file": "desktop-1440-y03032.png",
+      "y": 3032
+    }
+  ]
+}

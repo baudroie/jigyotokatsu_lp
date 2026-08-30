@@ -111,7 +111,7 @@ button { font: inherit; }
   z-index: 4;
   height: 376px;
   margin-top: -56px;
-  background: #f6f6f4;
+  background: linear-gradient(180deg, #eeeeec 0%, #f7f7f5 100%);
   overflow: hidden;
 }
 .benefit-desktop-list {
@@ -203,13 +203,13 @@ button { font: inherit; }
 .career-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 10px;
-  width: min(1330px, calc(100% - 100px));
-  margin: -2px auto 0;
+  gap: 8px;
+  width: min(1380px, calc(100% - 52px));
+  margin: -8px auto 0;
 }
-.career-card { position: relative; height: 360px; overflow: hidden; }
-.career-card > img:first-child { width: 100%; max-width: none; margin: -68px 0 0; }
-.career-note { width: 830px; height: 53px; margin: -3px auto 0; overflow: hidden; }
+.career-card { position: relative; height: 370px; overflow: hidden; }
+.career-card > img:first-child { width: 122%; max-width: none; margin: -56px -11% 0; }
+.career-note { width: 830px; height: 53px; margin: -14px auto 0; overflow: hidden; }
 .career-note img { width: 830px; margin-top: -110px; }
 
 .people {
@@ -239,16 +239,16 @@ button { font: inherit; }
   background: #fff;
   box-shadow: 0 2px 12px rgba(0,0,0,.05);
 }
-.person-story { position: relative; display: grid; grid-template-columns: 245px 1fr; min-width: 0; }
-.person-photo { align-self: end; width: 248px; max-height: 365px; object-fit: contain; object-position: bottom; }
-.person-copy { padding: 22px 18px 0 0; overflow: hidden; }
-.speech { width: 330px; height: 116px; object-fit: contain; }
+.person-story { position: relative; display: grid; grid-template-columns: 265px 1fr; min-width: 0; }
+.person-photo { align-self: end; width: 268px; max-height: 375px; object-fit: contain; object-position: bottom; }
+.person-copy { padding: 14px 18px 0 0; overflow: hidden; }
+.speech { width: 345px; height: 120px; object-fit: contain; }
 .story-body { width: 365px; margin: 4px 0 0; }
 .people-divider { position: absolute; z-index: 2; left: 50%; top: 72px; width: 1px; height: 286px; background: #ddd; }
 
 .flow {
   height: 331px;
-  padding-top: 18px;
+  padding-top: 6px;
   background: #fff;
   overflow: hidden;
 }
@@ -289,8 +289,8 @@ button { font: inherit; }
   background: #ff6b00 url("assets/final-cta/bg.png") center / cover no-repeat;
   overflow: hidden;
 }
-.final-copy { min-width: 0; }
-.final-copy h2 { width: 610px; height: 80px; margin: 0; overflow: hidden; }
+.final-copy { min-width: 0; margin-top: 18px; }
+.final-copy h2 { width: 610px; height: 80px; margin: 0; overflow: hidden; transform: translateY(28px); }
 .final-copy h2 img { width: 610px; margin-top: -56px; }
 .final-subtitle { width: 550px; margin-top: -5px; }
 .final-line { justify-self: end; width: 560px; height: 130px; overflow: hidden; }
@@ -373,12 +373,12 @@ button { font: inherit; }
   }
   .mobile-menu a { display: block; padding: 11px 12px; border-bottom: 1px solid #444; color: #fff; font-size: 13px; font-weight: 700; }
   .mobile-menu a:last-child { border-bottom: 0; }
-  .hero-content { width: auto; margin: 60px 19px 0; }
+  .hero-content { width: auto; margin: 86px 10px 0; }
   .hero-title {
-    width: 285px;
-    font-size: 50px;
-    line-height: 1.08;
-    letter-spacing: -.035em;
+    width: 300px;
+    font-size: 58px;
+    line-height: 1.02;
+    letter-spacing: -.025em;
   }
   .hero-sub {
     width: 255px;
@@ -386,11 +386,11 @@ button { font: inherit; }
     font-size: 23px;
     line-height: 1.35;
   }
-  .hero-actions { display: block; margin-top: 57px; }
-  .image-button { display: block; width: 352px; max-width: 100%; height: 88px; margin-top: 8px; }
-  .image-button img { width: 100%; }
+  .hero-actions { display: block; margin-top: 28px; }
+  .image-button { display: block; width: 370px; max-width: 100%; height: 120px; margin-top: 0; }
+  .hero-actions .image-button img { width: 112%; max-width: none; margin-left: -6%; }
 
-  .benefits { height: 636px; margin-top: 0; padding: 12px 0; background: linear-gradient(#ff6722 0 10px, #f6f6f4 10px 100%); }
+  .benefits { height: 636px; margin-top: 0; padding: 6px 0 12px; border-top: 8px solid #f05e21; background: #f5f5f3; }
   .benefit-list { width: 356px; max-width: calc(100% - 28px); margin: 0 auto; }
   .benefit-card { position: relative; width: 100%; height: 196px; margin-bottom: 8px; overflow: hidden; }
   .benefit-card img { position: absolute; top: -143px; width: 1068px; max-width: none; }
@@ -398,7 +398,7 @@ button { font: inherit; }
   .benefit-card:nth-child(2) img { left: -356px; }
   .benefit-card:nth-child(3) img { left: -712px; }
 
-  .frontline { height: 600px; padding-top: 30px; }
+  .frontline { height: 509px; padding-top: 30px; }
   .frontline-title { width: 365px; max-width: 96%; height: 65px; }
   .frontline-title img { width: 365px; margin-top: -39px; }
   .frontline-diagram {
@@ -425,67 +425,68 @@ button { font: inherit; }
     text-align: left;
   }
 
-  .career { height: 650px; padding-top: 22px; }
+  .career { height: 710px; padding-top: 22px; }
   .career-title { width: 372px; max-width: 96%; height: 54px; }
   .career-title img { width: 372px; margin-top: -48px; }
-  .career-grid { display: block; width: 354px; max-width: calc(100% - 30px); margin: 0 auto; }
-  .career-card { height: 116px; margin: 0 0 4px; border: 1px solid rgba(255,105,32,.38); border-radius: 9px; background: #fff; box-shadow: 0 4px 10px rgba(0,0,0,.08); }
+  .career-grid { display: block; width: 354px; max-width: calc(100% - 30px); margin: 14px auto 0; }
+  .career-card { height: 129px; margin: 0 0 4px; border: 0; border-radius: 0; background: transparent; box-shadow: none; }
   .career-card > img:first-child { position: absolute; width: 300px; max-width: none; margin: 0; left: 12px; }
   .career-card:nth-child(1) > img:first-child { top: -79px; }
   .career-card:nth-child(2) > img:first-child { top: -106px; }
   .career-card:nth-child(3) > img:first-child { top: -101px; }
   .career-card:nth-child(4) > img:first-child { top: -85px; }
-  .career-card .plus { position: absolute; z-index: 2; right: 14px; top: 39px; width: 29px; height: 29px; object-fit: cover; object-position: center; }
-  .career-details { width: 354px; max-width: calc(100% - 30px); height: 76px; margin: 13px auto 0; overflow: hidden; }
+  .career-card .plus { position: absolute; z-index: 2; right: 14px; top: 46px; width: 29px; height: 29px; object-fit: cover; object-position: center; }
+  .career-details { width: 354px; max-width: calc(100% - 30px); height: 64px; margin: 13px auto 0; overflow: hidden; }
   .career-details img { width: 354px; margin-top: -2px; }
 
-  .people { height: 455px; padding: 30px 15px 18px; border-top: 1px solid #ddd; }
+  .people { height: 466px; padding: 30px 15px 18px; border-top: 1px solid #ddd; }
   .people-title { width: 365px; max-width: 100%; height: 48px; margin-bottom: 3px; }
   .people-title img { width: 365px; margin-top: -43px; }
   .people-panel { display: block; width: 358px; max-width: 100%; height: 329px; border-radius: 16px; }
   .person-story { display: block; height: 100%; }
-  .person-photo { position: absolute; left: 3px; bottom: 0; width: 145px; height: 300px; object-fit: contain; object-position: bottom; }
+  .person-photo { position: absolute; left: 0; bottom: 0; width: 155px; height: 310px; object-fit: contain; object-position: bottom; }
   .person-copy { position: absolute; inset: 0; padding: 0; overflow: hidden; }
-  .speech { position: absolute; top: 10px; right: 3px; width: 235px; height: 108px; }
-  .story-body { position: absolute; top: 108px; right: 4px; width: 232px; }
+  .speech { position: absolute; top: 7px; right: 1px; width: 255px; height: 112px; }
+  .story-body { position: absolute; top: 102px; right: -3px; width: 270px; }
   .people-dots { width: 100px; height: 34px; object-fit: cover; object-position: center; margin: 7px auto 0; }
 
-  .flow { height: 360px; padding-top: 14px; }
-  .flow-title { width: 245px; height: 57px; }
+  .flow { height: 288px; padding-top: 8px; }
+  .flow-title { width: 245px; height: 42px; }
   .flow-title img { width: 245px; margin-top: -19px; }
   .flow-grid { display: block; width: 354px; max-width: calc(100% - 30px); margin: 0 auto; }
   .flow-card {
     position: relative;
     display: grid;
-    grid-template-columns: 82px 1fr 22px;
-    height: 66px;
-    margin-bottom: 6px;
-    padding: 4px 9px 4px 6px;
+    grid-template-columns: 66px 1fr 18px;
+    height: 58px;
+    margin-bottom: 2px;
+    padding: 2px 7px 2px 5px;
     border-radius: 8px;
   }
-  .flow-card > img { width: 72px; height: 58px; object-fit: contain; }
-  .flow-card > div { display: grid; grid-template-columns: 73px 1fr; align-items: center; }
-  .flow-card span { font-size: 12px; }
-  .flow-card h3 { margin: 0; font-size: 17px; }
+  .flow-card > img { width: 58px; height: 52px; object-fit: contain; }
+  .flow-card > div { display: grid; grid-template-columns: 65px 1fr; align-items: center; }
+  .flow-card span { font-size: 11px; }
+  .flow-card h3 { margin: 0; font-size: 15.5px; }
   .flow-card b { align-self: center; color: #c95e2c; font-size: 32px; font-weight: 400; line-height: 1; }
 
   .final-cta {
     display: block;
     height: 274px;
-    padding: 25px 14px 15px;
+    padding: 20px 10px 15px;
     text-align: center;
   }
-  .final-copy h2 { width: 358px; max-width: 100%; height: 70px; margin: 0 auto; }
+  .final-copy { margin-top: 0; }
+  .final-copy h2 { width: 358px; max-width: 100%; height: 70px; margin: 0 auto; transform: none; }
   .final-copy h2 img { width: 358px; margin-top: -31px; }
   .final-subtitle { display: none; }
   .final-subtext-mobile { margin: -4px auto 0; color: #fff; font-size: 14px; font-weight: 800; line-height: 1.65; letter-spacing: .035em; }
-  .final-line { display: block; width: 354px; max-width: 100%; height: 89px; margin: 13px auto 0; }
-  .final-line img { width: 354px; margin-top: 0; }
+  .final-line { display: block; width: 370px; max-width: 100%; height: 105px; margin: 13px auto 0; }
+  .final-line img { width: 370px; margin-top: 0; }
 
   .site-footer {
     display: block;
-    min-height: 186px;
-    padding: 25px 22px 20px;
+    min-height: 256px;
+    padding: 31px 22px 26px;
     text-align: center;
   }
   .footer-brand { padding-bottom: 20px; border-bottom: 1px solid #666; font-size: 28px; }
