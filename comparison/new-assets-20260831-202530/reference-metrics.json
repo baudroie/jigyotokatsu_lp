@@ -1,0 +1,659 @@
+{
+  "desktop": {
+    "file": "デザイン案web.png",
+    "size": [
+      661,
+      1804
+    ],
+    "viewportWidth": 1440,
+    "scale": 2.178517397881997,
+    "uncertaintyCssPx": 4.357034795763994,
+    "pageBounds": [
+      0,
+      0,
+      661,
+      1804
+    ],
+    "frameNote": "Full reference canvas retained for consistent before/after comparison. Approximate page body recorded separately; SP has about 6 source px top white margin and 1–2 px side border. Coordinates start at the image top, not a cropped or vertically stretched page.",
+    "sections": {
+      "hero": {
+        "top": 0.0,
+        "bottom": 845.2647503782148,
+        "height": 845.2647503782148,
+        "sectionWidth": 1440,
+        "containerWidth": 1387.715582450832,
+        "visibleContentBounds": [
+          34.85627836611195,
+          15.249621785173979,
+          1422.571860816944,
+          753.767019667171
+        ],
+        "paddingTop": 15.249621785173979,
+        "paddingBottom": 91.49773071104387,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "benefits": {
+        "top": 788.6232980332829,
+        "bottom": 1165.5068078668683,
+        "height": 376.8835098335855,
+        "sectionWidth": 1440,
+        "containerWidth": 1326.717095310136,
+        "visibleContentBounds": [
+          60.998487140695914,
+          790.8018154311649,
+          1387.715582450832,
+          1121.9364599092285
+        ],
+        "paddingTop": 2.178517397881997,
+        "paddingBottom": 43.57034795763994,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "frontline": {
+        "top": 1165.5068078668683,
+        "bottom": 1760.2420574886535,
+        "height": 594.7352496217852,
+        "sectionWidth": 1440,
+        "containerWidth": 899.7276853252647,
+        "visibleContentBounds": [
+          259.24357034795764,
+          1206.8986384266263,
+          1158.9712556732225,
+          1697.0650529500756
+        ],
+        "paddingTop": 41.39183055975794,
+        "paddingBottom": 63.17700453857791,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "field": {
+        "top": 1760.2420574886535,
+        "bottom": 2195.945537065053,
+        "height": 435.7034795763994,
+        "sectionWidth": 1440,
+        "containerWidth": 1407.32223903177,
+        "visibleContentBounds": [
+          10.892586989409985,
+          1784.2057488653554,
+          1418.21482602118,
+          2178.517397881997
+        ],
+        "paddingTop": 23.963691376701966,
+        "paddingBottom": 17.428139183055976,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "career": {
+        "top": 2195.945537065053,
+        "bottom": 2694.8260211800302,
+        "height": 498.8804841149773,
+        "sectionWidth": 1440,
+        "containerWidth": 1326.717095310136,
+        "visibleContentBounds": [
+          60.998487140695914,
+          2222.0877458396367,
+          1387.715582450832,
+          2657.7912254160365
+        ],
+        "paddingTop": 26.142208774583963,
+        "paddingBottom": 37.03479576399395,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "people": {
+        "top": 2694.8260211800302,
+        "bottom": 3165.3857791225414,
+        "height": 470.55975794251134,
+        "sectionWidth": 1440,
+        "containerWidth": 1363.75189107413,
+        "visibleContentBounds": [
+          41.39183055975794,
+          2694.8260211800302,
+          1405.143721633888,
+          3130.5295007564296
+        ],
+        "paddingTop": 0.0,
+        "paddingBottom": 34.85627836611195,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "flow": {
+        "top": 3165.3857791225414,
+        "bottom": 3492.163388804841,
+        "height": 326.77760968229956,
+        "sectionWidth": 1440,
+        "containerWidth": 1346.3237518910742,
+        "visibleContentBounds": [
+          60.998487140695914,
+          3167.5642965204233,
+          1407.32223903177,
+          3435.5219364599093
+        ],
+        "paddingTop": 2.178517397881997,
+        "paddingBottom": 56.64145234493192,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "final-cta": {
+        "top": 3492.163388804841,
+        "bottom": 3781.9062027231466,
+        "height": 289.7428139183056,
+        "sectionWidth": 1440,
+        "containerWidth": 1278.7897125567322,
+        "visibleContentBounds": [
+          102.39031770045386,
+          3566.232980332829,
+          1381.180030257186,
+          3710.0151285930406
+        ],
+        "paddingTop": 74.0695915279879,
+        "paddingBottom": 71.89107413010589,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "site-footer": {
+        "top": 3781.9062027231466,
+        "bottom": 3930.0453857791226,
+        "height": 148.1391830559758,
+        "sectionWidth": 1440,
+        "containerWidth": 1352.8593040847202,
+        "visibleContentBounds": [
+          43.57034795763994,
+          3814.5839636913765,
+          1396.42965204236,
+          3890.8320726172465
+        ],
+        "paddingTop": 32.677760968229954,
+        "paddingBottom": 39.213313161875945,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      }
+    },
+    "cards": {
+      "benefits": [
+        {
+          "order": 1,
+          "sourceBounds": [
+            28,
+            363,
+            231,
+            515
+          ],
+          "width": 442.23903177004536,
+          "height": 331.13464447806354,
+          "sameWidthNewImageHeight": 265.3434190620272,
+          "sameWidthHeightDelta": -65.79122541603631,
+          "recommendedVisibleRatio": 1.3355263157894737
+        },
+        {
+          "order": 2,
+          "sourceBounds": [
+            239,
+            363,
+            442,
+            515
+          ],
+          "width": 442.23903177004536,
+          "height": 331.13464447806354,
+          "sameWidthNewImageHeight": 265.3434190620272,
+          "sameWidthHeightDelta": -65.79122541603631,
+          "recommendedVisibleRatio": 1.3355263157894737
+        },
+        {
+          "order": 3,
+          "sourceBounds": [
+            450,
+            363,
+            637,
+            515
+          ],
+          "width": 407.3827534039334,
+          "height": 331.13464447806354,
+          "sameWidthNewImageHeight": 244.42965204236003,
+          "sameWidthHeightDelta": -86.7049924357035,
+          "recommendedVisibleRatio": 1.230263157894737
+        }
+      ],
+      "career": [
+        {
+          "order": 1,
+          "sourceBounds": [
+            28,
+            1057,
+            180,
+            1193
+          ],
+          "width": 331.13464447806354,
+          "height": 296.2783661119516,
+          "sameWidthNewImageHeight": 215.23751891074127,
+          "sameWidthHeightDelta": -81.0408472012103,
+          "recommendedVisibleRatio": 1.1176470588235294
+        },
+        {
+          "order": 2,
+          "sourceBounds": [
+            187,
+            1057,
+            339,
+            1193
+          ],
+          "width": 331.13464447806354,
+          "height": 296.2783661119516,
+          "sameWidthNewImageHeight": 215.23751891074127,
+          "sameWidthHeightDelta": -81.0408472012103,
+          "recommendedVisibleRatio": 1.1176470588235294
+        },
+        {
+          "order": 3,
+          "sourceBounds": [
+            346,
+            1057,
+            489,
+            1193
+          ],
+          "width": 311.52798789712557,
+          "height": 296.2783661119516,
+          "sameWidthNewImageHeight": 202.4931921331316,
+          "sameWidthHeightDelta": -93.78517397882,
+          "recommendedVisibleRatio": 1.0514705882352942
+        },
+        {
+          "order": 4,
+          "sourceBounds": [
+            496,
+            1057,
+            637,
+            1193
+          ],
+          "width": 307.1709531013616,
+          "height": 296.2783661119516,
+          "sameWidthNewImageHeight": 199.66111951588502,
+          "sameWidthHeightDelta": -96.61724659606658,
+          "recommendedVisibleRatio": 1.036764705882353
+        }
+      ]
+    },
+    "pageBodyApprox": [
+      1,
+      0,
+      660,
+      1803
+    ]
+  },
+  "mobile": {
+    "file": "デザイン案mobile.png",
+    "size": [
+      183,
+      1793
+    ],
+    "viewportWidth": 390,
+    "scale": 2.1311475409836067,
+    "uncertaintyCssPx": 4.262295081967213,
+    "pageBounds": [
+      0,
+      0,
+      183,
+      1793
+    ],
+    "frameNote": "Full reference canvas retained for consistent before/after comparison. Approximate page body recorded separately; SP has about 6 source px top white margin and 1–2 px side border. Coordinates start at the image top, not a cropped or vertically stretched page.",
+    "sections": {
+      "hero": {
+        "top": 0.0,
+        "bottom": 754.4262295081968,
+        "height": 754.4262295081968,
+        "sectionWidth": 390,
+        "containerWidth": 347.3770491803279,
+        "visibleContentBounds": [
+          21.311475409836067,
+          38.36065573770492,
+          368.688524590164,
+          660.6557377049181
+        ],
+        "paddingTop": 38.36065573770492,
+        "paddingBottom": 93.7704918032787,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "benefits": {
+        "top": 699.016393442623,
+        "bottom": 1317.049180327869,
+        "height": 618.032786885246,
+        "sectionWidth": 390,
+        "containerWidth": 362.29508196721315,
+        "visibleContentBounds": [
+          12.78688524590164,
+          699.016393442623,
+          375.0819672131148,
+          1287.2131147540983
+        ],
+        "paddingTop": 0.0,
+        "paddingBottom": 29.836065573770494,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "frontline": {
+        "top": 1317.049180327869,
+        "bottom": 1828.5245901639346,
+        "height": 511.47540983606564,
+        "sectionWidth": 390,
+        "containerWidth": 349.5081967213115,
+        "visibleContentBounds": [
+          17.049180327868854,
+          1355.409836065574,
+          366.55737704918033,
+          1788.032786885246
+        ],
+        "paddingTop": 38.36065573770492,
+        "paddingBottom": 40.49180327868853,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "career": {
+        "top": 1828.5245901639346,
+        "bottom": 2555.2459016393445,
+        "height": 726.7213114754098,
+        "sectionWidth": 390,
+        "containerWidth": 351.6393442622951,
+        "visibleContentBounds": [
+          14.918032786885247,
+          1864.754098360656,
+          366.55737704918033,
+          2529.672131147541
+        ],
+        "paddingTop": 36.22950819672131,
+        "paddingBottom": 25.57377049180328,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "people": {
+        "top": 2555.2459016393445,
+        "bottom": 2883.44262295082,
+        "height": 328.1967213114754,
+        "sectionWidth": 390,
+        "containerWidth": 345.2459016393443,
+        "visibleContentBounds": [
+          21.311475409836067,
+          2585.081967213115,
+          366.55737704918033,
+          2870.655737704918
+        ],
+        "paddingTop": 29.836065573770494,
+        "paddingBottom": 12.78688524590164,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "flow": {
+        "top": 2883.44262295082,
+        "bottom": 3292.6229508196725,
+        "height": 409.1803278688525,
+        "sectionWidth": 390,
+        "containerWidth": 345.2459016393443,
+        "visibleContentBounds": [
+          21.311475409836067,
+          2911.1475409836066,
+          366.55737704918033,
+          3271.3114754098365
+        ],
+        "paddingTop": 27.704918032786885,
+        "paddingBottom": 21.311475409836067,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "final-cta": {
+        "top": 3292.6229508196725,
+        "bottom": 3567.540983606558,
+        "height": 274.91803278688525,
+        "sectionWidth": 390,
+        "containerWidth": 345.2459016393443,
+        "visibleContentBounds": [
+          21.311475409836067,
+          3330.9836065573772,
+          366.55737704918033,
+          3531.3114754098365
+        ],
+        "paddingTop": 38.36065573770492,
+        "paddingBottom": 36.22950819672131,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "site-footer": {
+        "top": 3567.540983606558,
+        "bottom": 3821.1475409836066,
+        "height": 253.6065573770492,
+        "sectionWidth": 390,
+        "containerWidth": 330.32786885245906,
+        "visibleContentBounds": [
+          23.442622950819676,
+          3608.032786885246,
+          353.77049180327873,
+          3772.131147540984
+        ],
+        "paddingTop": 40.49180327868853,
+        "paddingBottom": 49.016393442622956,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      }
+    },
+    "cards": {
+      "benefits": [
+        {
+          "order": 1,
+          "sourceBounds": [
+            6,
+            328,
+            176,
+            418
+          ],
+          "width": 362.29508196721315,
+          "height": 191.8032786885246,
+          "sameWidthNewImageHeight": 557.377049180328,
+          "sameWidthHeightDelta": 365.5737704918033,
+          "recommendedVisibleRatio": 1.8888888888888888
+        },
+        {
+          "order": 2,
+          "sourceBounds": [
+            6,
+            422,
+            176,
+            511
+          ],
+          "width": 362.29508196721315,
+          "height": 189.672131147541,
+          "sameWidthNewImageHeight": 557.377049180328,
+          "sameWidthHeightDelta": 367.7049180327869,
+          "recommendedVisibleRatio": 1.9101123595505618
+        },
+        {
+          "order": 3,
+          "sourceBounds": [
+            6,
+            515,
+            176,
+            604
+          ],
+          "width": 362.29508196721315,
+          "height": 189.672131147541,
+          "sameWidthNewImageHeight": 557.377049180328,
+          "sameWidthHeightDelta": 367.7049180327869,
+          "recommendedVisibleRatio": 1.9101123595505618
+        }
+      ],
+      "career": [
+        {
+          "order": 1,
+          "sourceBounds": [
+            7,
+            898,
+            172,
+            956
+          ],
+          "width": 351.6393442622951,
+          "height": 123.60655737704919,
+          "sameWidthNewImageHeight": 540.983606557377,
+          "sameWidthHeightDelta": 417.3770491803279,
+          "recommendedVisibleRatio": 2.8448275862068964
+        },
+        {
+          "order": 2,
+          "sourceBounds": [
+            7,
+            962,
+            172,
+            1020
+          ],
+          "width": 351.6393442622951,
+          "height": 123.60655737704919,
+          "sameWidthNewImageHeight": 540.983606557377,
+          "sameWidthHeightDelta": 417.3770491803279,
+          "recommendedVisibleRatio": 2.8448275862068964
+        },
+        {
+          "order": 3,
+          "sourceBounds": [
+            7,
+            1027,
+            172,
+            1084
+          ],
+          "width": 351.6393442622951,
+          "height": 121.47540983606558,
+          "sameWidthNewImageHeight": 540.983606557377,
+          "sameWidthHeightDelta": 419.5081967213115,
+          "recommendedVisibleRatio": 2.8947368421052633
+        },
+        {
+          "order": 4,
+          "sourceBounds": [
+            7,
+            1090,
+            172,
+            1147
+          ],
+          "width": 351.6393442622951,
+          "height": 121.47540983606558,
+          "sameWidthNewImageHeight": 540.983606557377,
+          "sameWidthHeightDelta": 419.5081967213115,
+          "recommendedVisibleRatio": 2.8947368421052633
+        }
+      ]
+    },
+    "pageBodyApprox": [
+      2,
+      6,
+      181,
+      1792
+    ]
+  },
+  "backgroundSamples": {
+    "desktop": [
+      {
+        "xy": [
+          10,
+          500
+        ],
+        "rgb": [
+          247,
+          246,
+          247
+        ]
+      },
+      {
+        "xy": [
+          330,
+          525
+        ],
+        "rgb": [
+          242,
+          241,
+          240
+        ]
+      },
+      {
+        "xy": [
+          20,
+          520
+        ],
+        "rgb": [
+          245,
+          245,
+          245
+        ]
+      },
+      {
+        "xy": [
+          5,
+          530
+        ],
+        "rgb": [
+          247,
+          246,
+          246
+        ]
+      }
+    ],
+    "mobile": [
+      {
+        "xy": [
+          3,
+          340
+        ],
+        "rgb": [
+          13,
+          13,
+          13
+        ]
+      },
+      {
+        "xy": [
+          179,
+          340
+        ],
+        "rgb": [
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "xy": [
+          3,
+          480
+        ],
+        "rgb": [
+          251,
+          143,
+          87
+        ]
+      },
+      {
+        "xy": [
+          179,
+          480
+        ],
+        "rgb": [
+          250,
+          158,
+          112
+        ]
+      },
+      {
+        "xy": [
+          4,
+          611
+        ],
+        "rgb": [
+          251,
+          139,
+          81
+        ]
+      },
+      {
+        "xy": [
+          90,
+          610
+        ],
+        "rgb": [
+          252,
+          123,
+          45
+        ]
+      },
+      {
+        "xy": [
+          90,
+          616
+        ],
+        "rgb": [
+          250,
+          124,
+          38
+        ]
+      }
+    ]
+  }
+}

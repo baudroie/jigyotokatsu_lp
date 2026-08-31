@@ -1,0 +1,2420 @@
+{
+  "desktop": {
+    "hero": {
+      "reference": {
+        "top": 0.0,
+        "bottom": 845.2647503782148,
+        "height": 845.2647503782148,
+        "sectionWidth": 1440,
+        "containerWidth": 1387.715582450832,
+        "visibleContentBounds": [
+          34.85627836611195,
+          15.249621785173979,
+          1422.571860816944,
+          753.767019667171
+        ],
+        "paddingTop": 15.249621785173979,
+        "paddingBottom": 91.49773071104387,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(16, 26, 30)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "bottom": 845,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "bottom": 780.4765625,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 400.6484375,
+                "element": "h1#hero-title.hero-title",
+                "height": 286.375,
+                "left": 52.4958610534668,
+                "right": 1167.5041618347168,
+                "top": 114.2734375,
+                "width": 1115.00830078125
+              },
+              {
+                "bottom": 486.1484375,
+                "element": "p.hero-sub",
+                "height": 61.5,
+                "left": 60,
+                "right": 1380,
+                "top": 424.6484375,
+                "width": 1320
+              },
+              {
+                "bottom": 582.1484375,
+                "element": "p.hero-detail.desktop-only",
+                "height": 84,
+                "left": 60,
+                "right": 1380,
+                "top": 498.1484375,
+                "width": 1320
+              },
+              {
+                "bottom": 780.4765625,
+                "element": "div.hero-actions",
+                "height": 178.328125,
+                "left": 60,
+                "right": 1380,
+                "top": 602.1484375,
+                "width": 1320
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "block",
+            "element": "div.hero-content",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "height": 666.203125,
+            "left": 60,
+            "margin": [
+              "28px",
+              "60px",
+              "0px",
+              "60px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 1380,
+            "top": 114.2734375,
+            "transform": "none",
+            "width": 1320
+          },
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "bottom": 780.4765625,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 780.4765625,
+                "element": "a.image-button.line-link",
+                "height": 178.328125,
+                "left": 60,
+                "right": 595,
+                "top": 602.1484375,
+                "width": 535
+              },
+              {
+                "bottom": 780.4765625,
+                "element": "a.image-button",
+                "height": 178.328125,
+                "left": 613,
+                "right": 1148,
+                "top": 602.1484375,
+                "width": 535
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "flex",
+            "element": "div.hero-actions",
+            "gap": "18px",
+            "gridTemplateColumns": "none",
+            "height": 178.328125,
+            "left": 60,
+            "margin": [
+              "20px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 1380,
+            "top": 602.1484375,
+            "transform": "none",
+            "width": 1320
+          }
+        ],
+        "display": "block",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "height": 845,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "right": 1440,
+        "top": 0,
+        "transform": "none",
+        "width": 1440
+      },
+      "heightDelta": -0.2647503782147851,
+      "cumulativeStartDelta": 0.0,
+      "endDelta": -0.2647503782147851
+    },
+    "benefits": {
+      "reference": {
+        "top": 788.6232980332829,
+        "bottom": 1165.5068078668683,
+        "height": 376.8835098335855,
+        "sectionWidth": 1440,
+        "containerWidth": 1326.717095310136,
+        "visibleContentBounds": [
+          60.998487140695914,
+          790.8018154311649,
+          1387.715582450832,
+          1121.9364599092285
+        ],
+        "paddingTop": 2.178517397881997,
+        "paddingBottom": 43.57034795763994,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(17, 17, 17)",
+        "borderRadius": "0px",
+        "bottom": 1089.3984375,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(17, 17, 17)",
+            "borderRadius": "0px",
+            "bottom": 1055.3984375,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 1055.3984375,
+                "element": "article.benefit-card",
+                "height": 266.3984375,
+                "left": 50,
+                "right": 494,
+                "top": 789,
+                "width": 444
+              },
+              {
+                "bottom": 1055.3984375,
+                "element": "article.benefit-card",
+                "height": 266.3984375,
+                "left": 498,
+                "right": 942,
+                "top": 789,
+                "width": 444
+              },
+              {
+                "bottom": 1055.3984375,
+                "element": "article.benefit-card",
+                "height": 266.3984375,
+                "left": 946,
+                "right": 1390,
+                "top": 789,
+                "width": 444
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "grid",
+            "element": "div.benefit-list",
+            "gap": "4px",
+            "gridTemplateColumns": "444px 444px 444px",
+            "height": 266.3984375,
+            "left": 50,
+            "margin": [
+              "0px",
+              "50px",
+              "0px",
+              "50px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 1390,
+            "top": 789,
+            "transform": "none",
+            "width": 1340
+          }
+        ],
+        "display": "block",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "height": 300.3984375,
+        "left": 0,
+        "margin": [
+          "-56px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "0px",
+          "0px",
+          "34px",
+          "0px"
+        ],
+        "right": 1440,
+        "top": 789,
+        "transform": "none",
+        "width": 1440
+      },
+      "heightDelta": -76.48507233358549,
+      "cumulativeStartDelta": 0.37670196671706435,
+      "endDelta": -76.10837036686826
+    },
+    "frontline": {
+      "reference": {
+        "top": 1165.5068078668683,
+        "bottom": 1760.2420574886535,
+        "height": 594.7352496217852,
+        "sectionWidth": 1440,
+        "containerWidth": 899.7276853252647,
+        "visibleContentBounds": [
+          259.24357034795764,
+          1206.8986384266263,
+          1158.9712556732225,
+          1697.0650529500756
+        ],
+        "paddingTop": 41.39183055975794,
+        "paddingBottom": 63.17700453857791,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(25, 25, 25)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "bottom": 1684.625,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "bottom": 1456.234375,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 1456.234375,
+                "element": "article.frontline-step",
+                "height": 243.5,
+                "left": 226,
+                "right": 456,
+                "top": 1212.734375,
+                "width": 230
+              },
+              {
+                "bottom": 1316.234375,
+                "element": "img.frontline-arrow",
+                "height": 38.5,
+                "left": 475,
+                "right": 552,
+                "top": 1277.734375,
+                "width": 77
+              },
+              {
+                "bottom": 1456.234375,
+                "element": "article.frontline-step",
+                "height": 243.5,
+                "left": 571,
+                "right": 801,
+                "top": 1212.734375,
+                "width": 230
+              },
+              {
+                "bottom": 1316.234375,
+                "element": "img.frontline-arrow",
+                "height": 38.5,
+                "left": 820,
+                "right": 897,
+                "top": 1277.734375,
+                "width": 77
+              },
+              {
+                "bottom": 1456.234375,
+                "element": "article.frontline-step",
+                "height": 243.5,
+                "left": 916,
+                "right": 1146,
+                "top": 1212.734375,
+                "width": 230
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "grid",
+            "element": "div.frontline-diagram",
+            "gap": "normal",
+            "gridTemplateColumns": "230px 115px 230px 115px 230px",
+            "height": 243.5,
+            "left": 0,
+            "margin": [
+              "18px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "68px",
+              "0px",
+              "0px"
+            ],
+            "right": 1440,
+            "top": 1212.734375,
+            "transform": "none",
+            "width": 1440
+          }
+        ],
+        "display": "block",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "height": 595.2265625,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "20px",
+          "0px",
+          "58px",
+          "0px"
+        ],
+        "right": 1440,
+        "top": 1089.3984375,
+        "transform": "none",
+        "width": 1440
+      },
+      "heightDelta": 0.4913128782147851,
+      "cumulativeStartDelta": -76.10837036686826,
+      "endDelta": -75.61705748865347
+    },
+    "field": {
+      "reference": {
+        "top": 1760.2420574886535,
+        "bottom": 2195.945537065053,
+        "height": 435.7034795763994,
+        "sectionWidth": 1440,
+        "containerWidth": 1407.32223903177,
+        "visibleContentBounds": [
+          10.892586989409985,
+          1784.2057488653554,
+          1418.21482602118,
+          2178.517397881997
+        ],
+        "paddingTop": 23.963691376701966,
+        "paddingBottom": 17.428139183055976,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(255, 255, 255)",
+        "border": "0px none rgb(17, 17, 17)",
+        "borderRadius": "0px",
+        "bottom": 2119.8984375,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(17, 17, 17)",
+            "borderRadius": "0px",
+            "bottom": 2114.8984375,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 2114.890625,
+                "element": "img",
+                "height": 351.1015625,
+                "left": 0,
+                "right": 263.328125,
+                "top": 1763.7890625,
+                "width": 263.328125
+              },
+              {
+                "bottom": 2114.8984375,
+                "element": "img",
+                "height": 351.109375,
+                "left": 235.328125,
+                "right": 498.6640625,
+                "top": 1763.7890625,
+                "width": 263.3359375
+              },
+              {
+                "bottom": 2114.890625,
+                "element": "img",
+                "height": 351.1015625,
+                "left": 470.6640625,
+                "right": 733.9921875,
+                "top": 1763.7890625,
+                "width": 263.328125
+              },
+              {
+                "bottom": 2114.8984375,
+                "element": "img",
+                "height": 351.109375,
+                "left": 705.9921875,
+                "right": 969.328125,
+                "top": 1763.7890625,
+                "width": 263.3359375
+              },
+              {
+                "bottom": 2114.8984375,
+                "element": "img",
+                "height": 351.109375,
+                "left": 941.328125,
+                "right": 1204.6640625,
+                "top": 1763.7890625,
+                "width": 263.3359375
+              },
+              {
+                "bottom": 2114.890625,
+                "element": "img",
+                "height": 351.1015625,
+                "left": 1176.6640625,
+                "right": 1439.9921875,
+                "top": 1763.7890625,
+                "width": 263.328125
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "grid",
+            "element": "div.field-grid",
+            "gap": "0px",
+            "gridTemplateColumns": "235.328px 235.336px 235.328px 235.336px 235.336px 235.328px",
+            "height": 351.109375,
+            "left": 14,
+            "margin": [
+              "18px",
+              "14px",
+              "0px",
+              "14px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 1426,
+            "top": 1763.7890625,
+            "transform": "none",
+            "width": 1412
+          }
+        ],
+        "display": "block",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "height": 435.2734375,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "7px",
+          "0px",
+          "5px",
+          "0px"
+        ],
+        "right": 1440,
+        "top": 1684.625,
+        "transform": "none",
+        "width": 1440
+      },
+      "heightDelta": -0.4300420763993884,
+      "cumulativeStartDelta": -75.61705748865347,
+      "endDelta": -76.04709956505303
+    },
+    "career": {
+      "reference": {
+        "top": 2195.945537065053,
+        "bottom": 2694.8260211800302,
+        "height": 498.8804841149773,
+        "sectionWidth": 1440,
+        "containerWidth": 1326.717095310136,
+        "visibleContentBounds": [
+          60.998487140695914,
+          2222.0877458396367,
+          1387.715582450832,
+          2657.7912254160365
+        ],
+        "paddingTop": 26.142208774583963,
+        "paddingBottom": 37.03479576399395,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(255, 255, 255)",
+        "border": "0px none rgb(17, 17, 17)",
+        "borderRadius": "0px",
+        "bottom": 2525.3671875,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(17, 17, 17)",
+            "borderRadius": "0px",
+            "bottom": 2437.6171875,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 2437.6171875,
+                "element": "article.career-item",
+                "height": 215.3125,
+                "left": 50,
+                "right": 381.25,
+                "top": 2222.3046875,
+                "width": 331.25
+              },
+              {
+                "bottom": 2437.6171875,
+                "element": "article.career-item",
+                "height": 215.3125,
+                "left": 386.25,
+                "right": 717.5,
+                "top": 2222.3046875,
+                "width": 331.25
+              },
+              {
+                "bottom": 2437.6171875,
+                "element": "article.career-item",
+                "height": 215.3125,
+                "left": 722.5,
+                "right": 1053.75,
+                "top": 2222.3046875,
+                "width": 331.25
+              },
+              {
+                "bottom": 2437.6171875,
+                "element": "article.career-item",
+                "height": 215.3125,
+                "left": 1058.75,
+                "right": 1390,
+                "top": 2222.3046875,
+                "width": 331.25
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "grid",
+            "element": "div.career-grid",
+            "gap": "5px",
+            "gridTemplateColumns": "331.25px 331.25px 331.25px 331.25px",
+            "height": 215.3125,
+            "left": 50,
+            "margin": [
+              "29px",
+              "50px",
+              "0px",
+              "50px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 1390,
+            "top": 2222.3046875,
+            "transform": "none",
+            "width": 1340
+          },
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(17, 17, 17)",
+            "borderRadius": "0px",
+            "bottom": 2497.3671875,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 2660.1171875,
+                "element": "img",
+                "height": 350,
+                "left": 195,
+                "right": 1245,
+                "top": 2310.1171875,
+                "width": 1050
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "flow-root",
+            "element": "div.career-note.desktop-only",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "height": 29.75,
+            "left": 195,
+            "margin": [
+              "30px",
+              "195px",
+              "0px",
+              "195px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 1245,
+            "top": 2467.6171875,
+            "transform": "none",
+            "width": 1050
+          }
+        ],
+        "display": "block",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "height": 405.46875,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "25px",
+          "0px",
+          "28px",
+          "0px"
+        ],
+        "right": 1440,
+        "top": 2119.8984375,
+        "transform": "none",
+        "width": 1440
+      },
+      "heightDelta": -93.41173411497732,
+      "cumulativeStartDelta": -76.04709956505303,
+      "endDelta": -169.45883368003024
+    },
+    "people": {
+      "reference": {
+        "top": 2694.8260211800302,
+        "bottom": 3165.3857791225414,
+        "height": 470.55975794251134,
+        "sectionWidth": 1440,
+        "containerWidth": 1363.75189107413,
+        "visibleContentBounds": [
+          41.39183055975794,
+          2694.8260211800302,
+          1405.143721633888,
+          3130.5295007564296
+        ],
+        "paddingTop": 0.0,
+        "paddingBottom": 34.85627836611195,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(248, 248, 248)",
+        "border": "0px none rgb(17, 17, 17)",
+        "borderRadius": "0px",
+        "bottom": 2995.3671875,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgb(255, 255, 255)",
+            "border": "1px solid rgb(218, 218, 218)",
+            "borderRadius": "28px",
+            "bottom": 2971.3671875,
+            "boxShadow": "rgba(0, 0, 0, 0.05) 0px 2px 12px 0px",
+            "children": [
+              {
+                "bottom": 2970.3671875,
+                "element": "article.person-story.story-a",
+                "height": 438,
+                "left": 41,
+                "right": 720,
+                "top": 2532.3671875,
+                "width": 679
+              },
+              {
+                "bottom": 2935.328125,
+                "element": "div.people-divider.desktop-only",
+                "height": 332.8828125,
+                "left": 720,
+                "right": 721,
+                "top": 2602.4453125,
+                "width": 1
+              },
+              {
+                "bottom": 2970.3671875,
+                "element": "article.person-story.story-b.desktop-only",
+                "height": 438,
+                "left": 720,
+                "right": 1399,
+                "top": 2532.3671875,
+                "width": 679
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "grid",
+            "element": "div.people-panel",
+            "gap": "normal",
+            "gridTemplateColumns": "679px 679px",
+            "height": 440,
+            "left": 40,
+            "margin": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 1400,
+            "top": 2531.3671875,
+            "transform": "none",
+            "width": 1360
+          }
+        ],
+        "display": "grid",
+        "gap": "normal",
+        "gridTemplateColumns": "1364px",
+        "height": 470,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "6px",
+          "38px",
+          "24px",
+          "38px"
+        ],
+        "right": 1440,
+        "top": 2525.3671875,
+        "transform": "none",
+        "width": 1440
+      },
+      "heightDelta": -0.5597579425113395,
+      "cumulativeStartDelta": -169.45883368003024,
+      "endDelta": -170.0185916225414
+    },
+    "flow": {
+      "reference": {
+        "top": 3165.3857791225414,
+        "bottom": 3492.163388804841,
+        "height": 326.77760968229956,
+        "sectionWidth": 1440,
+        "containerWidth": 1346.3237518910742,
+        "visibleContentBounds": [
+          60.998487140695914,
+          3167.5642965204233,
+          1407.32223903177,
+          3435.5219364599093
+        ],
+        "paddingTop": 2.178517397881997,
+        "paddingBottom": 56.64145234493192,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(255, 255, 255)",
+        "border": "0px none rgb(17, 17, 17)",
+        "borderRadius": "0px",
+        "bottom": 3322.2734375,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(17, 17, 17)",
+            "borderRadius": "0px",
+            "bottom": 3265.2734375,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 3265.2734375,
+                "element": "article.flow-card",
+                "height": 206,
+                "left": 50,
+                "right": 376,
+                "top": 3059.2734375,
+                "width": 326
+              },
+              {
+                "bottom": 3265.2734375,
+                "element": "article.flow-card",
+                "height": 206,
+                "left": 388,
+                "right": 714,
+                "top": 3059.2734375,
+                "width": 326
+              },
+              {
+                "bottom": 3265.2734375,
+                "element": "article.flow-card",
+                "height": 206,
+                "left": 726,
+                "right": 1052,
+                "top": 3059.2734375,
+                "width": 326
+              },
+              {
+                "bottom": 3265.2734375,
+                "element": "article.flow-card",
+                "height": 206,
+                "left": 1064,
+                "right": 1390,
+                "top": 3059.2734375,
+                "width": 326
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "grid",
+            "element": "div.flow-grid",
+            "gap": "12px",
+            "gridTemplateColumns": "326px 326px 326px 326px",
+            "height": 206,
+            "left": 50,
+            "margin": [
+              "8px",
+              "50px",
+              "0px",
+              "50px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 1390,
+            "top": 3059.2734375,
+            "transform": "none",
+            "width": 1340
+          }
+        ],
+        "display": "block",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "height": 326.90625,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "0px",
+          "0px",
+          "57px",
+          "0px"
+        ],
+        "right": 1440,
+        "top": 2995.3671875,
+        "transform": "none",
+        "width": 1440
+      },
+      "heightDelta": 0.12864031770044448,
+      "cumulativeStartDelta": -170.0185916225414,
+      "endDelta": -169.8899513048409
+    },
+    "final-cta": {
+      "reference": {
+        "top": 3492.163388804841,
+        "bottom": 3781.9062027231466,
+        "height": 289.7428139183056,
+        "sectionWidth": 1440,
+        "containerWidth": 1278.7897125567322,
+        "visibleContentBounds": [
+          102.39031770045386,
+          3566.232980332829,
+          1381.180030257186,
+          3710.0151285930406
+        ],
+        "paddingTop": 74.0695915279879,
+        "paddingBottom": 71.89107413010589,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(255, 107, 0)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "bottom": 3612.2734375,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "bottom": 3544.9765625,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 3473.5703125,
+                "element": "h2#final-heading",
+                "height": 84.0078125,
+                "left": 90,
+                "right": 720,
+                "top": 3389.5625,
+                "width": 630
+              },
+              {
+                "bottom": 3626.875,
+                "element": "img.final-subtitle",
+                "height": 210,
+                "left": 90,
+                "right": 720,
+                "top": 3416.875,
+                "width": 630
+              },
+              {
+                "bottom": 0,
+                "element": "p.final-subtext-mobile.mobile-only",
+                "height": 0,
+                "left": 0,
+                "right": 0,
+                "top": 0,
+                "width": 0
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "block",
+            "element": "div.final-copy",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "height": 155.4140625,
+            "left": 70,
+            "margin": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "20px"
+            ],
+            "right": 720,
+            "top": 3389.5625,
+            "transform": "none",
+            "width": 650
+          },
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "bottom": 3563.8671875,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 3563.8671875,
+                "element": "img",
+                "height": 193.1953125,
+                "left": 790.3984375,
+                "right": 1370,
+                "top": 3370.671875,
+                "width": 579.6015625
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "block",
+            "element": "a.final-line.line-link",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "height": 193.1953125,
+            "left": 790.3984375,
+            "margin": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 1370,
+            "top": 3370.671875,
+            "transform": "none",
+            "width": 579.6015625
+          }
+        ],
+        "display": "grid",
+        "gap": "normal 40px",
+        "gridTemplateColumns": "680.398px 579.602px",
+        "height": 290,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "35px",
+          "70px",
+          "35px",
+          "70px"
+        ],
+        "right": 1440,
+        "top": 3322.2734375,
+        "transform": "none",
+        "width": 1440
+      },
+      "heightDelta": 0.2571860816943854,
+      "cumulativeStartDelta": -169.8899513048409,
+      "endDelta": -169.63276522314663
+    },
+    "site-footer": {
+      "reference": {
+        "top": 3781.9062027231466,
+        "bottom": 3930.0453857791226,
+        "height": 148.1391830559758,
+        "sectionWidth": 1440,
+        "containerWidth": 1352.8593040847202,
+        "visibleContentBounds": [
+          43.57034795763994,
+          3814.5839636913765,
+          1396.42965204236,
+          3890.8320726172465
+        ],
+        "paddingTop": 32.677760968229954,
+        "paddingBottom": 39.213313161875945,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(23, 23, 23)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "bottom": 3760.2734375,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [],
+        "display": "grid",
+        "gap": "normal",
+        "gridTemplateColumns": "330px 678.641px 351.359px",
+        "height": 148,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "24px",
+          "40px",
+          "24px",
+          "40px"
+        ],
+        "right": 1440,
+        "top": 3612.2734375,
+        "transform": "none",
+        "width": 1440
+      },
+      "heightDelta": -0.13918305597579206,
+      "cumulativeStartDelta": -169.63276522314663,
+      "endDelta": -169.77194827912263
+    }
+  },
+  "mobile": {
+    "hero": {
+      "reference": {
+        "top": 0.0,
+        "bottom": 754.4262295081968,
+        "height": 754.4262295081968,
+        "sectionWidth": 390,
+        "containerWidth": 347.3770491803279,
+        "visibleContentBounds": [
+          21.311475409836067,
+          38.36065573770492,
+          368.688524590164,
+          660.6557377049181
+        ],
+        "paddingTop": 38.36065573770492,
+        "paddingBottom": 93.7704918032787,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(16, 26, 30)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "bottom": 756.890625,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "bottom": 670.890625,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 323.390625,
+                "element": "h1#hero-title.hero-title",
+                "height": 191.390625,
+                "left": 6.984821319580078,
+                "right": 383.0151557922363,
+                "top": 132,
+                "width": 376.03033447265625
+              },
+              {
+                "bottom": 406.890625,
+                "element": "p.hero-sub",
+                "height": 67.5,
+                "left": 12,
+                "right": 287,
+                "top": 339.390625,
+                "width": 275
+              },
+              {
+                "bottom": 0,
+                "element": "p.hero-detail.desktop-only",
+                "height": 0,
+                "left": 0,
+                "right": 0,
+                "top": 0,
+                "width": 0
+              },
+              {
+                "bottom": 670.890625,
+                "element": "div.hero-actions",
+                "height": 244,
+                "left": 12,
+                "right": 378,
+                "top": 426.890625,
+                "width": 366
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "block",
+            "element": "div.hero-content",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "height": 538.890625,
+            "left": 12,
+            "margin": [
+              "46px",
+              "12px",
+              "0px",
+              "12px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 378,
+            "top": 132,
+            "transform": "none",
+            "width": 366
+          },
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "bottom": 670.890625,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 548.890625,
+                "element": "a.image-button.line-link",
+                "height": 122,
+                "left": 12,
+                "right": 378,
+                "top": 426.890625,
+                "width": 366
+              },
+              {
+                "bottom": 670.890625,
+                "element": "a.image-button",
+                "height": 122,
+                "left": 12,
+                "right": 378,
+                "top": 548.890625,
+                "width": 366
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "grid",
+            "element": "div.hero-actions",
+            "gap": "0px",
+            "gridTemplateColumns": "366px",
+            "height": 244,
+            "left": 12,
+            "margin": [
+              "20px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 378,
+            "top": 426.890625,
+            "transform": "none",
+            "width": 366
+          }
+        ],
+        "display": "block",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "height": 756.890625,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "0px",
+          "0px",
+          "86px",
+          "0px"
+        ],
+        "right": 390,
+        "top": 0,
+        "transform": "none",
+        "width": 390
+      },
+      "heightDelta": 2.4643954918032023,
+      "cumulativeStartDelta": 0.0,
+      "endDelta": 2.4643954918032023
+    },
+    "benefits": {
+      "reference": {
+        "top": 699.016393442623,
+        "bottom": 1317.049180327869,
+        "height": 618.032786885246,
+        "sectionWidth": 390,
+        "containerWidth": 362.29508196721315,
+        "visibleContentBounds": [
+          12.78688524590164,
+          699.016393442623,
+          375.0819672131148,
+          1287.2131147540983
+        ],
+        "paddingTop": 0.0,
+        "paddingBottom": 29.836065573770494,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgba(0, 0, 0, 0)",
+        "border": "",
+        "borderRadius": "0px",
+        "bottom": 2472.71875,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(17, 17, 17)",
+            "borderRadius": "0px",
+            "bottom": 2446.71875,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 1277.5,
+                "element": "article.benefit-card",
+                "height": 584.609375,
+                "left": 5,
+                "right": 385,
+                "top": 692.890625,
+                "width": 380
+              },
+              {
+                "bottom": 1862.109375,
+                "element": "article.benefit-card",
+                "height": 584.609375,
+                "left": 5,
+                "right": 385,
+                "top": 1277.5,
+                "width": 380
+              },
+              {
+                "bottom": 2446.71875,
+                "element": "article.benefit-card",
+                "height": 584.609375,
+                "left": 5,
+                "right": 385,
+                "top": 1862.109375,
+                "width": 380
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "grid",
+            "element": "div.benefit-list",
+            "gap": "0px",
+            "gridTemplateColumns": "380px",
+            "height": 1753.828125,
+            "left": 5,
+            "margin": [
+              "0px",
+              "5px",
+              "0px",
+              "5px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 385,
+            "top": 692.890625,
+            "transform": "none",
+            "width": 380
+          }
+        ],
+        "display": "block",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "height": 1779.828125,
+        "left": 0,
+        "margin": [
+          "-64px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "0px",
+          "0px",
+          "18px",
+          "0px"
+        ],
+        "right": 390,
+        "top": 692.890625,
+        "transform": "none",
+        "width": 390
+      },
+      "heightDelta": 1161.795338114754,
+      "cumulativeStartDelta": -6.125768442622984,
+      "endDelta": 1155.669569672131
+    },
+    "frontline": {
+      "reference": {
+        "top": 1317.049180327869,
+        "bottom": 1828.5245901639346,
+        "height": 511.47540983606564,
+        "sectionWidth": 390,
+        "containerWidth": 349.5081967213115,
+        "visibleContentBounds": [
+          17.049180327868854,
+          1355.409836065574,
+          366.55737704918033,
+          1788.032786885246
+        ],
+        "paddingTop": 38.36065573770492,
+        "paddingBottom": 40.49180327868853,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(25, 25, 25)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "bottom": 2984,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "bottom": 2721.328125,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 2721.328125,
+                "element": "article.frontline-step",
+                "height": 143.9375,
+                "left": 10,
+                "right": 133.328125,
+                "top": 2577.390625,
+                "width": 123.328125
+              },
+              {
+                "bottom": 2631.390625,
+                "element": "img.frontline-arrow",
+                "height": 14,
+                "left": 119.328125,
+                "right": 147.328125,
+                "top": 2617.390625,
+                "width": 28
+              },
+              {
+                "bottom": 2721.328125,
+                "element": "article.frontline-step",
+                "height": 143.9375,
+                "left": 133.328125,
+                "right": 256.6640625,
+                "top": 2577.390625,
+                "width": 123.3359375
+              },
+              {
+                "bottom": 2631.390625,
+                "element": "img.frontline-arrow",
+                "height": 14,
+                "left": 242.6640625,
+                "right": 270.6640625,
+                "top": 2617.390625,
+                "width": 28
+              },
+              {
+                "bottom": 2721.328125,
+                "element": "article.frontline-step",
+                "height": 143.9375,
+                "left": 256.6640625,
+                "right": 380,
+                "top": 2577.390625,
+                "width": 123.3359375
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "grid",
+            "element": "div.frontline-diagram",
+            "gap": "normal",
+            "gridTemplateColumns": "123.328px 123.336px 123.336px",
+            "height": 143.9375,
+            "left": 10,
+            "margin": [
+              "26px",
+              "10px",
+              "0px",
+              "10px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 380,
+            "top": 2577.390625,
+            "transform": "none",
+            "width": 370
+          }
+        ],
+        "display": "block",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "height": 511.28125,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "30px",
+          "0px",
+          "52px",
+          "0px"
+        ],
+        "right": 390,
+        "top": 2472.71875,
+        "transform": "none",
+        "width": 390
+      },
+      "heightDelta": -0.19415983606563714,
+      "cumulativeStartDelta": 1155.669569672131,
+      "endDelta": 1155.4754098360654
+    },
+    "career": {
+      "reference": {
+        "top": 1828.5245901639346,
+        "bottom": 2555.2459016393445,
+        "height": 726.7213114754098,
+        "sectionWidth": 390,
+        "containerWidth": 351.6393442622951,
+        "visibleContentBounds": [
+          14.918032786885247,
+          1864.754098360656,
+          366.55737704918033,
+          2529.672131147541
+        ],
+        "paddingTop": 36.22950819672131,
+        "paddingBottom": 25.57377049180328,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(255, 255, 255)",
+        "border": "0px none rgb(17, 17, 17)",
+        "borderRadius": "0px",
+        "bottom": 5315.421875,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(17, 17, 17)",
+            "borderRadius": "0px",
+            "bottom": 5190.8125,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 3584.6640625,
+                "element": "article.career-item",
+                "height": 535.3828125,
+                "left": 7,
+                "right": 383,
+                "top": 3049.28125,
+                "width": 376
+              },
+              {
+                "bottom": 4120.046875,
+                "element": "article.career-item",
+                "height": 535.3828125,
+                "left": 7,
+                "right": 383,
+                "top": 3584.6640625,
+                "width": 376
+              },
+              {
+                "bottom": 4655.4296875,
+                "element": "article.career-item",
+                "height": 535.3828125,
+                "left": 7,
+                "right": 383,
+                "top": 4120.046875,
+                "width": 376
+              },
+              {
+                "bottom": 5190.8125,
+                "element": "article.career-item",
+                "height": 535.3828125,
+                "left": 7,
+                "right": 383,
+                "top": 4655.4296875,
+                "width": 376
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "grid",
+            "element": "div.career-grid",
+            "gap": "0px",
+            "gridTemplateColumns": "376px",
+            "height": 2141.53125,
+            "left": 7,
+            "margin": [
+              "12px",
+              "7px",
+              "0px",
+              "7px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 383,
+            "top": 3049.28125,
+            "transform": "none",
+            "width": 376
+          },
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(17, 17, 17)",
+            "borderRadius": "0px",
+            "bottom": 5291.421875,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 5312.65625,
+                "element": "img",
+                "height": 118,
+                "left": 18,
+                "right": 372,
+                "top": 5194.65625,
+                "width": 354
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "flow-root",
+            "element": "a.career-details.mobile-only",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "height": 82.609375,
+            "left": 18,
+            "margin": [
+              "18px",
+              "18px",
+              "0px",
+              "18px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 372,
+            "top": 5208.8125,
+            "transform": "none",
+            "width": 354
+          }
+        ],
+        "display": "block",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "height": 2331.421875,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "26px",
+          "0px",
+          "24px",
+          "0px"
+        ],
+        "right": 390,
+        "top": 2984,
+        "transform": "none",
+        "width": 390
+      },
+      "heightDelta": 1604.70056352459,
+      "cumulativeStartDelta": 1155.4754098360654,
+      "endDelta": 2760.1759733606555
+    },
+    "people": {
+      "reference": {
+        "top": 2555.2459016393445,
+        "bottom": 2883.44262295082,
+        "height": 328.1967213114754,
+        "sectionWidth": 390,
+        "containerWidth": 345.2459016393443,
+        "visibleContentBounds": [
+          21.311475409836067,
+          2585.081967213115,
+          366.55737704918033,
+          2870.655737704918
+        ],
+        "paddingTop": 29.836065573770494,
+        "paddingBottom": 12.78688524590164,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(248, 248, 248)",
+        "border": "",
+        "borderRadius": "0px",
+        "bottom": 5643.4921875,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgb(255, 255, 255)",
+            "border": "1px solid rgb(218, 218, 218)",
+            "borderRadius": "12px",
+            "bottom": 5591.828125,
+            "boxShadow": "rgba(0, 0, 0, 0.05) 0px 2px 12px 0px",
+            "children": [
+              {
+                "bottom": 5590.828125,
+                "element": "article.person-story.story-a",
+                "height": 210,
+                "left": 17,
+                "right": 373,
+                "top": 5380.828125,
+                "width": 356
+              },
+              {
+                "bottom": 0,
+                "element": "div.people-divider.desktop-only",
+                "height": 0,
+                "left": 0,
+                "right": 0,
+                "top": 0,
+                "width": 0
+              },
+              {
+                "bottom": 0,
+                "element": "article.person-story.story-b.desktop-only",
+                "height": 0,
+                "left": 0,
+                "right": 0,
+                "top": 0,
+                "width": 0
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "block",
+            "element": "div.people-panel",
+            "gap": "normal",
+            "gridTemplateColumns": "repeat(2, minmax(0px, 1fr))",
+            "height": 212,
+            "left": 16,
+            "margin": [
+              "15px",
+              "1px",
+              "0px",
+              "1px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 374,
+            "top": 5379.828125,
+            "transform": "none",
+            "width": 358
+          }
+        ],
+        "display": "block",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "height": 328.0703125,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "22px",
+          "15px",
+          "1px",
+          "15px"
+        ],
+        "right": 390,
+        "top": 5315.421875,
+        "transform": "none",
+        "width": 390
+      },
+      "heightDelta": -0.1264088114754145,
+      "cumulativeStartDelta": 2760.1759733606555,
+      "endDelta": 2760.04956454918
+    },
+    "flow": {
+      "reference": {
+        "top": 2883.44262295082,
+        "bottom": 3292.6229508196725,
+        "height": 409.1803278688525,
+        "sectionWidth": 390,
+        "containerWidth": 345.2459016393443,
+        "visibleContentBounds": [
+          21.311475409836067,
+          2911.1475409836066,
+          366.55737704918033,
+          3271.3114754098365
+        ],
+        "paddingTop": 27.704918032786885,
+        "paddingBottom": 21.311475409836067,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(255, 255, 255)",
+        "border": "0px none rgb(17, 17, 17)",
+        "borderRadius": "0px",
+        "bottom": 6052.609375,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(17, 17, 17)",
+            "borderRadius": "0px",
+            "bottom": 6030.609375,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 5784.609375,
+                "element": "article.flow-card",
+                "height": 74,
+                "left": 18,
+                "right": 372,
+                "top": 5710.609375,
+                "width": 354
+              },
+              {
+                "bottom": 5866.609375,
+                "element": "article.flow-card",
+                "height": 74,
+                "left": 18,
+                "right": 372,
+                "top": 5792.609375,
+                "width": 354
+              },
+              {
+                "bottom": 5948.609375,
+                "element": "article.flow-card",
+                "height": 74,
+                "left": 18,
+                "right": 372,
+                "top": 5874.609375,
+                "width": 354
+              },
+              {
+                "bottom": 6030.609375,
+                "element": "article.flow-card",
+                "height": 74,
+                "left": 18,
+                "right": 372,
+                "top": 5956.609375,
+                "width": 354
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "grid",
+            "element": "div.flow-grid",
+            "gap": "8px",
+            "gridTemplateColumns": "354px",
+            "height": 320,
+            "left": 18,
+            "margin": [
+              "14px",
+              "18px",
+              "0px",
+              "18px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 372,
+            "top": 5710.609375,
+            "transform": "none",
+            "width": 354
+          }
+        ],
+        "display": "block",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "height": 409.1171875,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "18px",
+          "0px",
+          "22px",
+          "0px"
+        ],
+        "right": 390,
+        "top": 5643.4921875,
+        "transform": "none",
+        "width": 390
+      },
+      "heightDelta": -0.06314036885248697,
+      "cumulativeStartDelta": 2760.04956454918,
+      "endDelta": 2759.9864241803275
+    },
+    "final-cta": {
+      "reference": {
+        "top": 3292.6229508196725,
+        "bottom": 3567.540983606558,
+        "height": 274.91803278688525,
+        "sectionWidth": 390,
+        "containerWidth": 345.2459016393443,
+        "visibleContentBounds": [
+          21.311475409836067,
+          3330.9836065573772,
+          366.55737704918033,
+          3531.3114754098365
+        ],
+        "paddingTop": 38.36065573770492,
+        "paddingBottom": 36.22950819672131,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(255, 107, 0)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "bottom": 6329.1640625,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "bottom": 6176.1640625,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 6121.9765625,
+                "element": "h2#final-heading",
+                "height": 44.3671875,
+                "left": 28.6171875,
+                "right": 361.375,
+                "top": 6077.609375,
+                "width": 332.7578125
+              },
+              {
+                "bottom": 0,
+                "element": "img.final-subtitle",
+                "height": 0,
+                "left": 0,
+                "right": 0,
+                "top": 0,
+                "width": 0
+              },
+              {
+                "bottom": 6176.1640625,
+                "element": "p.final-subtext-mobile.mobile-only",
+                "height": 46.1875,
+                "left": 18,
+                "right": 372,
+                "top": 6129.9765625,
+                "width": 354
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "block",
+            "element": "div.final-copy",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "height": 98.5546875,
+            "left": 18,
+            "margin": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 372,
+            "top": 6077.609375,
+            "transform": "none",
+            "width": 354
+          },
+          {
+            "aspectRatio": "auto",
+            "background": "rgba(0, 0, 0, 0)",
+            "border": "0px none rgb(255, 255, 255)",
+            "borderRadius": "0px",
+            "bottom": 6302.1640625,
+            "boxShadow": "none",
+            "children": [
+              {
+                "bottom": 6302.1640625,
+                "element": "img",
+                "height": 118,
+                "left": 18,
+                "right": 372,
+                "top": 6184.1640625,
+                "width": 354
+              }
+            ],
+            "clip": "auto",
+            "clipPath": "none",
+            "contain": "none",
+            "display": "block",
+            "element": "a.final-line.line-link",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "height": 118,
+            "left": 18,
+            "margin": [
+              "8px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "maskImage": "none",
+            "objectFit": "fill",
+            "overflowX": "visible",
+            "overflowY": "visible",
+            "padding": [
+              "0px",
+              "0px",
+              "0px",
+              "0px"
+            ],
+            "right": 372,
+            "top": 6184.1640625,
+            "transform": "none",
+            "width": 354
+          }
+        ],
+        "display": "block",
+        "gap": "normal 40px",
+        "gridTemplateColumns": "minmax(0px, 1.08fr) minmax(0px, 0.92fr)",
+        "height": 276.5546875,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "25px",
+          "18px",
+          "27px",
+          "18px"
+        ],
+        "right": 390,
+        "top": 6052.609375,
+        "transform": "none",
+        "width": 390
+      },
+      "heightDelta": 1.6366547131147513,
+      "cumulativeStartDelta": 2759.9864241803275,
+      "endDelta": 2761.623078893442
+    },
+    "site-footer": {
+      "reference": {
+        "top": 3567.540983606558,
+        "bottom": 3821.1475409836066,
+        "height": 253.6065573770492,
+        "sectionWidth": 390,
+        "containerWidth": 330.32786885245906,
+        "visibleContentBounds": [
+          23.442622950819676,
+          3608.032786885246,
+          353.77049180327873,
+          3772.131147540984
+        ],
+        "paddingTop": 40.49180327868853,
+        "paddingBottom": 49.016393442622956,
+        "note": "Reference container/padding are visible raster envelopes/distances, not CSS declarations. Current container and CSS padding are recorded separately. Transparent gutters are not double-counted."
+      },
+      "current": {
+        "aspectRatio": "auto",
+        "background": "rgb(23, 23, 23)",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "bottom": 6583.1640625,
+        "boxShadow": "none",
+        "clip": "auto",
+        "clipPath": "none",
+        "contain": "none",
+        "containers": [],
+        "display": "block",
+        "gap": "normal",
+        "gridTemplateColumns": "330px 1fr auto",
+        "height": 254,
+        "left": 0,
+        "margin": [
+          "0px",
+          "0px",
+          "0px",
+          "0px"
+        ],
+        "maskImage": "none",
+        "objectFit": "fill",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "padding": [
+          "31px",
+          "22px",
+          "26px",
+          "22px"
+        ],
+        "right": 390,
+        "top": 6329.1640625,
+        "transform": "none",
+        "width": 390
+      },
+      "heightDelta": 0.39344262295080057,
+      "cumulativeStartDelta": 2761.623078893442,
+      "endDelta": 2762.0165215163934
+    }
+  }
+}

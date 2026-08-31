@@ -1,0 +1,317 @@
+[
+  {
+    "cards": [
+      {
+        "complete": true,
+        "height": 646.1484375,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_01_sp.png",
+        "width": 420
+      },
+      {
+        "complete": true,
+        "height": 646.1484375,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_02_sp.png",
+        "width": 420
+      },
+      {
+        "complete": true,
+        "height": 646.1484375,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_03_sp.png",
+        "width": 420
+      },
+      {
+        "complete": true,
+        "height": 587.6875,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_01_year1_candidate.png",
+        "width": 382
+      },
+      {
+        "complete": true,
+        "height": 587.6875,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_02_year2-3_advisor.png",
+        "width": 382
+      },
+      {
+        "complete": true,
+        "height": 587.6875,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_03_year4-5_business-head.png",
+        "width": 382
+      },
+      {
+        "complete": true,
+        "height": 587.6875,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_04_year6-plus_president.png",
+        "width": 382
+      }
+    ],
+    "grid": "410px",
+    "scrollWidth": 767,
+    "width": 767
+  },
+  {
+    "cards": [
+      {
+        "complete": true,
+        "height": 144,
+        "naturalHeight": 960,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_01_pc.png",
+        "width": 240
+      },
+      {
+        "complete": true,
+        "height": 144,
+        "naturalHeight": 960,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_02_pc.png",
+        "width": 240
+      },
+      {
+        "complete": true,
+        "height": 144,
+        "naturalHeight": 960,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_03_pc.png",
+        "width": 240
+      },
+      {
+        "complete": true,
+        "height": 230.75,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_01_year1_candidate.png",
+        "width": 355
+      },
+      {
+        "complete": true,
+        "height": 230.75,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_02_year2-3_advisor.png",
+        "width": 355
+      },
+      {
+        "complete": true,
+        "height": 230.75,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_03_year4-5_business-head.png",
+        "width": 355
+      },
+      {
+        "complete": true,
+        "height": 230.75,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_04_year6-plus_president.png",
+        "width": 355
+      }
+    ],
+    "grid": "355px 355px",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "cards": [
+      {
+        "complete": true,
+        "height": 646.1484375,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_01_sp.png",
+        "width": 420
+      },
+      {
+        "complete": true,
+        "height": 646.1484375,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_02_sp.png",
+        "width": 420
+      },
+      {
+        "complete": true,
+        "height": 646.1484375,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_03_sp.png",
+        "width": 420
+      },
+      {
+        "complete": true,
+        "height": 587.6875,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_01_year1_candidate.png",
+        "width": 382
+      },
+      {
+        "complete": true,
+        "height": 587.6875,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_02_year2-3_advisor.png",
+        "width": 382
+      },
+      {
+        "complete": true,
+        "height": 587.6875,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_03_year4-5_business-head.png",
+        "width": 382
+      },
+      {
+        "complete": true,
+        "height": 587.6875,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_04_year6-plus_president.png",
+        "width": 382
+      }
+    ],
+    "grid": "410px",
+    "scrollWidth": 767,
+    "width": 767
+  },
+  {
+    "cards": [
+      {
+        "complete": true,
+        "height": 195,
+        "naturalHeight": 960,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_01_pc.png",
+        "width": 325
+      },
+      {
+        "complete": true,
+        "height": 195,
+        "naturalHeight": 960,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_02_pc.png",
+        "width": 325
+      },
+      {
+        "complete": true,
+        "height": 195,
+        "naturalHeight": 960,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_03_pc.png",
+        "width": 325
+      },
+      {
+        "complete": true,
+        "height": 313.625,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_01_year1_candidate.png",
+        "width": 482.5
+      },
+      {
+        "complete": true,
+        "height": 313.625,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_02_year2-3_advisor.png",
+        "width": 482.5
+      },
+      {
+        "complete": true,
+        "height": 313.625,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_03_year4-5_business-head.png",
+        "width": 482.5
+      },
+      {
+        "complete": true,
+        "height": 313.625,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_04_year6-plus_president.png",
+        "width": 482.5
+      }
+    ],
+    "grid": "482.5px 482.5px",
+    "scrollWidth": 1023,
+    "width": 1023
+  },
+  {
+    "cards": [
+      {
+        "complete": true,
+        "height": 195.1953125,
+        "naturalHeight": 960,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_01_pc.png",
+        "width": 325.328125
+      },
+      {
+        "complete": true,
+        "height": 195.1953125,
+        "naturalHeight": 960,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_02_pc.png",
+        "width": 325.3359375
+      },
+      {
+        "complete": true,
+        "height": 195.1953125,
+        "naturalHeight": 960,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_03_pc.png",
+        "width": 325.3359375
+      },
+      {
+        "complete": true,
+        "height": 157.4609375,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_01_year1_candidate.png",
+        "width": 242.25
+      },
+      {
+        "complete": true,
+        "height": 157.4609375,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_02_year2-3_advisor.png",
+        "width": 242.25
+      },
+      {
+        "complete": true,
+        "height": 157.4609375,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_03_year4-5_business-head.png",
+        "width": 242.25
+      },
+      {
+        "complete": true,
+        "height": 157.4609375,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_04_year6-plus_president.png",
+        "width": 242.25
+      }
+    ],
+    "grid": "242.25px 242.25px 242.25px 242.25px",
+    "scrollWidth": 1024,
+    "width": 1024
+  }
+]

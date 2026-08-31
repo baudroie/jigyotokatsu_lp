@@ -1,0 +1,14 @@
+{
+  "desktop": {
+    "file": "デザイン案web.png",
+    "width": 661,
+    "height": 1804,
+    "sha256": "6cda7cd64ae9f117a52663a1f4e5421e6bd351ac80913a8aecafae52511a92d2"
+  },
+  "mobile": {
+    "file": "デザイン案mobile.png",
+    "width": 183,
+    "height": 1793,
+    "sha256": "532c08202add9e9c521bccb9c4be01d687bd2a09c1bb5ac8338f05fa7ef61c2e"
+  }
+}

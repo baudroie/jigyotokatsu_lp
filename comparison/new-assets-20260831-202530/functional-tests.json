@@ -1,0 +1,70 @@
+[
+  {
+    "name": "mobile menu → flow",
+    "result": {
+      "expanded": "false",
+      "flowTop": 0.0703125,
+      "hash": "#flow",
+      "menuHidden": true
+    }
+  },
+  {
+    "name": "hero → career",
+    "result": {
+      "hash": "#career",
+      "top": 0.078125
+    }
+  },
+  {
+    "name": "career details → people",
+    "result": {
+      "hash": "#people",
+      "top": 0
+    }
+  },
+  {
+    "name": "desktop ENTRY → flow",
+    "result": {
+      "hash": "#flow",
+      "maxScroll": 2860,
+      "scrollY": 2860.5,
+      "top": 134.8671875,
+      "visible": true
+    }
+  },
+  {
+    "name": "keyboard menu open",
+    "result": {
+      "expanded": "true",
+      "hidden": false
+    }
+  },
+  {
+    "name": "keyboard menu close",
+    "result": {
+      "expanded": "false",
+      "hidden": true
+    }
+  },
+  {
+    "name": "placeholder links preserved",
+    "result": [
+      {
+        "href": "#",
+        "label": "まずはLINEで話を聞く"
+      },
+      {
+        "href": "#",
+        "label": "まずはLINEで話を聞く"
+      },
+      {
+        "href": "#",
+        "label": "プライバシーポリシー"
+      },
+      {
+        "href": "#",
+        "label": "利用規約"
+      }
+    ]
+  }
+]

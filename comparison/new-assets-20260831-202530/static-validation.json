@@ -1,0 +1,12 @@
+{
+  "pictureCount": 7,
+  "mappedAssets": 14,
+  "allPlacedAssetsByteIdentical": true,
+  "originalFilesChecked": 150,
+  "changedOriginalFiles": [],
+  "missingResources": [],
+  "scriptJsUnchanged": true,
+  "git": "not a git repository",
+  "build": "static HTML/CSS/JS; no package.json/build step",
+  "javascriptSyntax": "node --check script.js: PASS"
+}

@@ -1,4 +1,4 @@
-const LINE_URL = "#";
+const LINE_URL = "https://s.lmes.jp/landing-qr/1657893371-rRVdmjzQ?uLand=Pfwucb";
 
 document.querySelectorAll(".line-link").forEach((link) => {
   link.setAttribute("href", LINE_URL);

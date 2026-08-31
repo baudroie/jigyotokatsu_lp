@@ -1,60 +1,77 @@
-# Design QA
+# Design QA — 2026-08-31
 
-## Comparison target
+final result: blocked
 
-- Source visual truth: `デザイン案web.png`, `デザイン案mobile.png`
-- Final implementation screenshots: `comparison/desktop-1440.png`, `comparison/mobile-390.png`
-- Desktop source pixels: 661×1804
-- Desktop implementation pixels: 1440×3932; normalized to 661×1805
-- Desktop CSS viewport: 1440×900; device scale factor 1
-- Mobile source pixels: 183×1793
-- Mobile implementation pixels: 390×3821; normalized to 183×1793
-- Mobile CSS viewport: 390×844; device scale factor 1
-- State: initial page state, menu closed
+This supersedes the previous PASS report. Matching page height is not evidence that text images are uncut.
 
-## Evidence
+## Source and capture
 
-- Full-view desktop: `comparison/desktop-side-by-side.png`, `comparison/desktop-overlay.png`, `comparison/desktop-diff.png`
-- Full-view mobile: `comparison/mobile-side-by-side.png`, `comparison/mobile-overlay.png`, `comparison/mobile-diff.png`
-- Focused desktop: `comparison/focused-desktop-hero.png`, `comparison/focused-desktop-career.png`, `comparison/focused-desktop-final.png`
-- Focused mobile: `comparison/focused-mobile-hero.png`, `comparison/focused-mobile-career.png`, `comparison/focused-mobile-final.png`
-- Additional responsive captures: `comparison/final/desktop-1280.png`, `comparison/final/mobile-375.png`
-
-## Required fidelity surfaces
-
-- Fonts and typography: PASS. Japanese Gothic fallback, weight, three-line SP HERO wrap, heading hierarchy, line height, and CTA image text were checked. Remaining stroke-shape differences are confined to raster/source-font differences.
-- Spacing and layout rhythm: PASS. Section boundaries, card gaps, HERO/CTA rhythm, people/flow density, final CTA, and footer height align with the reference. Mobile normalized total height matches exactly.
-- Colors and visual tokens: PASS. The 3cards background now uses the reference-like light gray; dark and orange sections match the intended balance.
-- Image quality and asset fidelity: PASS. Original supplied assets are used without rewriting, cropping files, or destructive edits. CSS wrappers only control visible transparent margins and overflow.
-- Copy and content: PASS. Copy and section order are unchanged. Image alt text retains important rasterized copy.
-- Responsiveness: PASS. 1440, 1280, 390, and 375px checked; no horizontal overflow.
-- Accessibility: PASS for the tested scope. Semantic headings, alt text, aria labels, menu expanded state, keyboard-capable links/buttons, and reduced-motion CSS remain present.
-
-## Comparison history
-
-- Loop 1: P1 mobile HERO blank space, P1 career double-card treatment, P1 mobile vertical drift, P2 3cards background, people/flow/final CTA density.
-- Loop 2: Removed career wrapper surfaces, changed 3cards background, rebalanced HERO and major mobile section heights.
-- Loop 3: Matched mobile section boundaries; enlarged desktop career imagery; refined people and final CTA.
-- Loop 4: Increased CTA image presentation without changing aspect ratio; compacted mobile flow; matched footer and total page height.
-- Loop 5: Rejected a HERO typography experiment that created a fourth line.
-- Loop 6: Restored a three-line HERO and passed same-viewport comparison.
-- Loop 7: Rejected an HTML salary overlay because it competed with raster copy.
-- Loop 8: Reverted to clean source-image presentation and repeated full comparison; no actionable P0/P1/P2 findings remained.
-
-## Interaction and browser verification
-
-- Mobile menu: opens with `aria-expanded=true`, closes with `aria-expanded=false`.
-- Career CTA: navigates to `#career`; target top reached.
-- ENTRY CTA: navigates to `#flow`; target reached.
-- Console errors: 0.
-- 1280px: `scrollWidth = clientWidth = 1280`.
-- 375px: `scrollWidth = clientWidth = 375`.
+- Visual truth: デザイン案web.png (661×1804) / デザイン案mobile.png (183×1793).
+- Rendered implementation: comparison/20260831-loop7/desktop-1440.png (1440×3929) / mobile-390.png (390×4178).
+- Viewports: 1440×900 and 390×844; DPR=1; initial state, menu closed.
+- Normalization: width only, preserving aspect ratio; desktop becomes661×1804, mobile183×1960. Blank canvas pads the shorter side, never stretches it.
+- Full-view evidence: comparison/20260831-loop7/{desktop,mobile}-side-by-side.png, -overlay.png (50%), -diff.png.
+- Focused evidence: same folder, {desktop,mobile}-{hero,benefits,career,people,final-cta}-focused.png. These align section starts only and preserve original scale.
+- Additional final responsive evidence: comparison/20260831-responsive-final/ at1280,768,375px.
+- In-app full-width capture was blocked by its viewport/capture limitation in prior work; Chrome browser-rendered captures are used.
 
 ## Findings
 
-- No actionable P0/P1/P2 findings remain.
-- P3 accepted: minor image-internal illustration/type differences remain because the supplied raster assets differ from the raster content embedded in the reference. This was explicitly outside the main correction scope and the originals were not altered.
+### [P1] Composite Benefits image cannot satisfy whole-PNG display and vertical cards simultaneously
 
-## Final result
+The provided cards-strip.png is a heading plus three cards in a single2048×768 PNG.
+Existing desktop/mobile viewports still select individual cards from it. Each complete card's text, illustration, and lower border now fits, and CSS duplicate white backgrounds/borders/shadows are removed. The whole source PNG is nevertheless NOT displayed.
+Evidence: Benefits focused comparisons and the3 clipping candidates in each viewport's image-layout-audit.json.
+Need individual source PNGs or explicit permission for asset extraction. Do not mark the strict no-partial-PNG condition PASS.
 
-final result: passed
+### [P1] Career source artwork has a different aspect ratio from the compact reference cards
+
+All four complete PNGs, including titles, descriptions, salary figures and people, are displayed with natural aspect ratio. No clipping ancestor, fixed image height, cover, or outer CSS card remains.
+The SP reference's card content is compact and omits the body text present in the supplied source. Keeping all source content at readable width makes Career1083.4px tall vs726.7px reference, a356.7px section-height difference.
+This causes the downstream Mobile sections' start/end positions to remain about356px lower. Their own heights are matched; translating them upwards would overlap content.
+Desktop section boundaries match within1px, but the source's shorter, wider internal cards do not match the reference card height. No distortion is used to conceal this.
+Need compact source assets or acceptance of this aspect-ratio-driven difference.
+
+## Required fidelity surfaces
+
+- Fonts/typography: HTML Hero copy size and mobile line breaks refined, field/flow hierarchy preserved. Raster-internal fonts are supplied artwork, outside this turn's artwork-redesign scope.
+- Spacing/layout: Desktop section boundaries within1px of width-normalized reference. SP Hero/Benefits/Frontline and the individual heights of People/Flow/CTA/Footer match within about1px. Career and cumulative Mobile positions remain NG as above.
+- Colors: Benefits surrounding canvas sampled from reference bottom-left offwhite pixels (#f6f6f6); final CTA decorative background expanded to remove the external frame. Existing image colors untouched. Mobile orange bottom boundary retained; exact composite-background treatment remains part of Benefits NG.
+- Image quality: all76 visible image instances across PC/SP retain natural ratio (41PC,35SP). Non-composite clipping candidates0/0. Composite clipping candidates3/3. Never claim that means all-img clipping0.
+- Copy/content: no visible wording or section-order changes; only responsive line breaks. Hero heading unified so it is available to assistive technology on mobile.
+- Responsive: no document horizontal overflow at1440,1280,768,390,375px without body overflow-x hiding. Tablet Career uses2 columns; SP Field stays hidden.
+- Accessibility: image alternatives, focus styles, menu aria-expanded preserved; decorative plus has no false “open details” label. Comprehensive assistive-technology certification not performed.
+
+## Iteration history
+
+1. Baseline captured before edits: clipping candidates25PC/19SP.
+2. LOOP1: remove fixed image clipping and duplicate card surfaces; image candidates reduce to3/3, but natural transparent canvases make sections too tall.
+3. LOOP2: layout-only compensation for transparent gutters; section-height correction; sources are never masked or re-saved.
+4. LOOP3: recompute precise SP People/Flow boundaries; reposition People heading/panel; balance section padding.
+5. LOOP4: Hero text scale, Frontline/Flow rhythm, Footer; include complete Benefits card bodies in existing composite windows.
+6. LOOP5: tablet minimum-height excess and card readability; single accessible h1.
+7. LOOP6: SP background focal point and final CTA column alignment.
+8. LOOP7: fix transparent Career image intercepting Career-details clicks with pointer-events:none on noninteractive images.
+
+Every correction loop has1440/390 full-page screenshots and width-normalized side-by-side/overlay evidence. Full history and boundary tables are in visual-qa.md.
+
+## Browser interaction checks
+
+- Hero career CTA -> #career, top0.109px: PASS.
+- Career details -> #people, top0.008px after click-interception fix: PASS.
+- Menu open and selection -> #flow, menu closes: PASS.
+- Desktop ENTRY -> #flow, scroll clamped at the page's maximum because less than one viewport remains: PASS.
+- LINE URL stays #, as provided; external destination not tested/configured.
+- Browser log includes5 message-channel listener warnings with an extension-style signature. LP JS contains no corresponding async listener; warnings are retained verbatim in functional-tests.json, not misreported as0 errors.
+
+## Implementation checklist
+
+- [x] Existing assets preserved; no generation, re-save, destructive edits.
+- [x] Career/people/title/CTA text is no longer container-cropped.
+- [x] Full PC/SP screenshots, overlays, image audit and boundary metrics saved.
+- [x]7 correction loops and alternate-width checks.
+- [ ] Individual Benefits assets / extraction decision.
+- [ ] Compact Career assets / aspect-ratio difference decision.
+- [ ] Re-run comparison and achieve all-section PASS after these constraints are resolved.
+
+final result: blocked

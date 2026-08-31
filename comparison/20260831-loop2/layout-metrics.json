@@ -1,0 +1,264 @@
+{
+  "desktop": {
+    "viewport": {
+      "clientWidth": 1440,
+      "dpr": 1,
+      "height": 900,
+      "scrollHeight": 3992,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "sections": {
+      "hero": {
+        "reference": {
+          "top": 0.0,
+          "bottom": 845.2647503782148,
+          "height": 845.2647503782148
+        },
+        "current": {
+          "top": 0,
+          "bottom": 845,
+          "height": 845
+        },
+        "deltaTop": 0.0,
+        "deltaBottom": -0.2647503782147851
+      },
+      "benefits": {
+        "reference": {
+          "top": 788.6232980332829,
+          "bottom": 1165.5068078668683,
+          "height": 376.8835098335853
+        },
+        "current": {
+          "top": 789,
+          "bottom": 1165,
+          "height": 376
+        },
+        "deltaTop": 0.37670196671706435,
+        "deltaBottom": -0.5068078668682574
+      },
+      "frontline": {
+        "reference": {
+          "top": 1165.5068078668683,
+          "bottom": 1760.2420574886535,
+          "height": 594.7352496217852
+        },
+        "current": {
+          "top": 1165,
+          "bottom": 1760.23,
+          "height": 595.23
+        },
+        "deltaTop": -0.5068078668682574,
+        "deltaBottom": -0.01205748865345413
+      },
+      "field": {
+        "reference": {
+          "top": 1760.2420574886535,
+          "bottom": 2195.945537065053,
+          "height": 435.70347957639956
+        },
+        "current": {
+          "top": 1760.23,
+          "bottom": 2209.5,
+          "height": 449.27
+        },
+        "deltaTop": -0.01205748865345413,
+        "deltaBottom": 13.554462934946969
+      },
+      "career": {
+        "reference": {
+          "top": 2195.945537065053,
+          "bottom": 2694.8260211800302,
+          "height": 498.8804841149772
+        },
+        "current": {
+          "top": 2209.5,
+          "bottom": 2708.5,
+          "height": 499
+        },
+        "deltaTop": 13.554462934946969,
+        "deltaBottom": 13.673978819969761
+      },
+      "people": {
+        "reference": {
+          "top": 2694.8260211800302,
+          "bottom": 3165.3857791225414,
+          "height": 470.55975794251117
+        },
+        "current": {
+          "top": 2708.5,
+          "bottom": 3227,
+          "height": 518.5
+        },
+        "deltaTop": 13.673978819969761,
+        "deltaBottom": 61.61422087745859
+      },
+      "flow": {
+        "reference": {
+          "top": 3165.3857791225414,
+          "bottom": 3492.163388804841,
+          "height": 326.7776096822995
+        },
+        "current": {
+          "top": 3227,
+          "bottom": 3553.91,
+          "height": 326.91
+        },
+        "deltaTop": 61.61422087745859,
+        "deltaBottom": 61.74661119515895
+      },
+      "final-cta": {
+        "reference": {
+          "top": 3492.163388804841,
+          "bottom": 3781.9062027231466,
+          "height": 289.7428139183057
+        },
+        "current": {
+          "top": 3553.91,
+          "bottom": 3843.91,
+          "height": 290
+        },
+        "deltaTop": 61.74661119515895,
+        "deltaBottom": 62.00379727685322
+      },
+      "site-footer": {
+        "reference": {
+          "top": 3781.9062027231466,
+          "bottom": 3930.0453857791226,
+          "height": 148.139183055976
+        },
+        "current": {
+          "top": 3843.91,
+          "bottom": 3991.91,
+          "height": 148
+        },
+        "deltaTop": 62.00379727685322,
+        "deltaBottom": 61.86461422087723
+      }
+    }
+  },
+  "mobile": {
+    "viewport": {
+      "clientWidth": 390,
+      "dpr": 1,
+      "height": 844,
+      "scrollHeight": 4187,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "sections": {
+      "hero": {
+        "reference": {
+          "top": 0.0,
+          "bottom": 699.016393442623,
+          "height": 699.016393442623
+        },
+        "current": {
+          "top": 0,
+          "bottom": 688.97,
+          "height": 688.97
+        },
+        "deltaTop": 0.0,
+        "deltaBottom": -10.046393442622957
+      },
+      "benefits": {
+        "reference": {
+          "top": 699.016393442623,
+          "bottom": 1317.049180327869,
+          "height": 618.032786885246
+        },
+        "current": {
+          "top": 688.97,
+          "bottom": 1320.26,
+          "height": 631.29
+        },
+        "deltaTop": -10.046393442622957,
+        "deltaBottom": 3.210819672131038
+      },
+      "frontline": {
+        "reference": {
+          "top": 1317.049180327869,
+          "bottom": 1828.5245901639346,
+          "height": 511.47540983606564
+        },
+        "current": {
+          "top": 1320.26,
+          "bottom": 1831.54,
+          "height": 511.28
+        },
+        "deltaTop": 3.210819672131038,
+        "deltaBottom": 3.0154098360653734
+      },
+      "career": {
+        "reference": {
+          "top": 1828.5245901639346,
+          "bottom": 2555.2459016393445,
+          "height": 726.72131147541
+        },
+        "current": {
+          "top": 1831.54,
+          "bottom": 2914.94,
+          "height": 1083.4
+        },
+        "deltaTop": 3.0154098360653734,
+        "deltaBottom": 359.6940983606555
+      },
+      "people": {
+        "reference": {
+          "top": 2555.2459016393445,
+          "bottom": 2883.44262295082,
+          "height": 328.19672131147536
+        },
+        "current": {
+          "top": 2914.94,
+          "bottom": 3353.01,
+          "height": 438.07
+        },
+        "deltaTop": 359.6940983606555,
+        "deltaBottom": 469.5673770491803
+      },
+      "flow": {
+        "reference": {
+          "top": 2883.44262295082,
+          "bottom": 3292.6229508196725,
+          "height": 409.1803278688526
+        },
+        "current": {
+          "top": 3353.01,
+          "bottom": 3658.12,
+          "height": 305.12
+        },
+        "deltaTop": 469.5673770491803,
+        "deltaBottom": 365.4970491803274
+      },
+      "final-cta": {
+        "reference": {
+          "top": 3292.6229508196725,
+          "bottom": 3567.540983606558,
+          "height": 274.9180327868853
+        },
+        "current": {
+          "top": 3658.12,
+          "bottom": 3933.52,
+          "height": 275.39
+        },
+        "deltaTop": 365.4970491803274,
+        "deltaBottom": 365.9790163934422
+      },
+      "site-footer": {
+        "reference": {
+          "top": 3567.540983606558,
+          "bottom": 3821.1475409836066,
+          "height": 253.60655737704883
+        },
+        "current": {
+          "top": 3933.52,
+          "bottom": 4187.52,
+          "height": 254
+        },
+        "deltaTop": 365.9790163934422,
+        "deltaBottom": 366.3724590163938
+      }
+    }
+  }
+}

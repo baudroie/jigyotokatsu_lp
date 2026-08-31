@@ -88,7 +88,7 @@ def focused(loop_name: str) -> None:
         reference = Image.open(spec["reference"]).convert("RGB")
         implementation = Image.open(spec["implementation"]).convert("RGB")
         implementation = implementation.resize(
-            (reference.width, reference.height), Image.Resampling.LANCZOS
+            (reference.width, round(implementation.height * reference.width / implementation.width)), Image.Resampling.LANCZOS
         )
         for region, box in spec["regions"].items():
             ref_crop = reference.crop(box)

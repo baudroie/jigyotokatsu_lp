@@ -1,0 +1,5387 @@
+{
+  "desktop": {
+    "images": [
+      {
+        "alt": "baudroie inc.",
+        "clippedBy": [
+          {
+            "element": "A.brand",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 74,
+              "height": 58,
+              "left": 30,
+              "right": 280,
+              "top": 16,
+              "width": 250,
+              "x": 30,
+              "y": 16
+            }
+          }
+        ],
+        "index": 0,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 74,
+          "element": "A.brand",
+          "height": 58,
+          "left": 30,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 280,
+          "top": 16,
+          "width": 250,
+          "x": 30,
+          "y": 16
+        },
+        "rendered": {
+          "bottom": 87.328125,
+          "height": 83.328125,
+          "left": 30,
+          "right": 280,
+          "top": 4,
+          "width": 250,
+          "x": 30,
+          "y": 4
+        },
+        "src": "assets/hero/logo.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "エントリーはこちら",
+        "clippedBy": [
+          {
+            "element": "A.entry-button desktop-only",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 88,
+              "height": 72,
+              "left": 1175,
+              "right": 1423,
+              "top": 16,
+              "width": 248,
+              "x": 1175,
+              "y": 16
+            }
+          }
+        ],
+        "index": 1,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 88,
+          "element": "A.entry-button desktop-only",
+          "height": 72,
+          "left": 1175,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1423,
+          "top": 16,
+          "width": 248,
+          "x": 1175,
+          "y": 16
+        },
+        "rendered": {
+          "bottom": 95.6640625,
+          "height": 82.6640625,
+          "left": 1175,
+          "right": 1423,
+          "top": 13,
+          "width": 248,
+          "x": 1175,
+          "y": 13
+        },
+        "src": "assets/hero/entry.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "",
+        "clippedBy": [],
+        "index": 2,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "BUTTON.menu-button mobile-only",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/hero/hamburger.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "まずはLINEで話を聞く",
+        "clippedBy": [
+          {
+            "element": "A.image-button line-link",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 713.875,
+              "height": 126,
+              "left": 60,
+              "right": 565,
+              "top": 587.875,
+              "width": 505,
+              "x": 60,
+              "y": 587.875
+            }
+          }
+        ],
+        "index": 3,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 713.875,
+          "element": "A.image-button line-link",
+          "height": 126,
+          "left": 60,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 565,
+          "top": 587.875,
+          "width": 505,
+          "x": 60,
+          "y": 587.875
+        },
+        "rendered": {
+          "bottom": 756.203125,
+          "height": 168.328125,
+          "left": 60,
+          "right": 565,
+          "top": 587.875,
+          "width": 505,
+          "x": 60,
+          "y": 587.875
+        },
+        "src": "assets/hero/line-cta.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "3年後のキャリアを見る",
+        "clippedBy": [
+          {
+            "element": "A.image-button",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 713.875,
+              "height": 126,
+              "left": 593,
+              "right": 1098,
+              "top": 587.875,
+              "width": 505,
+              "x": 593,
+              "y": 587.875
+            }
+          }
+        ],
+        "index": 4,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 713.875,
+          "element": "A.image-button",
+          "height": 126,
+          "left": 593,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1098,
+          "top": 587.875,
+          "width": 505,
+          "x": 593,
+          "y": 587.875
+        },
+        "rendered": {
+          "bottom": 756.203125,
+          "height": 168.328125,
+          "left": 593,
+          "right": 1098,
+          "top": 587.875,
+          "width": 505,
+          "x": 593,
+          "y": 587.875
+        },
+        "src": "assets/hero/career-cta.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "",
+        "clippedBy": [
+          {
+            "element": "DIV.benefit-desktop-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1119,
+              "height": 330,
+              "left": 57.5,
+              "right": 487.1640625,
+              "top": 789,
+              "width": 429.6640625,
+              "x": 57.5,
+              "y": 789
+            }
+          },
+          {
+            "element": "SECTION.benefits",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1165,
+              "height": 376,
+              "left": 0,
+              "right": 1440,
+              "top": 789,
+              "width": 1440,
+              "x": 0,
+              "y": 789
+            }
+          }
+        ],
+        "index": 5,
+        "naturalHeight": 768,
+        "naturalWidth": 2048,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1119,
+          "element": "DIV.benefit-desktop-card",
+          "height": 330,
+          "left": 57.5,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 487.1640625,
+          "top": 789,
+          "width": 429.6640625,
+          "x": 57.5,
+          "y": 789
+        },
+        "rendered": {
+          "bottom": 1099.3671875,
+          "height": 483.3671875,
+          "left": 57.5,
+          "right": 1346.4921875,
+          "top": 616,
+          "width": 1288.9921875,
+          "x": 57.5,
+          "y": 616
+        },
+        "src": "assets/cards/cards-strip.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "",
+        "clippedBy": [
+          {
+            "element": "DIV.benefit-desktop-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1119,
+              "height": 330,
+              "left": 505.1640625,
+              "right": 934.828125,
+              "top": 789,
+              "width": 429.6640625,
+              "x": 505.1640625,
+              "y": 789
+            }
+          },
+          {
+            "element": "SECTION.benefits",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1165,
+              "height": 376,
+              "left": 0,
+              "right": 1440,
+              "top": 789,
+              "width": 1440,
+              "x": 0,
+              "y": 789
+            }
+          }
+        ],
+        "index": 6,
+        "naturalHeight": 768,
+        "naturalWidth": 2048,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1119,
+          "element": "DIV.benefit-desktop-card",
+          "height": 330,
+          "left": 505.1640625,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 934.828125,
+          "top": 789,
+          "width": 429.6640625,
+          "x": 505.1640625,
+          "y": 789
+        },
+        "rendered": {
+          "bottom": 1099.3671875,
+          "height": 483.3671875,
+          "left": 75.5,
+          "right": 1364.4921875,
+          "top": 616,
+          "width": 1288.9921875,
+          "x": 75.5,
+          "y": 616
+        },
+        "src": "assets/cards/cards-strip.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "",
+        "clippedBy": [
+          {
+            "element": "DIV.benefit-desktop-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1119,
+              "height": 330,
+              "left": 952.828125,
+              "right": 1382.4921875,
+              "top": 789,
+              "width": 429.6640625,
+              "x": 952.828125,
+              "y": 789
+            }
+          },
+          {
+            "element": "SECTION.benefits",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1165,
+              "height": 376,
+              "left": 0,
+              "right": 1440,
+              "top": 789,
+              "width": 1440,
+              "x": 0,
+              "y": 789
+            }
+          }
+        ],
+        "index": 7,
+        "naturalHeight": 768,
+        "naturalWidth": 2048,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1119,
+          "element": "DIV.benefit-desktop-card",
+          "height": 330,
+          "left": 952.828125,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1382.4921875,
+          "top": 789,
+          "width": 429.6640625,
+          "x": 952.828125,
+          "y": 789
+        },
+        "rendered": {
+          "bottom": 1099.3671875,
+          "height": 483.3671875,
+          "left": 93.5,
+          "right": 1382.4921875,
+          "top": 616,
+          "width": 1288.9921875,
+          "x": 93.5,
+          "y": 616
+        },
+        "src": "assets/cards/cards-strip.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "01 未経験から経営中枢へ",
+        "clippedBy": [
+          {
+            "element": "SECTION.benefits",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1165,
+              "height": 376,
+              "left": 0,
+              "right": 1440,
+              "top": 789,
+              "width": 1440,
+              "x": 0,
+              "y": 789
+            }
+          }
+        ],
+        "index": 8,
+        "naturalHeight": 768,
+        "naturalWidth": 2048,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "ARTICLE.benefit-card",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/cards/cards-strip.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "02 経営のリアルを体感",
+        "clippedBy": [
+          {
+            "element": "SECTION.benefits",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1165,
+              "height": 376,
+              "left": 0,
+              "right": 1440,
+              "top": 789,
+              "width": 1440,
+              "x": 0,
+              "y": 789
+            }
+          }
+        ],
+        "index": 9,
+        "naturalHeight": 768,
+        "naturalWidth": 2048,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "ARTICLE.benefit-card",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/cards/cards-strip.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "03 独立も可能",
+        "clippedBy": [
+          {
+            "element": "SECTION.benefits",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1165,
+              "height": 376,
+              "left": 0,
+              "right": 1440,
+              "top": 789,
+              "width": 1440,
+              "x": 0,
+              "y": 789
+            }
+          }
+        ],
+        "index": 10,
+        "naturalHeight": 768,
+        "naturalWidth": 2048,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "ARTICLE.benefit-card",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/cards/cards-strip.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "なぜ最前線で働けるのか",
+        "clippedBy": [
+          {
+            "element": "H2.section-image-title frontline-title",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1266,
+              "height": 78,
+              "left": 410,
+              "right": 1030,
+              "top": 1188,
+              "width": 620,
+              "x": 410,
+              "y": 1188
+            }
+          },
+          {
+            "element": "SECTION.frontline",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1761,
+              "height": 596,
+              "left": 0,
+              "right": 1440,
+              "top": 1165,
+              "width": 1440,
+              "x": 0,
+              "y": 1165
+            }
+          }
+        ],
+        "index": 11,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1266,
+          "element": "H2.section-image-title frontline-title",
+          "height": 78,
+          "left": 410,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1030,
+          "top": 1188,
+          "width": 620,
+          "x": 410,
+          "y": 1188
+        },
+        "rendered": {
+          "bottom": 1341.6640625,
+          "height": 206.6640625,
+          "left": 410,
+          "right": 1030,
+          "top": 1135,
+          "width": 620,
+          "x": 410,
+          "y": 1135
+        },
+        "src": "assets/frontline/title.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "ビルのアイコン",
+        "clippedBy": [],
+        "index": 12,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1505.5,
+          "element": "ARTICLE.frontline-step",
+          "height": 234.5,
+          "left": 289,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 519,
+          "top": 1271,
+          "width": 230,
+          "x": 289,
+          "y": 1271
+        },
+        "rendered": {
+          "bottom": 1439,
+          "height": 168,
+          "left": 320,
+          "right": 488,
+          "top": 1271,
+          "width": 168,
+          "x": 320,
+          "y": 1271
+        },
+        "src": "assets/frontline/icon-ma.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "次へ",
+        "clippedBy": [],
+        "index": 13,
+        "naturalHeight": 887,
+        "naturalWidth": 1774,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1505.5,
+          "element": "DIV.frontline-diagram",
+          "height": 234.5,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 1440,
+          "top": 1271,
+          "width": 1440,
+          "x": 0,
+          "y": 1271
+        },
+        "rendered": {
+          "bottom": 1381.5,
+          "height": 38.5,
+          "left": 523.5,
+          "right": 600.5,
+          "top": 1343,
+          "width": 77,
+          "x": 523.5,
+          "y": 1343
+        },
+        "src": "assets/frontline/arrow-1.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "経営統合のアイコン",
+        "clippedBy": [],
+        "index": 14,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1505.5,
+          "element": "ARTICLE.frontline-step",
+          "height": 234.5,
+          "left": 605,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 835,
+          "top": 1271,
+          "width": 230,
+          "x": 605,
+          "y": 1271
+        },
+        "rendered": {
+          "bottom": 1439,
+          "height": 168,
+          "left": 636,
+          "right": 804,
+          "top": 1271,
+          "width": 168,
+          "x": 636,
+          "y": 1271
+        },
+        "src": "assets/frontline/icon-pmi.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "次へ",
+        "clippedBy": [],
+        "index": 15,
+        "naturalHeight": 887,
+        "naturalWidth": 1774,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1505.5,
+          "element": "DIV.frontline-diagram",
+          "height": 234.5,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 1440,
+          "top": 1271,
+          "width": 1440,
+          "x": 0,
+          "y": 1271
+        },
+        "rendered": {
+          "bottom": 1381.5,
+          "height": 38.5,
+          "left": 839.5,
+          "right": 916.5,
+          "top": 1343,
+          "width": 77,
+          "x": 839.5,
+          "y": 1343
+        },
+        "src": "assets/frontline/arrow-2.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "若手経営人材のアイコン",
+        "clippedBy": [],
+        "index": 16,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1505.5,
+          "element": "ARTICLE.frontline-step",
+          "height": 234.5,
+          "left": 921,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 1151,
+          "top": 1271,
+          "width": 230,
+          "x": 921,
+          "y": 1271
+        },
+        "rendered": {
+          "bottom": 1439,
+          "height": 168,
+          "left": 952,
+          "right": 1120,
+          "top": 1271,
+          "width": 168,
+          "x": 952,
+          "y": 1271
+        },
+        "src": "assets/frontline/icon-people.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "当社グループは急成長のため、M&Aを積極的に推進。PMIや新規事業の立ち上げを担う若手人材が足りません。だからこそ、入社年次に関係なく、裁量とチャンスを用意しています。",
+        "clippedBy": [
+          {
+            "element": "SECTION.frontline",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1761,
+              "height": 596,
+              "left": 0,
+              "right": 1440,
+              "top": 1165,
+              "width": 1440,
+              "x": 0,
+              "y": 1165
+            }
+          }
+        ],
+        "index": 17,
+        "naturalHeight": 0,
+        "naturalWidth": 0,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.frontline-description",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/frontline/description.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "あなたに任されるフィールド",
+        "clippedBy": [
+          {
+            "element": "H2.section-image-title field-title",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1839,
+              "height": 70,
+              "left": 395,
+              "right": 1045,
+              "top": 1769,
+              "width": 650,
+              "x": 395,
+              "y": 1769
+            }
+          },
+          {
+            "element": "SECTION.field desktop-only",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2168,
+              "height": 407,
+              "left": 0,
+              "right": 1440,
+              "top": 1761,
+              "width": 1440,
+              "x": 0,
+              "y": 1761
+            }
+          }
+        ],
+        "index": 18,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1839,
+          "element": "H2.section-image-title field-title",
+          "height": 70,
+          "left": 395,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1045,
+          "top": 1769,
+          "width": 650,
+          "x": 395,
+          "y": 1769
+        },
+        "rendered": {
+          "bottom": 1924.6640625,
+          "height": 216.6640625,
+          "left": 395,
+          "right": 1045,
+          "top": 1708,
+          "width": 650,
+          "x": 395,
+          "y": 1708
+        },
+        "src": "assets/field/title.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "営業 顧客課題を解決し、収益をつくる",
+        "clippedBy": [
+          {
+            "element": "SECTION.field desktop-only",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2168,
+              "height": 407,
+              "left": 0,
+              "right": 1440,
+              "top": 1761,
+              "width": 1440,
+              "x": 0,
+              "y": 1761
+            }
+          },
+          {
+            "element": "BODY.",
+            "overflowX": "hidden",
+            "overflowY": "auto",
+            "rect": {
+              "bottom": 3932,
+              "height": 3932,
+              "left": 0,
+              "right": 1440,
+              "top": 0,
+              "width": 1440,
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "index": 19,
+        "naturalHeight": 1448,
+        "naturalWidth": 1086,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2155.890625,
+          "element": "DIV.field-grid",
+          "height": 298.890625,
+          "left": 20,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 1420,
+          "top": 1857,
+          "width": 1400,
+          "x": 20,
+          "y": 1857
+        },
+        "rendered": {
+          "bottom": 2185.77099609375,
+          "height": 358.6593017578125,
+          "left": -2.416412353515625,
+          "right": 266.5804748535156,
+          "top": 1827.1116943359375,
+          "width": 268.99688720703125,
+          "x": -2.416412353515625,
+          "y": 1827.1116943359375
+        },
+        "src": "assets/field/sales.png",
+        "viewportOverflow": true,
+        "visible": true
+      },
+      {
+        "alt": "採用 仲間を増やし、組織を強くする",
+        "clippedBy": [
+          {
+            "element": "SECTION.field desktop-only",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2168,
+              "height": 407,
+              "left": 0,
+              "right": 1440,
+              "top": 1761,
+              "width": 1440,
+              "x": 0,
+              "y": 1761
+            }
+          }
+        ],
+        "index": 20,
+        "naturalHeight": 1448,
+        "naturalWidth": 1086,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2155.890625,
+          "element": "DIV.field-grid",
+          "height": 298.890625,
+          "left": 20,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 1420,
+          "top": 1857,
+          "width": 1400,
+          "x": 20,
+          "y": 1857
+        },
+        "rendered": {
+          "bottom": 2185.77099609375,
+          "height": 358.6593017578125,
+          "left": 232.7476501464844,
+          "right": 501.7445373535156,
+          "top": 1827.1116943359375,
+          "width": 268.99688720703125,
+          "x": 232.7476501464844,
+          "y": 1827.1116943359375
+        },
+        "src": "assets/field/recruiting.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "組織運営 仕組みを整え、チームを動かす",
+        "clippedBy": [
+          {
+            "element": "SECTION.field desktop-only",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2168,
+              "height": 407,
+              "left": 0,
+              "right": 1440,
+              "top": 1761,
+              "width": 1440,
+              "x": 0,
+              "y": 1761
+            }
+          }
+        ],
+        "index": 21,
+        "naturalHeight": 1448,
+        "naturalWidth": 1086,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2155.890625,
+          "element": "DIV.field-grid",
+          "height": 298.890625,
+          "left": 20,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 1420,
+          "top": 1857,
+          "width": 1400,
+          "x": 20,
+          "y": 1857
+        },
+        "rendered": {
+          "bottom": 2185.77978515625,
+          "height": 358.6688232421875,
+          "left": 467.9109497070313,
+          "right": 736.917236328125,
+          "top": 1827.1109619140625,
+          "width": 269.00628662109375,
+          "x": 467.9109497070313,
+          "y": 1827.1109619140625
+        },
+        "src": "assets/field/organization.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "事業推進 新規事業を立ち上げ、成果を形にする",
+        "clippedBy": [
+          {
+            "element": "SECTION.field desktop-only",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2168,
+              "height": 407,
+              "left": 0,
+              "right": 1440,
+              "top": 1761,
+              "width": 1440,
+              "x": 0,
+              "y": 1761
+            }
+          }
+        ],
+        "index": 22,
+        "naturalHeight": 1448,
+        "naturalWidth": 1086,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2155.890625,
+          "element": "DIV.field-grid",
+          "height": 298.890625,
+          "left": 20,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 1420,
+          "top": 1857,
+          "width": 1400,
+          "x": 20,
+          "y": 1857
+        },
+        "rendered": {
+          "bottom": 2185.77099609375,
+          "height": 358.6593017578125,
+          "left": 703.0836181640625,
+          "right": 972.0805053710938,
+          "top": 1827.1116943359375,
+          "width": 268.99688720703125,
+          "x": 703.0836181640625,
+          "y": 1827.1116943359375
+        },
+        "src": "assets/field/business.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "経営戦略 経営の視点で、未来を描き実行する",
+        "clippedBy": [
+          {
+            "element": "SECTION.field desktop-only",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2168,
+              "height": 407,
+              "left": 0,
+              "right": 1440,
+              "top": 1761,
+              "width": 1440,
+              "x": 0,
+              "y": 1761
+            }
+          }
+        ],
+        "index": 23,
+        "naturalHeight": 1448,
+        "naturalWidth": 1086,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2155.890625,
+          "element": "DIV.field-grid",
+          "height": 298.890625,
+          "left": 20,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 1420,
+          "top": 1857,
+          "width": 1400,
+          "x": 20,
+          "y": 1857
+        },
+        "rendered": {
+          "bottom": 2185.77099609375,
+          "height": 358.6593017578125,
+          "left": 938.2476806640624,
+          "right": 1207.24462890625,
+          "top": 1827.1116943359375,
+          "width": 268.9969482421875,
+          "x": 938.2476806640624,
+          "y": 1827.1116943359375
+        },
+        "src": "assets/field/strategy.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "PMI M&A後の統合をリードし、価値を最大化する",
+        "clippedBy": [
+          {
+            "element": "SECTION.field desktop-only",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2168,
+              "height": 407,
+              "left": 0,
+              "right": 1440,
+              "top": 1761,
+              "width": 1440,
+              "x": 0,
+              "y": 1761
+            }
+          },
+          {
+            "element": "BODY.",
+            "overflowX": "hidden",
+            "overflowY": "auto",
+            "rect": {
+              "bottom": 3932,
+              "height": 3932,
+              "left": 0,
+              "right": 1440,
+              "top": 0,
+              "width": 1440,
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "index": 24,
+        "naturalHeight": 1448,
+        "naturalWidth": 1086,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2155.890625,
+          "element": "DIV.field-grid",
+          "height": 298.890625,
+          "left": 20,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 1420,
+          "top": 1857,
+          "width": 1400,
+          "x": 20,
+          "y": 1857
+        },
+        "rendered": {
+          "bottom": 2185.77978515625,
+          "height": 358.6688232421875,
+          "left": 1173.410888671875,
+          "right": 1442.4171142578125,
+          "top": 1827.1109619140625,
+          "width": 269.0062255859375,
+          "x": 1173.410888671875,
+          "y": 1827.1109619140625
+        },
+        "src": "assets/field/pmi.png",
+        "viewportOverflow": true,
+        "visible": true
+      },
+      {
+        "alt": "NEXT LEADERのキャリアパス",
+        "clippedBy": [
+          {
+            "element": "H2.section-image-title career-title",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2258,
+              "height": 72,
+              "left": 390,
+              "right": 1050,
+              "top": 2186,
+              "width": 660,
+              "x": 390,
+              "y": 2186
+            }
+          },
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2699,
+              "height": 531,
+              "left": 0,
+              "right": 1440,
+              "top": 2168,
+              "width": 1440,
+              "x": 0,
+              "y": 2168
+            }
+          }
+        ],
+        "index": 25,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2258,
+          "element": "H2.section-image-title career-title",
+          "height": 72,
+          "left": 390,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1050,
+          "top": 2186,
+          "width": 660,
+          "x": 390,
+          "y": 2186
+        },
+        "rendered": {
+          "bottom": 2339,
+          "height": 220,
+          "left": 390,
+          "right": 1050,
+          "top": 2119,
+          "width": 660,
+          "x": 390,
+          "y": 2119
+        },
+        "src": "assets/career/title.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "1年目 経営者候補生 年収例400万〜500万円",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.career-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2620,
+              "height": 370,
+              "left": 30,
+              "right": 369,
+              "top": 2250,
+              "width": 339,
+              "x": 30,
+              "y": 2250
+            }
+          },
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2699,
+              "height": 531,
+              "left": 0,
+              "right": 1440,
+              "top": 2168,
+              "width": 1440,
+              "x": 0,
+              "y": 2168
+            }
+          },
+          {
+            "element": "BODY.",
+            "overflowX": "hidden",
+            "overflowY": "auto",
+            "rect": {
+              "bottom": 3932,
+              "height": 3932,
+              "left": 0,
+              "right": 1440,
+              "top": 0,
+              "width": 1440,
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "index": 26,
+        "naturalHeight": 1402,
+        "naturalWidth": 1122,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2620,
+          "element": "ARTICLE.career-card",
+          "height": 370,
+          "left": 30,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 369,
+          "top": 2250,
+          "width": 339,
+          "x": 30,
+          "y": 2250
+        },
+        "rendered": {
+          "bottom": 2710.78125,
+          "height": 516.78125,
+          "left": -7.2890625,
+          "right": 406.2890625,
+          "top": 2194,
+          "width": 413.578125,
+          "x": -7.2890625,
+          "y": 2194
+        },
+        "src": "assets/career/year-1.png",
+        "viewportOverflow": true,
+        "visible": true
+      },
+      {
+        "alt": "詳細を開く",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.career-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2620,
+              "height": 370,
+              "left": 30,
+              "right": 369,
+              "top": 2250,
+              "width": 339,
+              "x": 30,
+              "y": 2250
+            }
+          },
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2699,
+              "height": 531,
+              "left": 0,
+              "right": 1440,
+              "top": 2168,
+              "width": 1440,
+              "x": 0,
+              "y": 2168
+            }
+          }
+        ],
+        "index": 27,
+        "naturalHeight": 0,
+        "naturalWidth": 0,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2620,
+          "element": "ARTICLE.career-card",
+          "height": 370,
+          "left": 30,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 369,
+          "top": 2250,
+          "width": 339,
+          "x": 30,
+          "y": 2250
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/career/plus.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "2〜3年目 組織の参謀役 年収例600万〜700万円",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.career-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2620,
+              "height": 370,
+              "left": 377,
+              "right": 716,
+              "top": 2250,
+              "width": 339,
+              "x": 377,
+              "y": 2250
+            }
+          },
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2699,
+              "height": 531,
+              "left": 0,
+              "right": 1440,
+              "top": 2168,
+              "width": 1440,
+              "x": 0,
+              "y": 2168
+            }
+          }
+        ],
+        "index": 28,
+        "naturalHeight": 1402,
+        "naturalWidth": 1122,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2620,
+          "element": "ARTICLE.career-card",
+          "height": 370,
+          "left": 377,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 716,
+          "top": 2250,
+          "width": 339,
+          "x": 377,
+          "y": 2250
+        },
+        "rendered": {
+          "bottom": 2710.78125,
+          "height": 516.78125,
+          "left": 339.7109375,
+          "right": 753.2890625,
+          "top": 2194,
+          "width": 413.578125,
+          "x": 339.7109375,
+          "y": 2194
+        },
+        "src": "assets/career/year-2-3.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "詳細を開く",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.career-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2620,
+              "height": 370,
+              "left": 377,
+              "right": 716,
+              "top": 2250,
+              "width": 339,
+              "x": 377,
+              "y": 2250
+            }
+          },
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2699,
+              "height": 531,
+              "left": 0,
+              "right": 1440,
+              "top": 2168,
+              "width": 1440,
+              "x": 0,
+              "y": 2168
+            }
+          }
+        ],
+        "index": 29,
+        "naturalHeight": 0,
+        "naturalWidth": 0,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2620,
+          "element": "ARTICLE.career-card",
+          "height": 370,
+          "left": 377,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 716,
+          "top": 2250,
+          "width": 339,
+          "x": 377,
+          "y": 2250
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/career/plus.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "4〜5年目 事業責任者 年収例800万〜1,000万円",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.career-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2620,
+              "height": 370,
+              "left": 724,
+              "right": 1063,
+              "top": 2250,
+              "width": 339,
+              "x": 724,
+              "y": 2250
+            }
+          },
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2699,
+              "height": 531,
+              "left": 0,
+              "right": 1440,
+              "top": 2168,
+              "width": 1440,
+              "x": 0,
+              "y": 2168
+            }
+          }
+        ],
+        "index": 30,
+        "naturalHeight": 1402,
+        "naturalWidth": 1122,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2620,
+          "element": "ARTICLE.career-card",
+          "height": 370,
+          "left": 724,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1063,
+          "top": 2250,
+          "width": 339,
+          "x": 724,
+          "y": 2250
+        },
+        "rendered": {
+          "bottom": 2710.78125,
+          "height": 516.78125,
+          "left": 686.7109375,
+          "right": 1100.2890625,
+          "top": 2194,
+          "width": 413.578125,
+          "x": 686.7109375,
+          "y": 2194
+        },
+        "src": "assets/career/year-4-5.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "詳細を開く",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.career-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2620,
+              "height": 370,
+              "left": 724,
+              "right": 1063,
+              "top": 2250,
+              "width": 339,
+              "x": 724,
+              "y": 2250
+            }
+          },
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2699,
+              "height": 531,
+              "left": 0,
+              "right": 1440,
+              "top": 2168,
+              "width": 1440,
+              "x": 0,
+              "y": 2168
+            }
+          }
+        ],
+        "index": 31,
+        "naturalHeight": 0,
+        "naturalWidth": 0,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2620,
+          "element": "ARTICLE.career-card",
+          "height": 370,
+          "left": 724,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1063,
+          "top": 2250,
+          "width": 339,
+          "x": 724,
+          "y": 2250
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/career/plus.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "6年目〜 子会社社長 年収例1,000万円〜",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.career-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2620,
+              "height": 370,
+              "left": 1071,
+              "right": 1410,
+              "top": 2250,
+              "width": 339,
+              "x": 1071,
+              "y": 2250
+            }
+          },
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2699,
+              "height": 531,
+              "left": 0,
+              "right": 1440,
+              "top": 2168,
+              "width": 1440,
+              "x": 0,
+              "y": 2168
+            }
+          },
+          {
+            "element": "BODY.",
+            "overflowX": "hidden",
+            "overflowY": "auto",
+            "rect": {
+              "bottom": 3932,
+              "height": 3932,
+              "left": 0,
+              "right": 1440,
+              "top": 0,
+              "width": 1440,
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "index": 32,
+        "naturalHeight": 1402,
+        "naturalWidth": 1122,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2620,
+          "element": "ARTICLE.career-card",
+          "height": 370,
+          "left": 1071,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1410,
+          "top": 2250,
+          "width": 339,
+          "x": 1071,
+          "y": 2250
+        },
+        "rendered": {
+          "bottom": 2710.78125,
+          "height": 516.78125,
+          "left": 1033.7109375,
+          "right": 1447.2890625,
+          "top": 2194,
+          "width": 413.578125,
+          "x": 1033.7109375,
+          "y": 2194
+        },
+        "src": "assets/career/year-6.png",
+        "viewportOverflow": true,
+        "visible": true
+      },
+      {
+        "alt": "詳細を開く",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.career-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2620,
+              "height": 370,
+              "left": 1071,
+              "right": 1410,
+              "top": 2250,
+              "width": 339,
+              "x": 1071,
+              "y": 2250
+            }
+          },
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2699,
+              "height": 531,
+              "left": 0,
+              "right": 1440,
+              "top": 2168,
+              "width": 1440,
+              "x": 0,
+              "y": 2168
+            }
+          }
+        ],
+        "index": 33,
+        "naturalHeight": 0,
+        "naturalWidth": 0,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2620,
+          "element": "ARTICLE.career-card",
+          "height": 370,
+          "left": 1071,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1410,
+          "top": 2250,
+          "width": 339,
+          "x": 1071,
+          "y": 2250
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/career/plus.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "年収例は実績・評価に応じた想定レンジであり、成果により上振れする可能性があります。",
+        "clippedBy": [
+          {
+            "element": "DIV.career-note desktop-only",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2659,
+              "height": 53,
+              "left": 305,
+              "right": 1135,
+              "top": 2606,
+              "width": 830,
+              "x": 305,
+              "y": 2606
+            }
+          },
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2699,
+              "height": 531,
+              "left": 0,
+              "right": 1440,
+              "top": 2168,
+              "width": 1440,
+              "x": 0,
+              "y": 2168
+            }
+          }
+        ],
+        "index": 34,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2659,
+          "element": "DIV.career-note desktop-only",
+          "height": 53,
+          "left": 305,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1135,
+          "top": 2606,
+          "width": 830,
+          "x": 305,
+          "y": 2606
+        },
+        "rendered": {
+          "bottom": 2772.6640625,
+          "height": 276.6640625,
+          "left": 305,
+          "right": 1135,
+          "top": 2496,
+          "width": 830,
+          "x": 305,
+          "y": 2496
+        },
+        "src": "assets/career/note.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "キャリアの詳細を見る",
+        "clippedBy": [
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2699,
+              "height": 531,
+              "left": 0,
+              "right": 1440,
+              "top": 2168,
+              "width": 1440,
+              "x": 0,
+              "y": 2168
+            }
+          }
+        ],
+        "index": 35,
+        "naturalHeight": 0,
+        "naturalWidth": 0,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "A.career-details mobile-only",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/career/details-cta.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "実際に、挑戦している先輩たち",
+        "clippedBy": [
+          {
+            "element": "H2.section-image-title people-title",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2782,
+              "height": 55,
+              "left": 415,
+              "right": 1025,
+              "top": 2727,
+              "width": 610,
+              "x": 415,
+              "y": 2727
+            }
+          },
+          {
+            "element": "SECTION.people",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3163,
+              "height": 464,
+              "left": 0,
+              "right": 1440,
+              "top": 2699,
+              "width": 1440,
+              "x": 0,
+              "y": 2699
+            }
+          }
+        ],
+        "index": 36,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2782,
+          "element": "H2.section-image-title people-title",
+          "height": 55,
+          "left": 415,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1025,
+          "top": 2727,
+          "width": 610,
+          "x": 415,
+          "y": 2727
+        },
+        "rendered": {
+          "bottom": 2869.328125,
+          "height": 203.328125,
+          "left": 415,
+          "right": 1025,
+          "top": 2666,
+          "width": 610,
+          "x": 415,
+          "y": 2666
+        },
+        "src": "assets/people/title.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "2020年入社、子会社社長",
+        "clippedBy": [],
+        "index": 37,
+        "naturalHeight": 1536,
+        "naturalWidth": 1024,
+        "objectFit": "contain",
+        "parent": {
+          "bottom": 3156.75,
+          "element": "ARTICLE.person-story story-a",
+          "height": 411.75,
+          "left": 41,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 720,
+          "top": 2745,
+          "width": 679,
+          "x": 41,
+          "y": 2745
+        },
+        "rendered": {
+          "bottom": 3156.75,
+          "height": 375,
+          "left": 41,
+          "right": 306,
+          "top": 2781.75,
+          "width": 265,
+          "x": 41,
+          "y": 2781.75
+        },
+        "src": "assets/people/person-a.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "1人のメンバーから1人の社長へ",
+        "clippedBy": [],
+        "index": 38,
+        "naturalHeight": 887,
+        "naturalWidth": 1774,
+        "objectFit": "contain",
+        "parent": {
+          "bottom": 3156.75,
+          "element": "DIV.person-copy",
+          "height": 411.75,
+          "left": 306,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 720,
+          "top": 2745,
+          "width": 414,
+          "x": 306,
+          "y": 2745
+        },
+        "rendered": {
+          "bottom": 2879,
+          "height": 120,
+          "left": 306,
+          "right": 651,
+          "top": 2759,
+          "width": 345,
+          "x": 306,
+          "y": 2759
+        },
+        "src": "assets/people/bubble-a.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "経営に興味があり、若いうちから事業に深く関われる環境を求めていました。入社後すぐに営業や採用、戦略立案まで任され、3年目には子会社社長に。",
+        "clippedBy": [],
+        "index": 39,
+        "naturalHeight": 1086,
+        "naturalWidth": 1448,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3156.75,
+          "element": "DIV.person-copy",
+          "height": 411.75,
+          "left": 306,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 720,
+          "top": 2745,
+          "width": 414,
+          "x": 306,
+          "y": 2745
+        },
+        "rendered": {
+          "bottom": 3156.75,
+          "height": 273.75,
+          "left": 306,
+          "right": 671,
+          "top": 2883,
+          "width": 365,
+          "x": 306,
+          "y": 2883
+        },
+        "src": "assets/people/body-a.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "2022年入社、事業推進リーダー",
+        "clippedBy": [],
+        "index": 40,
+        "naturalHeight": 1536,
+        "naturalWidth": 1024,
+        "objectFit": "contain",
+        "parent": {
+          "bottom": 3156.75,
+          "element": "ARTICLE.person-story story-b desktop-only",
+          "height": 411.75,
+          "left": 720,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 1399,
+          "top": 2745,
+          "width": 679,
+          "x": 720,
+          "y": 2745
+        },
+        "rendered": {
+          "bottom": 3156.75,
+          "height": 375,
+          "left": 720,
+          "right": 985,
+          "top": 2781.75,
+          "width": 265,
+          "x": 720,
+          "y": 2781.75
+        },
+        "src": "assets/people/person-b.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "入社2年で組織を率いるリーダーに",
+        "clippedBy": [],
+        "index": 41,
+        "naturalHeight": 887,
+        "naturalWidth": 1774,
+        "objectFit": "contain",
+        "parent": {
+          "bottom": 3156.75,
+          "element": "DIV.person-copy",
+          "height": 411.75,
+          "left": 985,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1399,
+          "top": 2745,
+          "width": 414,
+          "x": 985,
+          "y": 2745
+        },
+        "rendered": {
+          "bottom": 2879,
+          "height": 120,
+          "left": 985,
+          "right": 1330,
+          "top": 2759,
+          "width": 345,
+          "x": 985,
+          "y": 2759
+        },
+        "src": "assets/people/bubble-b.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "プロジェクトを牽引するポジションを任され、自分で考えて動く力が身につきました。チームをまとめ、成果を出す経験が今のマネジメント業務に直結しています。",
+        "clippedBy": [],
+        "index": 42,
+        "naturalHeight": 1086,
+        "naturalWidth": 1448,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3156.75,
+          "element": "DIV.person-copy",
+          "height": 411.75,
+          "left": 985,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1399,
+          "top": 2745,
+          "width": 414,
+          "x": 985,
+          "y": 2745
+        },
+        "rendered": {
+          "bottom": 3156.75,
+          "height": 273.75,
+          "left": 985,
+          "right": 1350,
+          "top": 2883,
+          "width": 365,
+          "x": 985,
+          "y": 2883
+        },
+        "src": "assets/people/body-b.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "1件目を表示中、全3ページ",
+        "clippedBy": [
+          {
+            "element": "SECTION.people",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3163,
+              "height": 464,
+              "left": 0,
+              "right": 1440,
+              "top": 2699,
+              "width": 1440,
+              "x": 0,
+              "y": 2699
+            }
+          }
+        ],
+        "index": 43,
+        "naturalHeight": 0,
+        "naturalWidth": 0,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3163,
+          "element": "SECTION.people",
+          "height": 464,
+          "left": 0,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1440,
+          "top": 2699,
+          "width": 1440,
+          "x": 0,
+          "y": 2699
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/people/dots.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "選考フロー",
+        "clippedBy": [
+          {
+            "element": "H2.section-image-title flow-title",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3232,
+              "height": 63,
+              "left": 545,
+              "right": 895,
+              "top": 3169,
+              "width": 350,
+              "x": 545,
+              "y": 3169
+            }
+          },
+          {
+            "element": "SECTION.flow",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3494,
+              "height": 331,
+              "left": 0,
+              "right": 1440,
+              "top": 3163,
+              "width": 1440,
+              "x": 0,
+              "y": 3163
+            }
+          }
+        ],
+        "index": 44,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3232,
+          "element": "H2.section-image-title flow-title",
+          "height": 63,
+          "left": 545,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 895,
+          "top": 3169,
+          "width": 350,
+          "x": 545,
+          "y": 3169
+        },
+        "rendered": {
+          "bottom": 3256.6640625,
+          "height": 116.6640625,
+          "left": 545,
+          "right": 895,
+          "top": 3140,
+          "width": 350,
+          "x": 545,
+          "y": 3140
+        },
+        "src": "assets/flow/title.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "LINE",
+        "clippedBy": [],
+        "index": 45,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3440,
+          "element": "ARTICLE.flow-card",
+          "height": 206,
+          "left": 50,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 376,
+          "top": 3234,
+          "width": 326,
+          "x": 50,
+          "y": 3234
+        },
+        "rendered": {
+          "bottom": 3391,
+          "height": 108,
+          "left": 63,
+          "right": 171,
+          "top": 3283,
+          "width": 108,
+          "x": 63,
+          "y": 3283
+        },
+        "src": "assets/flow/icon-line.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "吹き出し",
+        "clippedBy": [],
+        "index": 46,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3440,
+          "element": "ARTICLE.flow-card",
+          "height": 206,
+          "left": 388,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 714,
+          "top": 3234,
+          "width": 326,
+          "x": 388,
+          "y": 3234
+        },
+        "rendered": {
+          "bottom": 3391,
+          "height": 108,
+          "left": 401,
+          "right": 509,
+          "top": 3283,
+          "width": 108,
+          "x": 401,
+          "y": 3283
+        },
+        "src": "assets/flow/icon-interview.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "役員面接",
+        "clippedBy": [],
+        "index": 47,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3440,
+          "element": "ARTICLE.flow-card",
+          "height": 206,
+          "left": 726,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 1052,
+          "top": 3234,
+          "width": 326,
+          "x": 726,
+          "y": 3234
+        },
+        "rendered": {
+          "bottom": 3391,
+          "height": 108,
+          "left": 739,
+          "right": 847,
+          "top": 3283,
+          "width": 108,
+          "x": 739,
+          "y": 3283
+        },
+        "src": "assets/flow/icon-executive.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "内定書類",
+        "clippedBy": [],
+        "index": 48,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3440,
+          "element": "ARTICLE.flow-card",
+          "height": 206,
+          "left": 1064,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 1390,
+          "top": 3234,
+          "width": 326,
+          "x": 1064,
+          "y": 3234
+        },
+        "rendered": {
+          "bottom": 3391,
+          "height": 108,
+          "left": 1077,
+          "right": 1185,
+          "top": 3283,
+          "width": 108,
+          "x": 1077,
+          "y": 3283
+        },
+        "src": "assets/flow/icon-offer.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "未来を変える一歩を、今。",
+        "clippedBy": [
+          {
+            "element": "H2.",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3626.8359375,
+              "height": 80,
+              "left": 60,
+              "right": 670,
+              "top": 3546.8359375,
+              "width": 610,
+              "x": 60,
+              "y": 3546.8359375
+            }
+          },
+          {
+            "element": "SECTION.final-cta",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3784,
+              "height": 290,
+              "left": 0,
+              "right": 1440,
+              "top": 3494,
+              "width": 1440,
+              "x": 0,
+              "y": 3494
+            }
+          }
+        ],
+        "index": 49,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3626.8359375,
+          "element": "H2.",
+          "height": 80,
+          "left": 60,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 670,
+          "top": 3546.8359375,
+          "width": 610,
+          "x": 60,
+          "y": 3546.8359375
+        },
+        "rendered": {
+          "bottom": 3694.1640625,
+          "height": 203.328125,
+          "left": 60,
+          "right": 670,
+          "top": 3490.8359375,
+          "width": 610,
+          "x": 60,
+          "y": 3490.8359375
+        },
+        "src": "assets/final-cta/title.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "まずはカジュアルに、あなたの想いを聞かせてください。",
+        "clippedBy": [],
+        "index": 50,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3777.1640625,
+          "element": "DIV.final-copy",
+          "height": 258.328125,
+          "left": 60,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 759.59375,
+          "top": 3518.8359375,
+          "width": 699.59375,
+          "x": 60,
+          "y": 3518.8359375
+        },
+        "rendered": {
+          "bottom": 3777.1640625,
+          "height": 183.328125,
+          "left": 60,
+          "right": 610,
+          "top": 3593.8359375,
+          "width": 550,
+          "x": 60,
+          "y": 3593.8359375
+        },
+        "src": "assets/final-cta/subtitle.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "まずはLINEで話を聞く",
+        "clippedBy": [
+          {
+            "element": "A.final-line line-link",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3704,
+              "height": 130,
+              "left": 820,
+              "right": 1380,
+              "top": 3574,
+              "width": 560,
+              "x": 820,
+              "y": 3574
+            }
+          }
+        ],
+        "index": 51,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3704,
+          "element": "A.final-line line-link",
+          "height": 130,
+          "left": 820,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 1380,
+          "top": 3574,
+          "width": 560,
+          "x": 820,
+          "y": 3574
+        },
+        "rendered": {
+          "bottom": 3758.6640625,
+          "height": 186.6640625,
+          "left": 820,
+          "right": 1380,
+          "top": 3572,
+          "width": 560,
+          "x": 820,
+          "y": 3572
+        },
+        "src": "assets/final-cta/line-cta.png",
+        "viewportOverflow": false,
+        "visible": true
+      }
+    ],
+    "sections": {
+      "benefits": {
+        "bottom": 1165,
+        "height": 376,
+        "left": 0,
+        "right": 1440,
+        "top": 789,
+        "visible": true,
+        "width": 1440,
+        "x": 0,
+        "y": 789
+      },
+      "career": {
+        "bottom": 2699,
+        "height": 531,
+        "left": 0,
+        "right": 1440,
+        "top": 2168,
+        "visible": true,
+        "width": 1440,
+        "x": 0,
+        "y": 2168
+      },
+      "field": {
+        "bottom": 2168,
+        "height": 407,
+        "left": 0,
+        "right": 1440,
+        "top": 1761,
+        "visible": true,
+        "width": 1440,
+        "x": 0,
+        "y": 1761
+      },
+      "final-cta": {
+        "bottom": 3784,
+        "height": 290,
+        "left": 0,
+        "right": 1440,
+        "top": 3494,
+        "visible": true,
+        "width": 1440,
+        "x": 0,
+        "y": 3494
+      },
+      "flow": {
+        "bottom": 3494,
+        "height": 331,
+        "left": 0,
+        "right": 1440,
+        "top": 3163,
+        "visible": true,
+        "width": 1440,
+        "x": 0,
+        "y": 3163
+      },
+      "frontline": {
+        "bottom": 1761,
+        "height": 596,
+        "left": 0,
+        "right": 1440,
+        "top": 1165,
+        "visible": true,
+        "width": 1440,
+        "x": 0,
+        "y": 1165
+      },
+      "hero": {
+        "bottom": 845,
+        "height": 845,
+        "left": 0,
+        "right": 1440,
+        "top": 0,
+        "visible": true,
+        "width": 1440,
+        "x": 0,
+        "y": 0
+      },
+      "people": {
+        "bottom": 3163,
+        "height": 464,
+        "left": 0,
+        "right": 1440,
+        "top": 2699,
+        "visible": true,
+        "width": 1440,
+        "x": 0,
+        "y": 2699
+      },
+      "site-footer": {
+        "bottom": 3932,
+        "height": 148,
+        "left": 0,
+        "right": 1440,
+        "top": 3784,
+        "visible": true,
+        "width": 1440,
+        "x": 0,
+        "y": 3784
+      }
+    },
+    "viewport": {
+      "clientWidth": 1440,
+      "dpr": 1,
+      "height": 900,
+      "scrollHeight": 3932,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  },
+  "mobile": {
+    "images": [
+      {
+        "alt": "baudroie inc.",
+        "clippedBy": [
+          {
+            "element": "A.brand",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 50,
+              "height": 38,
+              "left": 12,
+              "right": 134,
+              "top": 12,
+              "width": 122,
+              "x": 12,
+              "y": 12
+            }
+          }
+        ],
+        "index": 0,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 50,
+          "element": "A.brand",
+          "height": 38,
+          "left": 12,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 134,
+          "top": 12,
+          "width": 122,
+          "x": 12,
+          "y": 12
+        },
+        "rendered": {
+          "bottom": 45.6640625,
+          "height": 40.6640625,
+          "left": 12,
+          "right": 134,
+          "top": 5,
+          "width": 122,
+          "x": 12,
+          "y": 5
+        },
+        "src": "assets/hero/logo.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "エントリーはこちら",
+        "clippedBy": [],
+        "index": 1,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "A.entry-button desktop-only",
+          "height": 0,
+          "left": 0,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/hero/entry.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "",
+        "clippedBy": [
+          {
+            "element": "BUTTON.menu-button mobile-only",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 51,
+              "height": 39,
+              "left": 341,
+              "right": 380,
+              "top": 12,
+              "width": 39,
+              "x": 341,
+              "y": 12
+            }
+          },
+          {
+            "element": "SECTION.hero",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 682,
+              "height": 682,
+              "left": 0,
+              "right": 390,
+              "top": 0,
+              "width": 390,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "element": "BODY.",
+            "overflowX": "hidden",
+            "overflowY": "auto",
+            "rect": {
+              "bottom": 3821,
+              "height": 3821,
+              "left": 0,
+              "right": 390,
+              "top": 0,
+              "width": 390,
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "index": 2,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 51,
+          "element": "BUTTON.menu-button mobile-only",
+          "height": 39,
+          "left": 341,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 380,
+          "top": 12,
+          "width": 39,
+          "x": 341,
+          "y": 12
+        },
+        "rendered": {
+          "bottom": 68,
+          "height": 80,
+          "left": 321,
+          "right": 401,
+          "top": -12,
+          "width": 80,
+          "x": 321,
+          "y": -12
+        },
+        "src": "assets/hero/hamburger.png",
+        "viewportOverflow": true,
+        "visible": true
+      },
+      {
+        "alt": "まずはLINEで話を聞く",
+        "clippedBy": [
+          {
+            "element": "A.image-button line-link",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 540.5625,
+              "height": 120,
+              "left": 10,
+              "right": 380,
+              "top": 420.5625,
+              "width": 370,
+              "x": 10,
+              "y": 420.5625
+            }
+          },
+          {
+            "element": "SECTION.hero",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 682,
+              "height": 682,
+              "left": 0,
+              "right": 390,
+              "top": 0,
+              "width": 390,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "element": "BODY.",
+            "overflowX": "hidden",
+            "overflowY": "auto",
+            "rect": {
+              "bottom": 3821,
+              "height": 3821,
+              "left": 0,
+              "right": 390,
+              "top": 0,
+              "width": 390,
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "index": 3,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 540.5625,
+          "element": "A.image-button line-link",
+          "height": 120,
+          "left": 10,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 380,
+          "top": 420.5625,
+          "width": 370,
+          "x": 10,
+          "y": 420.5625
+        },
+        "rendered": {
+          "bottom": 558.6953125,
+          "height": 138.1328125,
+          "left": -12.1953125,
+          "right": 402.203125,
+          "top": 420.5625,
+          "width": 414.3984375,
+          "x": -12.1953125,
+          "y": 420.5625
+        },
+        "src": "assets/hero/line-cta.png",
+        "viewportOverflow": true,
+        "visible": true
+      },
+      {
+        "alt": "3年後のキャリアを見る",
+        "clippedBy": [
+          {
+            "element": "A.image-button",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 660.5625,
+              "height": 120,
+              "left": 10,
+              "right": 380,
+              "top": 540.5625,
+              "width": 370,
+              "x": 10,
+              "y": 540.5625
+            }
+          },
+          {
+            "element": "SECTION.hero",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 682,
+              "height": 682,
+              "left": 0,
+              "right": 390,
+              "top": 0,
+              "width": 390,
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "element": "BODY.",
+            "overflowX": "hidden",
+            "overflowY": "auto",
+            "rect": {
+              "bottom": 3821,
+              "height": 3821,
+              "left": 0,
+              "right": 390,
+              "top": 0,
+              "width": 390,
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "index": 4,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 660.5625,
+          "element": "A.image-button",
+          "height": 120,
+          "left": 10,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 380,
+          "top": 540.5625,
+          "width": 370,
+          "x": 10,
+          "y": 540.5625
+        },
+        "rendered": {
+          "bottom": 678.6953125,
+          "height": 138.1328125,
+          "left": -12.1953125,
+          "right": 402.203125,
+          "top": 540.5625,
+          "width": 414.3984375,
+          "x": -12.1953125,
+          "y": 540.5625
+        },
+        "src": "assets/hero/career-cta.png",
+        "viewportOverflow": true,
+        "visible": true
+      },
+      {
+        "alt": "",
+        "clippedBy": [
+          {
+            "element": "SECTION.benefits",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1318,
+              "height": 636,
+              "left": 0,
+              "right": 390,
+              "top": 682,
+              "width": 390,
+              "x": 0,
+              "y": 682
+            }
+          }
+        ],
+        "index": 5,
+        "naturalHeight": 768,
+        "naturalWidth": 2048,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.benefit-desktop-card",
+          "height": 0,
+          "left": 0,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/cards/cards-strip.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "",
+        "clippedBy": [
+          {
+            "element": "SECTION.benefits",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1318,
+              "height": 636,
+              "left": 0,
+              "right": 390,
+              "top": 682,
+              "width": 390,
+              "x": 0,
+              "y": 682
+            }
+          }
+        ],
+        "index": 6,
+        "naturalHeight": 768,
+        "naturalWidth": 2048,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.benefit-desktop-card",
+          "height": 0,
+          "left": 0,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/cards/cards-strip.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "",
+        "clippedBy": [
+          {
+            "element": "SECTION.benefits",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1318,
+              "height": 636,
+              "left": 0,
+              "right": 390,
+              "top": 682,
+              "width": 390,
+              "x": 0,
+              "y": 682
+            }
+          }
+        ],
+        "index": 7,
+        "naturalHeight": 768,
+        "naturalWidth": 2048,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.benefit-desktop-card",
+          "height": 0,
+          "left": 0,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/cards/cards-strip.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "01 未経験から経営中枢へ",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.benefit-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 892,
+              "height": 196,
+              "left": 17,
+              "right": 373,
+              "top": 696,
+              "width": 356,
+              "x": 17,
+              "y": 696
+            }
+          },
+          {
+            "element": "SECTION.benefits",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1318,
+              "height": 636,
+              "left": 0,
+              "right": 390,
+              "top": 682,
+              "width": 390,
+              "x": 0,
+              "y": 682
+            }
+          },
+          {
+            "element": "BODY.",
+            "overflowX": "hidden",
+            "overflowY": "auto",
+            "rect": {
+              "bottom": 3821,
+              "height": 3821,
+              "left": 0,
+              "right": 390,
+              "top": 0,
+              "width": 390,
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "index": 8,
+        "naturalHeight": 768,
+        "naturalWidth": 2048,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 892,
+          "element": "ARTICLE.benefit-card",
+          "height": 196,
+          "left": 17,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 373,
+          "top": 696,
+          "width": 356,
+          "x": 17,
+          "y": 696
+        },
+        "rendered": {
+          "bottom": 953.5,
+          "height": 400.5,
+          "left": 17,
+          "right": 1085,
+          "top": 553,
+          "width": 1068,
+          "x": 17,
+          "y": 553
+        },
+        "src": "assets/cards/cards-strip.png",
+        "viewportOverflow": true,
+        "visible": true
+      },
+      {
+        "alt": "02 経営のリアルを体感",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.benefit-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1096,
+              "height": 196,
+              "left": 17,
+              "right": 373,
+              "top": 900,
+              "width": 356,
+              "x": 17,
+              "y": 900
+            }
+          },
+          {
+            "element": "SECTION.benefits",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1318,
+              "height": 636,
+              "left": 0,
+              "right": 390,
+              "top": 682,
+              "width": 390,
+              "x": 0,
+              "y": 682
+            }
+          },
+          {
+            "element": "BODY.",
+            "overflowX": "hidden",
+            "overflowY": "auto",
+            "rect": {
+              "bottom": 3821,
+              "height": 3821,
+              "left": 0,
+              "right": 390,
+              "top": 0,
+              "width": 390,
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "index": 9,
+        "naturalHeight": 768,
+        "naturalWidth": 2048,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1096,
+          "element": "ARTICLE.benefit-card",
+          "height": 196,
+          "left": 17,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 373,
+          "top": 900,
+          "width": 356,
+          "x": 17,
+          "y": 900
+        },
+        "rendered": {
+          "bottom": 1157.5,
+          "height": 400.5,
+          "left": -339,
+          "right": 729,
+          "top": 757,
+          "width": 1068,
+          "x": -339,
+          "y": 757
+        },
+        "src": "assets/cards/cards-strip.png",
+        "viewportOverflow": true,
+        "visible": true
+      },
+      {
+        "alt": "03 独立も可能",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.benefit-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1300,
+              "height": 196,
+              "left": 17,
+              "right": 373,
+              "top": 1104,
+              "width": 356,
+              "x": 17,
+              "y": 1104
+            }
+          },
+          {
+            "element": "SECTION.benefits",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1318,
+              "height": 636,
+              "left": 0,
+              "right": 390,
+              "top": 682,
+              "width": 390,
+              "x": 0,
+              "y": 682
+            }
+          },
+          {
+            "element": "BODY.",
+            "overflowX": "hidden",
+            "overflowY": "auto",
+            "rect": {
+              "bottom": 3821,
+              "height": 3821,
+              "left": 0,
+              "right": 390,
+              "top": 0,
+              "width": 390,
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "index": 10,
+        "naturalHeight": 768,
+        "naturalWidth": 2048,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1300,
+          "element": "ARTICLE.benefit-card",
+          "height": 196,
+          "left": 17,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 373,
+          "top": 1104,
+          "width": 356,
+          "x": 17,
+          "y": 1104
+        },
+        "rendered": {
+          "bottom": 1361.5,
+          "height": 400.5,
+          "left": -695,
+          "right": 373,
+          "top": 961,
+          "width": 1068,
+          "x": -695,
+          "y": 961
+        },
+        "src": "assets/cards/cards-strip.png",
+        "viewportOverflow": true,
+        "visible": true
+      },
+      {
+        "alt": "なぜ最前線で働けるのか",
+        "clippedBy": [
+          {
+            "element": "H2.section-image-title frontline-title",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1413,
+              "height": 65,
+              "left": 12.5,
+              "right": 377.5,
+              "top": 1348,
+              "width": 365,
+              "x": 12.5,
+              "y": 1348
+            }
+          },
+          {
+            "element": "SECTION.frontline",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1827,
+              "height": 509,
+              "left": 0,
+              "right": 390,
+              "top": 1318,
+              "width": 390,
+              "x": 0,
+              "y": 1318
+            }
+          }
+        ],
+        "index": 11,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1413,
+          "element": "H2.section-image-title frontline-title",
+          "height": 65,
+          "left": 12.5,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 377.5,
+          "top": 1348,
+          "width": 365,
+          "x": 12.5,
+          "y": 1348
+        },
+        "rendered": {
+          "bottom": 1430.6640625,
+          "height": 121.6640625,
+          "left": 12.5,
+          "right": 377.5,
+          "top": 1309,
+          "width": 365,
+          "x": 12.5,
+          "y": 1309
+        },
+        "src": "assets/frontline/title.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "ビルのアイコン",
+        "clippedBy": [],
+        "index": 12,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1577.9375,
+          "element": "ARTICLE.frontline-step",
+          "height": 142.9375,
+          "left": 10,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 133.328125,
+          "top": 1435,
+          "width": 123.328125,
+          "x": 10,
+          "y": 1435
+        },
+        "rendered": {
+          "bottom": 1525,
+          "height": 90,
+          "left": 26.6640625,
+          "right": 116.6640625,
+          "top": 1435,
+          "width": 90,
+          "x": 26.6640625,
+          "y": 1435
+        },
+        "src": "assets/frontline/icon-ma.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "次へ",
+        "clippedBy": [],
+        "index": 13,
+        "naturalHeight": 887,
+        "naturalWidth": 1774,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1577.9375,
+          "element": "DIV.frontline-diagram",
+          "height": 142.9375,
+          "left": 10,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 380,
+          "top": 1435,
+          "width": 370,
+          "x": 10,
+          "y": 1435
+        },
+        "rendered": {
+          "bottom": 1488,
+          "height": 14,
+          "left": 10,
+          "right": 38,
+          "top": 1474,
+          "width": 28,
+          "x": 10,
+          "y": 1474
+        },
+        "src": "assets/frontline/arrow-1.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "経営統合のアイコン",
+        "clippedBy": [],
+        "index": 14,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1577.9375,
+          "element": "ARTICLE.frontline-step",
+          "height": 142.9375,
+          "left": 133.328125,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 256.6640625,
+          "top": 1435,
+          "width": 123.3359375,
+          "x": 133.328125,
+          "y": 1435
+        },
+        "rendered": {
+          "bottom": 1525,
+          "height": 90,
+          "left": 149.9921875,
+          "right": 239.9921875,
+          "top": 1435,
+          "width": 90,
+          "x": 149.9921875,
+          "y": 1435
+        },
+        "src": "assets/frontline/icon-pmi.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "次へ",
+        "clippedBy": [],
+        "index": 15,
+        "naturalHeight": 887,
+        "naturalWidth": 1774,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1577.9375,
+          "element": "DIV.frontline-diagram",
+          "height": 142.9375,
+          "left": 10,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 380,
+          "top": 1435,
+          "width": 370,
+          "x": 10,
+          "y": 1435
+        },
+        "rendered": {
+          "bottom": 1488,
+          "height": 14,
+          "left": 115,
+          "right": 143,
+          "top": 1474,
+          "width": 28,
+          "x": 115,
+          "y": 1474
+        },
+        "src": "assets/frontline/arrow-2.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "若手経営人材のアイコン",
+        "clippedBy": [],
+        "index": 16,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1577.9375,
+          "element": "ARTICLE.frontline-step",
+          "height": 142.9375,
+          "left": 256.6640625,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 380,
+          "top": 1435,
+          "width": 123.3359375,
+          "x": 256.6640625,
+          "y": 1435
+        },
+        "rendered": {
+          "bottom": 1525,
+          "height": 90,
+          "left": 273.328125,
+          "right": 363.328125,
+          "top": 1435,
+          "width": 90,
+          "x": 273.328125,
+          "y": 1435
+        },
+        "src": "assets/frontline/icon-people.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "当社グループは急成長のため、M&Aを積極的に推進。PMIや新規事業の立ち上げを担う若手人材が足りません。だからこそ、入社年次に関係なく、裁量とチャンスを用意しています。",
+        "clippedBy": [
+          {
+            "element": "SECTION.frontline",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1827,
+              "height": 509,
+              "left": 0,
+              "right": 390,
+              "top": 1318,
+              "width": 390,
+              "x": 0,
+              "y": 1318
+            }
+          }
+        ],
+        "index": 17,
+        "naturalHeight": 0,
+        "naturalWidth": 0,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.frontline-description",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/frontline/description.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "あなたに任されるフィールド",
+        "clippedBy": [],
+        "index": 18,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "H2.section-image-title field-title",
+          "height": 0,
+          "left": 0,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/field/title.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "営業 顧客課題を解決し、収益をつくる",
+        "clippedBy": [],
+        "index": 19,
+        "naturalHeight": 1448,
+        "naturalWidth": 1086,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.field-grid",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/field/sales.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "採用 仲間を増やし、組織を強くする",
+        "clippedBy": [],
+        "index": 20,
+        "naturalHeight": 1448,
+        "naturalWidth": 1086,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.field-grid",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/field/recruiting.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "組織運営 仕組みを整え、チームを動かす",
+        "clippedBy": [],
+        "index": 21,
+        "naturalHeight": 1448,
+        "naturalWidth": 1086,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.field-grid",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/field/organization.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "事業推進 新規事業を立ち上げ、成果を形にする",
+        "clippedBy": [],
+        "index": 22,
+        "naturalHeight": 1448,
+        "naturalWidth": 1086,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.field-grid",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/field/business.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "経営戦略 経営の視点で、未来を描き実行する",
+        "clippedBy": [],
+        "index": 23,
+        "naturalHeight": 1448,
+        "naturalWidth": 1086,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.field-grid",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/field/strategy.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "PMI M&A後の統合をリードし、価値を最大化する",
+        "clippedBy": [],
+        "index": 24,
+        "naturalHeight": 1448,
+        "naturalWidth": 1086,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.field-grid",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/field/pmi.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "NEXT LEADERのキャリアパス",
+        "clippedBy": [
+          {
+            "element": "H2.section-image-title career-title",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 1903,
+              "height": 54,
+              "left": 9,
+              "right": 381,
+              "top": 1849,
+              "width": 372,
+              "x": 9,
+              "y": 1849
+            }
+          },
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2537,
+              "height": 710,
+              "left": 0,
+              "right": 390,
+              "top": 1827,
+              "width": 390,
+              "x": 0,
+              "y": 1827
+            }
+          }
+        ],
+        "index": 25,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 1903,
+          "element": "H2.section-image-title career-title",
+          "height": 54,
+          "left": 9,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 381,
+          "top": 1849,
+          "width": 372,
+          "x": 9,
+          "y": 1849
+        },
+        "rendered": {
+          "bottom": 1925,
+          "height": 124,
+          "left": 9,
+          "right": 381,
+          "top": 1801,
+          "width": 372,
+          "x": 9,
+          "y": 1801
+        },
+        "src": "assets/career/title.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "1年目 経営者候補生 年収例400万〜500万円",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.career-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2046,
+              "height": 129,
+              "left": 18,
+              "right": 372,
+              "top": 1917,
+              "width": 354,
+              "x": 18,
+              "y": 1917
+            }
+          }
+        ],
+        "index": 26,
+        "naturalHeight": 1402,
+        "naturalWidth": 1122,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2046,
+          "element": "ARTICLE.career-card",
+          "height": 129,
+          "left": 18,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 372,
+          "top": 1917,
+          "width": 354,
+          "x": 18,
+          "y": 1917
+        },
+        "rendered": {
+          "bottom": 2212.859375,
+          "height": 374.859375,
+          "left": 30,
+          "right": 330,
+          "top": 1838,
+          "width": 300,
+          "x": 30,
+          "y": 1838
+        },
+        "src": "assets/career/year-1.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "詳細を開く",
+        "clippedBy": [],
+        "index": 27,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "cover",
+        "parent": {
+          "bottom": 2046,
+          "element": "ARTICLE.career-card",
+          "height": 129,
+          "left": 18,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 372,
+          "top": 1917,
+          "width": 354,
+          "x": 18,
+          "y": 1917
+        },
+        "rendered": {
+          "bottom": 1992,
+          "height": 29,
+          "left": 329,
+          "right": 358,
+          "top": 1963,
+          "width": 29,
+          "x": 329,
+          "y": 1963
+        },
+        "src": "assets/career/plus.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "2〜3年目 組織の参謀役 年収例600万〜700万円",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.career-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2179,
+              "height": 129,
+              "left": 18,
+              "right": 372,
+              "top": 2050,
+              "width": 354,
+              "x": 18,
+              "y": 2050
+            }
+          }
+        ],
+        "index": 28,
+        "naturalHeight": 1402,
+        "naturalWidth": 1122,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2179,
+          "element": "ARTICLE.career-card",
+          "height": 129,
+          "left": 18,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 372,
+          "top": 2050,
+          "width": 354,
+          "x": 18,
+          "y": 2050
+        },
+        "rendered": {
+          "bottom": 2318.859375,
+          "height": 374.859375,
+          "left": 30,
+          "right": 330,
+          "top": 1944,
+          "width": 300,
+          "x": 30,
+          "y": 1944
+        },
+        "src": "assets/career/year-2-3.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "詳細を開く",
+        "clippedBy": [],
+        "index": 29,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "cover",
+        "parent": {
+          "bottom": 2179,
+          "element": "ARTICLE.career-card",
+          "height": 129,
+          "left": 18,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 372,
+          "top": 2050,
+          "width": 354,
+          "x": 18,
+          "y": 2050
+        },
+        "rendered": {
+          "bottom": 2125,
+          "height": 29,
+          "left": 329,
+          "right": 358,
+          "top": 2096,
+          "width": 29,
+          "x": 329,
+          "y": 2096
+        },
+        "src": "assets/career/plus.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "4〜5年目 事業責任者 年収例800万〜1,000万円",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.career-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2312,
+              "height": 129,
+              "left": 18,
+              "right": 372,
+              "top": 2183,
+              "width": 354,
+              "x": 18,
+              "y": 2183
+            }
+          }
+        ],
+        "index": 30,
+        "naturalHeight": 1402,
+        "naturalWidth": 1122,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2312,
+          "element": "ARTICLE.career-card",
+          "height": 129,
+          "left": 18,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 372,
+          "top": 2183,
+          "width": 354,
+          "x": 18,
+          "y": 2183
+        },
+        "rendered": {
+          "bottom": 2456.859375,
+          "height": 374.859375,
+          "left": 30,
+          "right": 330,
+          "top": 2082,
+          "width": 300,
+          "x": 30,
+          "y": 2082
+        },
+        "src": "assets/career/year-4-5.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "詳細を開く",
+        "clippedBy": [],
+        "index": 31,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "cover",
+        "parent": {
+          "bottom": 2312,
+          "element": "ARTICLE.career-card",
+          "height": 129,
+          "left": 18,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 372,
+          "top": 2183,
+          "width": 354,
+          "x": 18,
+          "y": 2183
+        },
+        "rendered": {
+          "bottom": 2258,
+          "height": 29,
+          "left": 329,
+          "right": 358,
+          "top": 2229,
+          "width": 29,
+          "x": 329,
+          "y": 2229
+        },
+        "src": "assets/career/plus.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "6年目〜 子会社社長 年収例1,000万円〜",
+        "clippedBy": [
+          {
+            "element": "ARTICLE.career-card",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2445,
+              "height": 129,
+              "left": 18,
+              "right": 372,
+              "top": 2316,
+              "width": 354,
+              "x": 18,
+              "y": 2316
+            }
+          },
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2537,
+              "height": 710,
+              "left": 0,
+              "right": 390,
+              "top": 1827,
+              "width": 390,
+              "x": 0,
+              "y": 1827
+            }
+          }
+        ],
+        "index": 32,
+        "naturalHeight": 1402,
+        "naturalWidth": 1122,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2445,
+          "element": "ARTICLE.career-card",
+          "height": 129,
+          "left": 18,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 372,
+          "top": 2316,
+          "width": 354,
+          "x": 18,
+          "y": 2316
+        },
+        "rendered": {
+          "bottom": 2605.859375,
+          "height": 374.859375,
+          "left": 30,
+          "right": 330,
+          "top": 2231,
+          "width": 300,
+          "x": 30,
+          "y": 2231
+        },
+        "src": "assets/career/year-6.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "詳細を開く",
+        "clippedBy": [],
+        "index": 33,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "cover",
+        "parent": {
+          "bottom": 2445,
+          "element": "ARTICLE.career-card",
+          "height": 129,
+          "left": 18,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 372,
+          "top": 2316,
+          "width": 354,
+          "x": 18,
+          "y": 2316
+        },
+        "rendered": {
+          "bottom": 2391,
+          "height": 29,
+          "left": 329,
+          "right": 358,
+          "top": 2362,
+          "width": 29,
+          "x": 329,
+          "y": 2362
+        },
+        "src": "assets/career/plus.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "年収例は実績・評価に応じた想定レンジであり、成果により上振れする可能性があります。",
+        "clippedBy": [
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2537,
+              "height": 710,
+              "left": 0,
+              "right": 390,
+              "top": 1827,
+              "width": 390,
+              "x": 0,
+              "y": 1827
+            }
+          }
+        ],
+        "index": 34,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.career-note desktop-only",
+          "height": 0,
+          "left": 0,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/career/note.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "キャリアの詳細を見る",
+        "clippedBy": [
+          {
+            "element": "A.career-details mobile-only",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2522,
+              "height": 64,
+              "left": 18,
+              "right": 372,
+              "top": 2458,
+              "width": 354,
+              "x": 18,
+              "y": 2458
+            }
+          },
+          {
+            "element": "SECTION.career",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2537,
+              "height": 710,
+              "left": 0,
+              "right": 390,
+              "top": 1827,
+              "width": 390,
+              "x": 0,
+              "y": 1827
+            }
+          }
+        ],
+        "index": 35,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2522,
+          "element": "A.career-details mobile-only",
+          "height": 64,
+          "left": 18,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 372,
+          "top": 2458,
+          "width": 354,
+          "x": 18,
+          "y": 2458
+        },
+        "rendered": {
+          "bottom": 2574,
+          "height": 118,
+          "left": 18,
+          "right": 372,
+          "top": 2456,
+          "width": 354,
+          "x": 18,
+          "y": 2456
+        },
+        "src": "assets/career/details-cta.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "実際に、挑戦している先輩たち",
+        "clippedBy": [
+          {
+            "element": "H2.section-image-title people-title",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2616,
+              "height": 48,
+              "left": 15,
+              "right": 375,
+              "top": 2568,
+              "width": 360,
+              "x": 15,
+              "y": 2568
+            }
+          },
+          {
+            "element": "SECTION.people",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3003,
+              "height": 466,
+              "left": 0,
+              "right": 390,
+              "top": 2537,
+              "width": 390,
+              "x": 0,
+              "y": 2537
+            }
+          }
+        ],
+        "index": 36,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2616,
+          "element": "H2.section-image-title people-title",
+          "height": 48,
+          "left": 15,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 375,
+          "top": 2568,
+          "width": 360,
+          "x": 15,
+          "y": 2568
+        },
+        "rendered": {
+          "bottom": 2645,
+          "height": 120,
+          "left": 15,
+          "right": 375,
+          "top": 2525,
+          "width": 360,
+          "x": 15,
+          "y": 2525
+        },
+        "src": "assets/people/title.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "2020年入社、子会社社長",
+        "clippedBy": [],
+        "index": 37,
+        "naturalHeight": 1536,
+        "naturalWidth": 1024,
+        "objectFit": "contain",
+        "parent": {
+          "bottom": 2947,
+          "element": "ARTICLE.person-story story-a",
+          "height": 327,
+          "left": 17,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 373,
+          "top": 2620,
+          "width": 356,
+          "x": 17,
+          "y": 2620
+        },
+        "rendered": {
+          "bottom": 2947,
+          "height": 310,
+          "left": 17,
+          "right": 172,
+          "top": 2637,
+          "width": 155,
+          "x": 17,
+          "y": 2637
+        },
+        "src": "assets/people/person-a.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "1人のメンバーから1人の社長へ",
+        "clippedBy": [],
+        "index": 38,
+        "naturalHeight": 887,
+        "naturalWidth": 1774,
+        "objectFit": "contain",
+        "parent": {
+          "bottom": 2947,
+          "element": "DIV.person-copy",
+          "height": 327,
+          "left": 17,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 373,
+          "top": 2620,
+          "width": 356,
+          "x": 17,
+          "y": 2620
+        },
+        "rendered": {
+          "bottom": 2739,
+          "height": 112,
+          "left": 117,
+          "right": 372,
+          "top": 2627,
+          "width": 255,
+          "x": 117,
+          "y": 2627
+        },
+        "src": "assets/people/bubble-a.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "経営に興味があり、若いうちから事業に深く関われる環境を求めていました。入社後すぐに営業や採用、戦略立案まで任され、3年目には子会社社長に。",
+        "clippedBy": [
+          {
+            "element": "DIV.person-copy",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 2947,
+              "height": 327,
+              "left": 17,
+              "right": 373,
+              "top": 2620,
+              "width": 356,
+              "x": 17,
+              "y": 2620
+            }
+          }
+        ],
+        "index": 39,
+        "naturalHeight": 1086,
+        "naturalWidth": 1448,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 2947,
+          "element": "DIV.person-copy",
+          "height": 327,
+          "left": 17,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 373,
+          "top": 2620,
+          "width": 356,
+          "x": 17,
+          "y": 2620
+        },
+        "rendered": {
+          "bottom": 2928.5,
+          "height": 202.5,
+          "left": 106,
+          "right": 376,
+          "top": 2726,
+          "width": 270,
+          "x": 106,
+          "y": 2726
+        },
+        "src": "assets/people/body-a.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "2022年入社、事業推進リーダー",
+        "clippedBy": [
+          {
+            "element": "SECTION.people",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3003,
+              "height": 466,
+              "left": 0,
+              "right": 390,
+              "top": 2537,
+              "width": 390,
+              "x": 0,
+              "y": 2537
+            }
+          }
+        ],
+        "index": 40,
+        "naturalHeight": 1536,
+        "naturalWidth": 1024,
+        "objectFit": "contain",
+        "parent": {
+          "bottom": 0,
+          "element": "ARTICLE.person-story story-b desktop-only",
+          "height": 0,
+          "left": 0,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/people/person-b.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "入社2年で組織を率いるリーダーに",
+        "clippedBy": [
+          {
+            "element": "SECTION.people",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3003,
+              "height": 466,
+              "left": 0,
+              "right": 390,
+              "top": 2537,
+              "width": 390,
+              "x": 0,
+              "y": 2537
+            }
+          }
+        ],
+        "index": 41,
+        "naturalHeight": 887,
+        "naturalWidth": 1774,
+        "objectFit": "contain",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.person-copy",
+          "height": 0,
+          "left": 0,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/people/bubble-b.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "プロジェクトを牽引するポジションを任され、自分で考えて動く力が身につきました。チームをまとめ、成果を出す経験が今のマネジメント業務に直結しています。",
+        "clippedBy": [
+          {
+            "element": "SECTION.people",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3003,
+              "height": 466,
+              "left": 0,
+              "right": 390,
+              "top": 2537,
+              "width": 390,
+              "x": 0,
+              "y": 2537
+            }
+          }
+        ],
+        "index": 42,
+        "naturalHeight": 1086,
+        "naturalWidth": 1448,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 0,
+          "element": "DIV.person-copy",
+          "height": 0,
+          "left": 0,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/people/body-b.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "1件目を表示中、全3ページ",
+        "clippedBy": [],
+        "index": 43,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "cover",
+        "parent": {
+          "bottom": 3003,
+          "element": "SECTION.people",
+          "height": 466,
+          "left": 0,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 390,
+          "top": 2537,
+          "width": 390,
+          "x": 0,
+          "y": 2537
+        },
+        "rendered": {
+          "bottom": 2989,
+          "height": 34,
+          "left": 145,
+          "right": 245,
+          "top": 2955,
+          "width": 100,
+          "x": 145,
+          "y": 2955
+        },
+        "src": "assets/people/dots.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "選考フロー",
+        "clippedBy": [
+          {
+            "element": "H2.section-image-title flow-title",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3053,
+              "height": 42,
+              "left": 72.5,
+              "right": 317.5,
+              "top": 3011,
+              "width": 245,
+              "x": 72.5,
+              "y": 3011
+            }
+          },
+          {
+            "element": "SECTION.flow",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3291,
+              "height": 288,
+              "left": 0,
+              "right": 390,
+              "top": 3003,
+              "width": 390,
+              "x": 0,
+              "y": 3003
+            }
+          }
+        ],
+        "index": 44,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3053,
+          "element": "H2.section-image-title flow-title",
+          "height": 42,
+          "left": 72.5,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 317.5,
+          "top": 3011,
+          "width": 245,
+          "x": 72.5,
+          "y": 3011
+        },
+        "rendered": {
+          "bottom": 3073.6640625,
+          "height": 81.6640625,
+          "left": 72.5,
+          "right": 317.5,
+          "top": 2992,
+          "width": 245,
+          "x": 72.5,
+          "y": 2992
+        },
+        "src": "assets/flow/title.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "LINE",
+        "clippedBy": [],
+        "index": 45,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "contain",
+        "parent": {
+          "bottom": 3111,
+          "element": "ARTICLE.flow-card",
+          "height": 58,
+          "left": 18,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 372,
+          "top": 3053,
+          "width": 354,
+          "x": 18,
+          "y": 3053
+        },
+        "rendered": {
+          "bottom": 3108,
+          "height": 52,
+          "left": 24,
+          "right": 82,
+          "top": 3056,
+          "width": 58,
+          "x": 24,
+          "y": 3056
+        },
+        "src": "assets/flow/icon-line.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "吹き出し",
+        "clippedBy": [],
+        "index": 46,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "contain",
+        "parent": {
+          "bottom": 3171,
+          "element": "ARTICLE.flow-card",
+          "height": 58,
+          "left": 18,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 372,
+          "top": 3113,
+          "width": 354,
+          "x": 18,
+          "y": 3113
+        },
+        "rendered": {
+          "bottom": 3168,
+          "height": 52,
+          "left": 24,
+          "right": 82,
+          "top": 3116,
+          "width": 58,
+          "x": 24,
+          "y": 3116
+        },
+        "src": "assets/flow/icon-interview.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "役員面接",
+        "clippedBy": [],
+        "index": 47,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "contain",
+        "parent": {
+          "bottom": 3231,
+          "element": "ARTICLE.flow-card",
+          "height": 58,
+          "left": 18,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 372,
+          "top": 3173,
+          "width": 354,
+          "x": 18,
+          "y": 3173
+        },
+        "rendered": {
+          "bottom": 3228,
+          "height": 52,
+          "left": 24,
+          "right": 82,
+          "top": 3176,
+          "width": 58,
+          "x": 24,
+          "y": 3176
+        },
+        "src": "assets/flow/icon-executive.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "内定書類",
+        "clippedBy": [],
+        "index": 48,
+        "naturalHeight": 1254,
+        "naturalWidth": 1254,
+        "objectFit": "contain",
+        "parent": {
+          "bottom": 3291,
+          "element": "ARTICLE.flow-card",
+          "height": 58,
+          "left": 18,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 372,
+          "top": 3233,
+          "width": 354,
+          "x": 18,
+          "y": 3233
+        },
+        "rendered": {
+          "bottom": 3288,
+          "height": 52,
+          "left": 24,
+          "right": 82,
+          "top": 3236,
+          "width": 58,
+          "x": 24,
+          "y": 3236
+        },
+        "src": "assets/flow/icon-offer.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "未来を変える一歩を、今。",
+        "clippedBy": [
+          {
+            "element": "H2.",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3381,
+              "height": 70,
+              "left": 16,
+              "right": 374,
+              "top": 3311,
+              "width": 358,
+              "x": 16,
+              "y": 3311
+            }
+          },
+          {
+            "element": "SECTION.final-cta",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3565,
+              "height": 274,
+              "left": 0,
+              "right": 390,
+              "top": 3291,
+              "width": 390,
+              "x": 0,
+              "y": 3291
+            }
+          }
+        ],
+        "index": 49,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3381,
+          "element": "H2.",
+          "height": 70,
+          "left": 16,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 374,
+          "top": 3311,
+          "width": 358,
+          "x": 16,
+          "y": 3311
+        },
+        "rendered": {
+          "bottom": 3399.328125,
+          "height": 119.328125,
+          "left": 16,
+          "right": 374,
+          "top": 3280,
+          "width": 358,
+          "x": 16,
+          "y": 3280
+        },
+        "src": "assets/final-cta/title.png",
+        "viewportOverflow": false,
+        "visible": true
+      },
+      {
+        "alt": "まずはカジュアルに、あなたの想いを聞かせてください。",
+        "clippedBy": [
+          {
+            "element": "SECTION.final-cta",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3565,
+              "height": 274,
+              "left": 0,
+              "right": 390,
+              "top": 3291,
+              "width": 390,
+              "x": 0,
+              "y": 3291
+            }
+          }
+        ],
+        "index": 50,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3423.1875,
+          "element": "DIV.final-copy",
+          "height": 112.1875,
+          "left": 10,
+          "overflowX": "visible",
+          "overflowY": "visible",
+          "right": 380,
+          "top": 3311,
+          "width": 370,
+          "x": 10,
+          "y": 3311
+        },
+        "rendered": {
+          "bottom": 0,
+          "height": 0,
+          "left": 0,
+          "right": 0,
+          "top": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "src": "assets/final-cta/subtitle.png",
+        "viewportOverflow": false,
+        "visible": false
+      },
+      {
+        "alt": "まずはLINEで話を聞く",
+        "clippedBy": [
+          {
+            "element": "A.final-line line-link",
+            "overflowX": "hidden",
+            "overflowY": "hidden",
+            "rect": {
+              "bottom": 3541.1875,
+              "height": 105,
+              "left": 10,
+              "right": 380,
+              "top": 3436.1875,
+              "width": 370,
+              "x": 10,
+              "y": 3436.1875
+            }
+          }
+        ],
+        "index": 51,
+        "naturalHeight": 724,
+        "naturalWidth": 2172,
+        "objectFit": "fill",
+        "parent": {
+          "bottom": 3541.1875,
+          "element": "A.final-line line-link",
+          "height": 105,
+          "left": 10,
+          "overflowX": "hidden",
+          "overflowY": "hidden",
+          "right": 380,
+          "top": 3436.1875,
+          "width": 370,
+          "x": 10,
+          "y": 3436.1875
+        },
+        "rendered": {
+          "bottom": 3559.515625,
+          "height": 123.328125,
+          "left": 10,
+          "right": 380,
+          "top": 3436.1875,
+          "width": 370,
+          "x": 10,
+          "y": 3436.1875
+        },
+        "src": "assets/final-cta/line-cta.png",
+        "viewportOverflow": false,
+        "visible": true
+      }
+    ],
+    "sections": {
+      "benefits": {
+        "bottom": 1318,
+        "height": 636,
+        "left": 0,
+        "right": 390,
+        "top": 682,
+        "visible": true,
+        "width": 390,
+        "x": 0,
+        "y": 682
+      },
+      "career": {
+        "bottom": 2537,
+        "height": 710,
+        "left": 0,
+        "right": 390,
+        "top": 1827,
+        "visible": true,
+        "width": 390,
+        "x": 0,
+        "y": 1827
+      },
+      "field": {
+        "bottom": 0,
+        "height": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "visible": false,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "final-cta": {
+        "bottom": 3565,
+        "height": 274,
+        "left": 0,
+        "right": 390,
+        "top": 3291,
+        "visible": true,
+        "width": 390,
+        "x": 0,
+        "y": 3291
+      },
+      "flow": {
+        "bottom": 3291,
+        "height": 288,
+        "left": 0,
+        "right": 390,
+        "top": 3003,
+        "visible": true,
+        "width": 390,
+        "x": 0,
+        "y": 3003
+      },
+      "frontline": {
+        "bottom": 1827,
+        "height": 509,
+        "left": 0,
+        "right": 390,
+        "top": 1318,
+        "visible": true,
+        "width": 390,
+        "x": 0,
+        "y": 1318
+      },
+      "hero": {
+        "bottom": 682,
+        "height": 682,
+        "left": 0,
+        "right": 390,
+        "top": 0,
+        "visible": true,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "people": {
+        "bottom": 3003,
+        "height": 466,
+        "left": 0,
+        "right": 390,
+        "top": 2537,
+        "visible": true,
+        "width": 390,
+        "x": 0,
+        "y": 2537
+      },
+      "site-footer": {
+        "bottom": 3821,
+        "height": 256,
+        "left": 0,
+        "right": 390,
+        "top": 3565,
+        "visible": true,
+        "width": 390,
+        "x": 0,
+        "y": 3565
+      }
+    },
+    "viewport": {
+      "clientWidth": 390,
+      "dpr": 1,
+      "height": 844,
+      "scrollHeight": 3821,
+      "scrollWidth": 390,
+      "width": 390
+    }
+  }
+}

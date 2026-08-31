@@ -12,10 +12,17 @@
     "careerButton": "assets/hero/career-cta.png",
     "hamburger": "assets/hero/hamburger.png"
   },
-  "benefits": "assets/cards/cards-strip.png",
+  "benefits": {
+    "desktop": ["assets/cards/new-20260831/benefit_01_pc.png", "assets/cards/new-20260831/benefit_02_pc.png", "assets/cards/new-20260831/benefit_03_pc.png"],
+    "mobile": ["assets/cards/new-20260831/benefit_01_sp.png", "assets/cards/new-20260831/benefit_02_sp.png", "assets/cards/new-20260831/benefit_03_sp.png"]
+  },
   "frontline": "assets/frontline/",
   "field": ["sales.png", "recruiting.png", "organization.png", "business.png", "strategy.png", "pmi.png"],
-  "career": ["year-1.png", "year-2-3.png", "year-4-5.png", "year-6.png"],
+  "career": {
+    "desktop": ["assets/career/new-20260831/pc_01_year1_candidate.png", "assets/career/new-20260831/pc_02_year2-3_advisor.png", "assets/career/new-20260831/pc_03_year4-5_business-head.png", "assets/career/new-20260831/pc_04_year6-plus_president.png"],
+    "mobile": ["assets/career/new-20260831/sp_01_year1_candidate.png", "assets/career/new-20260831/sp_02_year2-3_advisor.png", "assets/career/new-20260831/sp_03_year4-5_business-head.png", "assets/career/new-20260831/sp_04_year6-plus_president.png"]
+  },
+  "newCardsManifest": "comparison/new-assets-20260831-202530/asset-map.json",
   "people": ["person-a.png", "person-b.png"],
   "flow": ["icon-line.png", "icon-interview.png", "icon-executive.png", "icon-offer.png"],
   "finalCta": "assets/final-cta/"

@@ -1,0 +1,380 @@
+[
+  {
+    "zipMember": "µû░τ┤áµ¥É/3πüñπü«πé½πâ╝πâêπéÖ/benefit_01_pc.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/benefit_01_pc.png",
+    "destination": "assets/cards/new-20260831/benefit_01_pc.png",
+    "section": "benefits",
+    "variant": "pc",
+    "width": 1600,
+    "height": 960,
+    "aspectRatio": 1.6666666666666667,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1576,
+      936
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1576,
+      936
+    ],
+    "sha256": "a32a2ce86daa9f3012c6b85367e929f22c2aed027764b2d3474fe9c09bb660d6"
+  },
+  {
+    "zipMember": "µû░τ┤áµ¥É/3πüñπü«πé½πâ╝πâêπéÖ/benefit_02_pc.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/benefit_02_pc.png",
+    "destination": "assets/cards/new-20260831/benefit_02_pc.png",
+    "section": "benefits",
+    "variant": "pc",
+    "width": 1600,
+    "height": 960,
+    "aspectRatio": 1.6666666666666667,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1576,
+      936
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1576,
+      936
+    ],
+    "sha256": "443cccea1dcbd79469e485c055434fd602afd6a8eb2dce9e46d3fac51eff3455"
+  },
+  {
+    "zipMember": "µû░τ┤áµ¥É/3πüñπü«πé½πâ╝πâêπéÖ/benefit_03_pc.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/benefit_03_pc.png",
+    "destination": "assets/cards/new-20260831/benefit_03_pc.png",
+    "section": "benefits",
+    "variant": "pc",
+    "width": 1600,
+    "height": 960,
+    "aspectRatio": 1.6666666666666667,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1576,
+      936
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1576,
+      936
+    ],
+    "sha256": "5ec6103450660330eb508565d6684c76746b227318b523b3394eeb6a006f44fb"
+  },
+  {
+    "zipMember": "µû░τ┤áµ¥É/3πüñπü«πé½πâ╝πâêπéÖ/benefit_01_sp.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/benefit_01_sp.png",
+    "destination": "assets/cards/new-20260831/benefit_01_sp.png",
+    "section": "benefits",
+    "variant": "sp",
+    "width": 1040,
+    "height": 1600,
+    "aspectRatio": 0.65,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "sha256": "74a0b3e6a221017d686633d88b8ad2939cdbd8f0473e6bc58512a64f2330b936"
+  },
+  {
+    "zipMember": "µû░τ┤áµ¥É/3πüñπü«πé½πâ╝πâêπéÖ/benefit_02_sp.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/benefit_02_sp.png",
+    "destination": "assets/cards/new-20260831/benefit_02_sp.png",
+    "section": "benefits",
+    "variant": "sp",
+    "width": 1040,
+    "height": 1600,
+    "aspectRatio": 0.65,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "sha256": "71bc1bd1433f90f704d9ef0c7c953dc4d351e805bf80e3f26c583c807aff6a6d"
+  },
+  {
+    "zipMember": "µû░τ┤áµ¥É/3πüñπü«πé½πâ╝πâêπéÖ/benefit_03_sp.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/benefit_03_sp.png",
+    "destination": "assets/cards/new-20260831/benefit_03_sp.png",
+    "section": "benefits",
+    "variant": "sp",
+    "width": 1040,
+    "height": 1600,
+    "aspectRatio": 0.65,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "sha256": "13fd11464a30b77b003ce62eb216095284a87e5be965ffd52ebcbb938ca07182"
+  },
+  {
+    "zipMember": "µû░τ┤áµ¥É/πé¡πâúπâ¬πéó/PC/pc_01_year1_candidate.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/pc_01_year1_candidate.png",
+    "destination": "assets/career/new-20260831/pc_01_year1_candidate.png",
+    "section": "career",
+    "variant": "pc",
+    "width": 1600,
+    "height": 1040,
+    "aspectRatio": 1.5384615384615385,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1576,
+      1016
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1576,
+      1016
+    ],
+    "sha256": "e896e1b6e1b235f0dea0bdcd174289ffd36edf4109f11931ed7f753b69e5e8a7"
+  },
+  {
+    "zipMember": "µû░τ┤áµ¥É/πé¡πâúπâ¬πéó/PC/pc_02_year2-3_advisor.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/pc_02_year2-3_advisor.png",
+    "destination": "assets/career/new-20260831/pc_02_year2-3_advisor.png",
+    "section": "career",
+    "variant": "pc",
+    "width": 1600,
+    "height": 1040,
+    "aspectRatio": 1.5384615384615385,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1576,
+      1016
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1576,
+      1016
+    ],
+    "sha256": "9b922032d16ff64ff61a093b8a4f2e89a657ecdb261762bbbbddd369d48dea21"
+  },
+  {
+    "zipMember": "µû░τ┤áµ¥É/πé¡πâúπâ¬πéó/PC/pc_03_year4-5_business-head.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/pc_03_year4-5_business-head.png",
+    "destination": "assets/career/new-20260831/pc_03_year4-5_business-head.png",
+    "section": "career",
+    "variant": "pc",
+    "width": 1600,
+    "height": 1040,
+    "aspectRatio": 1.5384615384615385,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1576,
+      1016
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1576,
+      1016
+    ],
+    "sha256": "f97db8d2d12415d22f82c19f8342aadbb89b25eaca4e28c972f026c36d2fc10f"
+  },
+  {
+    "zipMember": "µû░τ┤áµ¥É/πé¡πâúπâ¬πéó/PC/pc_04_year6-plus_president.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/pc_04_year6-plus_president.png",
+    "destination": "assets/career/new-20260831/pc_04_year6-plus_president.png",
+    "section": "career",
+    "variant": "pc",
+    "width": 1600,
+    "height": 1040,
+    "aspectRatio": 1.5384615384615385,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1576,
+      1016
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1576,
+      1016
+    ],
+    "sha256": "c77b1a2986645116cb0b84c4b417f62337cc3a66443169f2ccc2bb79b0c86216"
+  },
+  {
+    "zipMember": "µû░τ┤áµ¥É/πé¡πâúπâ¬πéó/SP/sp_01_year1_candidate.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/sp_01_year1_candidate.png",
+    "destination": "assets/career/new-20260831/sp_01_year1_candidate.png",
+    "section": "career",
+    "variant": "sp",
+    "width": 1040,
+    "height": 1600,
+    "aspectRatio": 0.65,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "sha256": "260e9a0f2b656836cc4f7c406dae708e0e374deeaf64903c6351c24f3b1b7d00"
+  },
+  {
+    "zipMember": "µû░τ┤áµ¥É/πé¡πâúπâ¬πéó/SP/sp_02_year2-3_advisor.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/sp_02_year2-3_advisor.png",
+    "destination": "assets/career/new-20260831/sp_02_year2-3_advisor.png",
+    "section": "career",
+    "variant": "sp",
+    "width": 1040,
+    "height": 1600,
+    "aspectRatio": 0.65,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "sha256": "e5208e03f60a4519dc6b58ffb0ff2521484677b64a36cc99b1c30f2ee7c1e31b"
+  },
+  {
+    "zipMember": "µû░τ┤áµ¥É/πé¡πâúπâ¬πéó/SP/sp_03_year4-5_business-head.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/sp_03_year4-5_business-head.png",
+    "destination": "assets/career/new-20260831/sp_03_year4-5_business-head.png",
+    "section": "career",
+    "variant": "sp",
+    "width": 1040,
+    "height": 1600,
+    "aspectRatio": 0.65,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "sha256": "5c083be49c1376840ed57864e429ed6b8fd605e732ea137ec6ac1dca3c82e70a"
+  },
+  {
+    "zipMember": "µû░τ┤áµ¥É/πé¡πâúπâ¬πéó/SP/sp_04_year6-plus_president.png",
+    "extracted": "comparison/new-assets-20260831-202530/extracted/sp_04_year6-plus_president.png",
+    "destination": "assets/career/new-20260831/sp_04_year6-plus_president.png",
+    "section": "career",
+    "variant": "sp",
+    "width": 1040,
+    "height": 1600,
+    "aspectRatio": 0.65,
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "alphaBounds": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "alphaBounds128": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "sha256": "960bbcc4fabcb6351026a452eb4cd6d0056965d85e1a959d8fe090170147a703"
+  }
+]

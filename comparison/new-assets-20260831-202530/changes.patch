@@ -1,0 +1,307 @@
+--- before/index.html
++++ after/index.html
+@@ -8,7 +8,7 @@
+   <meta property="og:title" content="20代から経営の最前線へ | baudroie inc.">
+   <meta property="og:description" content="未経験から、会社を動かす側へ。未来の経営者を、ここから。">
+   <meta property="og:type" content="website">
+-  <link rel="stylesheet" href="styles.css?v=20260831-7">
++  <link rel="stylesheet" href="styles.css?v=20260831-new-cards-6">
+ </head>
+ <body>
+   <main>
+@@ -47,15 +47,25 @@
+ 
+     <section class="benefits" aria-labelledby="benefits-title">
+       <h2 id="benefits-title" class="visually-hidden">未経験から経営の中枢へ進む3つの特徴</h2>
+-      <div class="benefit-desktop-list desktop-only" aria-hidden="true">
+-        <div class="benefit-desktop-card"><img src="assets/cards/cards-strip.png" alt=""></div>
+-        <div class="benefit-desktop-card"><img src="assets/cards/cards-strip.png" alt=""></div>
+-        <div class="benefit-desktop-card"><img src="assets/cards/cards-strip.png" alt=""></div>
+-      </div>
+-      <div class="benefit-list mobile-only">
+-        <article class="benefit-card"><img src="assets/cards/cards-strip.png" alt="01 未経験から経営中枢へ"></article>
+-        <article class="benefit-card"><img src="assets/cards/cards-strip.png" alt="02 経営のリアルを体感"></article>
+-        <article class="benefit-card"><img src="assets/cards/cards-strip.png" alt="03 独立も可能"></article>
++      <div class="benefit-list">
++        <article class="benefit-card">
++          <picture class="complete-card">
++            <source media="(max-width: 767px)" srcset="assets/cards/new-20260831/benefit_01_sp.png" width="1040" height="1600">
++            <img src="assets/cards/new-20260831/benefit_01_pc.png" width="1600" height="960" alt="01 未経験から経営中枢へ。1年目から経営の基礎を学び、数年で事業や組織を動かす中核人材へ。" loading="lazy">
++          </picture>
++        </article>
++        <article class="benefit-card">
++          <picture class="complete-card">
++            <source media="(max-width: 767px)" srcset="assets/cards/new-20260831/benefit_02_sp.png" width="1040" height="1600">
++            <img src="assets/cards/new-20260831/benefit_02_pc.png" width="1600" height="960" alt="02 経営のリアルを体感。営業・採用・戦略・PMIまで、ビジネスの全領域を実践し、肌で学べる環境。" loading="lazy">
++          </picture>
++        </article>
++        <article class="benefit-card">
++          <picture class="complete-card">
++            <source media="(max-width: 767px)" srcset="assets/cards/new-20260831/benefit_03_sp.png" width="1040" height="1600">
++            <img src="assets/cards/new-20260831/benefit_03_pc.png" width="1600" height="960" alt="03 独立も可能。経営の意思決定に関わり、自分のビジョンで事業をつくる力が身につく。" loading="lazy">
++          </picture>
++        </article>
+       </div>
+     </section>
+ 
+@@ -105,10 +115,34 @@
+         <img src="assets/career/title.png" alt="NEXT LEADERのキャリアパス" loading="lazy">
+       </h2>
+       <div class="career-grid">
+-        <article class="career-item"><img src="assets/career/year-1.png" alt="1年目 経営者候補生 年収例400万〜500万円" loading="lazy"><img class="plus mobile-only" src="assets/career/plus.png" alt="" aria-hidden="true" loading="lazy"></article>
+-        <article class="career-item"><img src="assets/career/year-2-3.png" alt="2〜3年目 組織の参謀役 年収例600万〜700万円" loading="lazy"><img class="plus mobile-only" src="assets/career/plus.png" alt="" aria-hidden="true" loading="lazy"></article>
+-        <article class="career-item"><img src="assets/career/year-4-5.png" alt="4〜5年目 事業責任者 年収例800万〜1,000万円" loading="lazy"><img class="plus mobile-only" src="assets/career/plus.png" alt="" aria-hidden="true" loading="lazy"></article>
+-        <article class="career-item"><img src="assets/career/year-6.png" alt="6年目〜 子会社社長 年収例1,000万円〜" loading="lazy"><img class="plus mobile-only" src="assets/career/plus.png" alt="" aria-hidden="true" loading="lazy"></article>
++        <article class="career-item">
++          <picture class="complete-card">
++            <source media="(max-width: 767px)" srcset="assets/career/new-20260831/sp_01_year1_candidate.png" width="1040" height="1600">
++            <img src="assets/career/new-20260831/pc_01_year1_candidate.png" width="1600" height="1040" alt="1年目 経営者候補生。経営の基礎を学び、営業・採用などを経験。年収400万〜500万円。" loading="lazy">
++          </picture>
++          <img class="plus mobile-only" src="assets/career/plus.png" alt="" aria-hidden="true" loading="lazy">
++        </article>
++        <article class="career-item">
++          <picture class="complete-card">
++            <source media="(max-width: 767px)" srcset="assets/career/new-20260831/sp_02_year2-3_advisor.png" width="1040" height="1600">
++            <img src="assets/career/new-20260831/pc_02_year2-3_advisor.png" width="1600" height="1040" alt="2〜3年目 組織の参謀役。事業の成長を設計・実行し、複数のチームを牽引。年収600万〜700万円。" loading="lazy">
++          </picture>
++          <img class="plus mobile-only" src="assets/career/plus.png" alt="" aria-hidden="true" loading="lazy">
++        </article>
++        <article class="career-item">
++          <picture class="complete-card">
++            <source media="(max-width: 767px)" srcset="assets/career/new-20260831/sp_03_year4-5_business-head.png" width="1040" height="1600">
++            <img src="assets/career/new-20260831/pc_03_year4-5_business-head.png" width="1600" height="1040" alt="4〜5年目 事業責任者。新規事業や既存事業の拡大を担い、経営の中核に。年収800万〜1,000万円。" loading="lazy">
++          </picture>
++          <img class="plus mobile-only" src="assets/career/plus.png" alt="" aria-hidden="true" loading="lazy">
++        </article>
++        <article class="career-item">
++          <picture class="complete-card">
++            <source media="(max-width: 767px)" srcset="assets/career/new-20260831/sp_04_year6-plus_president.png" width="1040" height="1600">
++            <img src="assets/career/new-20260831/pc_04_year6-plus_president.png" width="1600" height="1040" alt="6年目〜 子会社社長。経営全般を担い、独立・起業も選択可能。年収1,000万円〜。" loading="lazy">
++          </picture>
++          <img class="plus mobile-only" src="assets/career/plus.png" alt="" aria-hidden="true" loading="lazy">
++        </article>
+       </div>
+       <div class="career-note desktop-only"><img src="assets/career/note.png" alt="年収例は実績・評価に応じた想定レンジであり、成果により上振れする可能性があります。" loading="lazy"></div>
+       <a class="career-details mobile-only" href="#people"><img src="assets/career/details-cta.png" alt="キャリアの詳細を見る" loading="lazy"></a>
+@@ -135,7 +169,7 @@
+           </div>
+         </article>
+       </div>
+-      <img class="people-dots mobile-only" src="assets/people/dots.png" alt="1件目を表示中、全3ページ" loading="lazy">
++      <img class="people-dots mobile-only" src="assets/people/dots.png" alt="" aria-hidden="true" loading="lazy">
+     </section>
+ 
+     <section class="flow" id="flow" aria-labelledby="flow-heading">
+--- before/styles.css
++++ after/styles.css
+@@ -27,7 +27,7 @@
+ .image-button:hover img, .entry-button:hover img, .final-line:hover img, .career-details:hover img { filter: brightness(1.04); }
+ a:focus-visible,button:focus-visible { outline: 3px solid #ff8a00; outline-offset: 4px; }
+ .hero-content { position: relative; z-index: 2; width: min(var(--content),calc(100% - 120px)); margin: 28px auto 0; }
+-.hero-title { margin: 0; max-width: 1100px; color: #fff; font-size: clamp(74px,8.8vw,128px); font-weight: 950; line-height: 1.13; letter-spacing: .01em; text-shadow: 0 4px 9px #0006; transform: skewX(-3deg); }
++.hero-title { margin: 0; max-width: 1100px; color: #fff; font-family: "Arial Black", "Hiragino Sans", "Noto Sans JP", "Yu Gothic", sans-serif; font-size: clamp(74px,8.8vw,128px); font-weight: 900; line-height: 1.13; letter-spacing: .01em; text-shadow: 0 4px 9px #0006; transform: skewX(-3deg); }
+ .hero-title span { color: var(--orange); }
+ .hero-sub { margin: 24px 0 0; font-size: 41px; font-weight: 900; letter-spacing: .025em; text-shadow: 0 3px 6px #0008; }
+ .hero-detail { margin: 12px 0 0; font-size: 24px; font-weight: 700; line-height: 1.75; letter-spacing: .04em; text-shadow: 0 2px 5px #000a; }
+@@ -35,20 +35,18 @@
+ .image-button { display: block; width: 535px; }
+ .image-button img { width: 100%; }
+ 
+-.benefits { position: relative; z-index: 4; min-height: 376px; margin-top: -56px; padding-bottom: 34px; background: #f6f6f6; }
+-.benefit-desktop-list { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 18px; width: min(1325px,calc(100% - 76px)); margin: 0 auto; }
+-/* Existing composite-only source. These three viewports select complete cards,
+-   not fragments of lettering. Kept isolated pending individual source PNGs. */
+-.benefit-desktop-card { position: relative; aspect-ratio: 2048 / 1260; overflow: hidden; }
+-.benefit-desktop-card img { position: absolute; top: -71.428571%; width: 300%; max-width: none; }
+-.benefit-desktop-card:nth-child(1) img { left: 0; }
+-.benefit-desktop-card:nth-child(2) img { left: -100%; }
+-.benefit-desktop-card:nth-child(3) img { left: -200%; }
++.benefits { position: relative; z-index: 4; margin-top: -56px; padding-bottom: 34px; background: linear-gradient(to bottom,transparent 56px,#f6f6f6 56px); }
++.benefit-list { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); align-items: start; gap: 4px; width: min(1340px,calc(100% - 100px)); margin: 0 auto; }
++/* Each supplied PNG is a complete card. Its 24px alpha gutter is retained.
++   Only these layout wrappers control columns; there is no second CSS card. */
++.benefit-card, .career-item { min-width: 0; padding: 0; border: 0; border-radius: 0; background: transparent; box-shadow: none; overflow: visible; }
++.complete-card { display: block; min-width: 0; }
++.complete-card img { display: block; width: 100%; height: auto; object-fit: contain; margin: 0; }
+ 
+ .frontline { padding: 20px 0 58px; color: #fff; background: #191919; }
+ .frontline-title { width: min(640px,96%); }
+ .frontline-title img { margin-block: -9% -11%; }
+-.frontline-diagram { display: grid; grid-template-columns: 230px 86px 230px 86px 230px; align-items: start; justify-content: center; margin: 18px auto 0; }
++.frontline-diagram { display: grid; grid-template-columns: 230px 115px 230px 115px 230px; align-items: start; justify-content: center; padding-right: 68px; margin: 18px auto 0; }
+ .frontline-step { min-width: 0; text-align: center; }
+ .frontline-icon { width: 168px; margin: 0 auto; }
+ .frontline-step p { margin: 8px 0 0; font-size: 25px; font-weight: 800; line-height: 1.35; letter-spacing: .05em; }
+@@ -62,19 +60,13 @@
+ .field-grid { display: grid; grid-template-columns: repeat(6,minmax(0,1fr)); gap: 0; width: min(1412px,calc(100% - 28px)); margin: 18px auto 0; }
+ .field-grid img { width: calc(100% + 28px); max-width: none; margin-inline: -14px; }
+ 
+-.career { min-height: 499px; padding: 25px 0 28px; background: #fff; }
++.career { padding: 25px 0 28px; background: #fff; }
+ .career-title { width: min(660px,96%); }
+ .career-title img { margin-block: -12.5% -13.5%; }
+-.career-grid { display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); align-items: start; gap: 12px; width: min(1380px,calc(100% - 52px)); margin: 34px auto 0; }
+-.career-item { display: flow-root; position: relative; min-width: 0; background: transparent; border: 0; border-radius: 0; box-shadow: none; overflow: visible; }
+-.career-item > img:first-child { width: 100%; height: auto; object-fit: contain; }
+-.career-item > img { pointer-events: none; }
+-.career-item:nth-child(1) > img:first-child { margin-block: -24% -26%; }
+-.career-item:nth-child(2) > img:first-child { margin-block: -33% -35%; }
+-.career-item:nth-child(3) > img:first-child { margin-block: -31.5% -34%; }
+-.career-item:nth-child(4) > img:first-child { margin-block: -26.5% -26%; }
+-/* No image is enlarged beyond its column or moved to hide text. */
+-.career-note { display: flow-root; width: min(1050px,90%); margin: 52px auto 0; }
++.career-grid { display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); align-items: start; gap: 5px; width: min(1340px,calc(100% - 100px)); margin: 29px auto 0; }
++.career-item { display: block; }
++.career-item img { pointer-events: none; }
++.career-note { display: flow-root; width: min(1050px,90%); margin: 30px auto 0; }
+ .career-note img { width: 100%; margin-block: -15% -15.5%; }
+ 
+ .people { position: relative; display: grid; padding: 6px 38px 24px; background: #f8f8f8; }
+@@ -119,8 +111,9 @@
+  .image-button { width: 45%; }
+  .hero-sub { font-size: 24px; }
+  .hero-detail { font-size: 15px; }
+- .benefits { min-height: 0; margin-top: -20px; padding-bottom: 30px; }
+- .frontline-diagram { grid-template-columns: 24% 10% 24% 10% 24%; width: 92%; }
++ .benefits { margin-top: -20px; padding-bottom: 30px; background: linear-gradient(to bottom,transparent 20px,#f6f6f6 20px); }
++ .benefit-list, .career-grid { width: calc(100% - 40px); }
++ .frontline-diagram { grid-template-columns: 24% 10% 24% 10% 24%; width: 92%; padding-right: 0; }
+  .frontline-icon { width: 140px; }
+  .frontline-step p { font-size: 21px; }
+  .frontline-description-text { font-size: 17px; }
+@@ -144,38 +137,49 @@
+ @media (min-width:768px) and (max-width:1023px) {
+  .career-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 30px 18px; }
+ }
++/* Interpolate the existing tablet/desktop endpoints, instead of introducing
++   a blank 315px jump immediately above the tablet rule. 1440px is unchanged. */
++@media (min-width:1101px) and (max-width:1439px) {
++ .hero { min-height: clamp(732px,calc(33.2353vw + 366.412px),845px); }
++ .hero-content { width: calc(100% - clamp(70px,calc(14.7059vw - 91.765px),120px)); }
++ .hero-sub { font-size: clamp(24px,calc(5vw - 31px),41px); }
++ .hero-detail { font-size: clamp(15px,calc(2.6471vw - 14.118px),24px); }
++ .benefits { --overlap: clamp(20px,calc(10.5882vw - 96.471px),56px); margin-top: calc(-1 * var(--overlap)); padding-bottom: clamp(30px,calc(1.1765vw + 17.059px),34px); background: linear-gradient(to bottom,transparent var(--overlap),#f6f6f6 var(--overlap)); }
++ .benefit-list,.career-grid { width: calc(100% - clamp(40px,calc(17.6471vw - 154.118px),100px)); }
++ .frontline-icon { width: clamp(140px,calc(8.2353vw + 49.412px),168px); }
++ .frontline-step p { font-size: clamp(21px,calc(1.1765vw + 8.059px),25px); }
++ .frontline-description-text { font-size: clamp(17px,calc(1.4706vw + .824px),22px); }
++ .people { padding-inline: clamp(18px,calc(5.8824vw - 46.706px),38px); }
++ .people-panel { min-height: clamp(290px,calc(44.1176vw - 195.294px),440px); }
++ .final-cta { min-height: clamp(206px,calc(24.7059vw - 65.765px),290px); padding-block: clamp(25px,calc(2.9412vw - 7.353px),35px); padding-inline: clamp(32px,calc(11.1765vw - 90.941px),70px); column-gap: clamp(20px,calc(5.8824vw - 44.706px),40px); }
++ .final-copy { padding-left: clamp(0px,calc(5.8824vw - 64.706px),20px); }
++}
+ @media (max-width:767px) {
+  .desktop-only,.desktop-copy { display: none !important; }
+  .mobile-only,.mobile-copy { display: block !important; }
+- .hero { min-height: 0; padding-bottom: 30px; background-image: url("assets/hero/bg-sp.png"); background-position: center -200px; background-size: auto calc(100% + 200px); }
++ .hero { min-height: 0; padding-bottom: 86px; background-image: url("assets/hero/bg-sp.png"); background-position: center -200px; background-size: auto calc(100% + 200px); }
+  .hero::before { background: linear-gradient(90deg,rgba(4,10,12,.55),rgba(4,10,12,.05) 74%); }
+- .site-header { padding: 12px 10px 0 12px; }
++ .site-header { padding: 32px 10px 0 20px; }
+  .brand { width: 145px; }
+  .brand img { margin-block: -7% -9%; }
+  .menu-button { display: flow-root; width: 60px; margin-top: -6px; padding: 0; border: 0; background: transparent; }
+  .menu-button img { width: 100%; }
+- .mobile-menu { position: absolute; top: 54px; right: 10px; z-index: 10; width: 165px; padding: 8px; border-radius: 8px; background: #141414f2; box-shadow: 0 8px 30px #0005; }
++ .mobile-menu { position: absolute; top: calc(100% + 4px); right: 10px; z-index: 10; width: 165px; padding: 8px; border-radius: 8px; background: #141414f2; box-shadow: 0 8px 30px #0005; }
+  .mobile-menu a { display: block; padding: 11px 12px; border-bottom: 1px solid #444; color: #fff; font-size: 13px; font-weight: 700; }
+  .mobile-menu a:last-child { border-bottom: 0; }
+- .hero-content { width: auto; margin: 72px 12px 0; }
+- .hero-title { width: 100%; font-size: 58px; line-height: 1.02; letter-spacing: -.025em; }
++ .hero-content { width: auto; margin: 46px 12px 0; }
++ .hero-title { width: 100%; font-size: 58px; line-height: 1.10; letter-spacing: -.025em; }
+  .hero-sub { width: 275px; max-width: 100%; margin-top: 16px; font-size: 25px; line-height: 1.35; }
+- .hero-actions { display: grid; gap: 6px; margin-top: 20px; }
++ .hero-actions { display: grid; gap: 0; margin-top: 20px; }
+  .image-button { width: 100%; margin: 0; }
+  .image-button img { width: 100%; }
+ 
+- .benefits { min-height: 0; margin: 0; padding: 0 0 18px; border-bottom: 8px solid #f05e21; background: #f6f6f6; }
+- .benefit-list { width: 312px; max-width: calc(100% - 28px); margin: 0 auto; }
+- .benefit-card { position: relative; width: 100%; aspect-ratio: 2048 / 1260; margin-bottom: 8px; overflow: hidden; }
+- .benefit-card:last-child { margin-bottom: 0; }
+- .benefit-card img { position: absolute; top: -71.428571%; width: 300%; max-width: none; }
+- .benefit-card:nth-child(1) img { left: 0; }
+- .benefit-card:nth-child(2) img { left: -100%; }
+- .benefit-card:nth-child(3) img { left: -200%; }
++ .benefits { margin-top: -64px; padding: 0 0 18px; border-bottom: 8px solid #fa7c26; background: linear-gradient(to bottom,transparent 64px,#fc782a 64px,#fb975f calc(100% - 26px),#fc7b2d); }
++ .benefit-list { grid-template-columns: minmax(0,1fr); width: min(420px,calc(100% - 10px)); gap: 0; }
+ 
+  .frontline { padding: 30px 0 52px; }
+  .frontline-title { width: 365px; max-width: 96%; }
+- .frontline-diagram { position: relative; grid-template-columns: repeat(3,minmax(0,1fr)); width: 370px; max-width: 96%; margin: 26px auto 0; }
++ .frontline-diagram { position: relative; grid-template-columns: repeat(3,minmax(0,1fr)); width: 370px; max-width: 96%; padding-right: 0; margin: 26px auto 0; }
+  .frontline-arrow { position: absolute; top: 40px; width: 28px; margin: 0; }
+  .frontline-arrow:nth-of-type(1) { left: calc(33.333% - 14px); }
+  .frontline-arrow:nth-of-type(2) { left: calc(66.666% - 14px); }
+@@ -185,9 +189,9 @@
+ 
+  .career { min-height: 0; padding: 26px 0 24px; }
+  .career-title { width: 372px; max-width: 96%; }
+- .career-grid { display: grid; grid-template-columns: 1fr; width: 354px; max-width: calc(100% - 30px); gap: 12px; margin: 20px auto 0; }
+- .career-item { padding-right: 32px; }
+- .career-item .plus { position: absolute; width: 32px; height: auto; right: 0; top: calc(50% - 16px); }
++ .career-grid { grid-template-columns: minmax(0,1fr); width: min(410px,calc(100% - 14px)); gap: 0; margin: 12px auto 0; }
++ .career-item { display: grid; grid-template-columns: minmax(0,1fr) 24px; column-gap: 4px; align-items: center; }
++ .career-item .plus { width: 24px; height: auto; }
+  .career-details { display: flow-root; width: 354px; max-width: calc(100% - 30px); margin: 18px auto 0; }
+  .career-details.mobile-only { display: flow-root !important; }
+  .career-details img { width: 100%; margin-block: -4% -6%; }
+@@ -211,12 +215,12 @@
+  .flow-card h3 { margin: 0; font-size: 15.5px; }
+  .flow-card b { align-self: center; color: #c95e2c; font-size: 32px; font-weight: 400; line-height: 1; }
+ 
+- .final-cta { display: block; min-height: 0; padding: 25px 18px 13px; text-align: center; }
++ .final-cta { display: block; min-height: 0; padding: 25px 18px 27px; text-align: center; }
+  .final-copy { width: 100%; padding-left: 0; }
+- .final-copy h2 { width: 100%; margin: 0 auto; }
++ .final-copy h2 { width: 94%; margin: 0 auto; }
+  .final-subtitle { display: none; }
+  .final-subtext-mobile { margin: 8px auto 0; color: #fff; font-size: 14px; font-weight: 800; line-height: 1.65; letter-spacing: .035em; }
+- .final-line { width: 100%; margin: 18px auto 0; }
++ .final-line { width: 100%; margin: 8px auto 0; }
+  .site-footer { display: block; min-height: 254px; padding: 31px 22px 26px; text-align: center; }
+  .footer-brand { padding-bottom: 20px; border-bottom: 1px solid #666; font-size: 28px; }
+  .footer-links { justify-content: center; flex-wrap: wrap; gap: 12px; margin-top: 24px; font-size: 12px; }
+--- before/asset-map.json
++++ after/asset-map.json
+@@ -12,10 +12,17 @@
+     "careerButton": "assets/hero/career-cta.png",
+     "hamburger": "assets/hero/hamburger.png"
+   },
+-  "benefits": "assets/cards/cards-strip.png",
++  "benefits": {
++    "desktop": ["assets/cards/new-20260831/benefit_01_pc.png", "assets/cards/new-20260831/benefit_02_pc.png", "assets/cards/new-20260831/benefit_03_pc.png"],
++    "mobile": ["assets/cards/new-20260831/benefit_01_sp.png", "assets/cards/new-20260831/benefit_02_sp.png", "assets/cards/new-20260831/benefit_03_sp.png"]
++  },
+   "frontline": "assets/frontline/",
+   "field": ["sales.png", "recruiting.png", "organization.png", "business.png", "strategy.png", "pmi.png"],
+-  "career": ["year-1.png", "year-2-3.png", "year-4-5.png", "year-6.png"],
++  "career": {
++    "desktop": ["assets/career/new-20260831/pc_01_year1_candidate.png", "assets/career/new-20260831/pc_02_year2-3_advisor.png", "assets/career/new-20260831/pc_03_year4-5_business-head.png", "assets/career/new-20260831/pc_04_year6-plus_president.png"],
++    "mobile": ["assets/career/new-20260831/sp_01_year1_candidate.png", "assets/career/new-20260831/sp_02_year2-3_advisor.png", "assets/career/new-20260831/sp_03_year4-5_business-head.png", "assets/career/new-20260831/sp_04_year6-plus_president.png"]
++  },
++  "newCardsManifest": "comparison/new-assets-20260831-202530/asset-map.json",
+   "people": ["person-a.png", "person-b.png"],
+   "flow": ["icon-line.png", "icon-interview.png", "icon-executive.png", "icon-offer.png"],
+   "finalCta": "assets/final-cta/"
+--- before/README.md
++++ after/README.md
+@@ -1,4 +1,17 @@
+ # baudroie NEXT LEADER 採用LP
++
++## 最新の修正：新素材ZIPの14枚へ差し替え
++
++2026-08-31の新素材対応は `comparison/new-assets-20260831-202530/visual-qa.md` を参照してください。以下の旧修正履歴はそのまま保存していますが、現在のカード実装は新素材版です。
++
++- 訴求3枚とキャリア4枚を、それぞれPC/SP専用PNGへ置換。`picture/source` は767px以下でSP、768px以上でPCを選択します。
++- 各画像は完成カードとして全体表示。旧合成画像の部分表示・カードの負のmargin・固定高さ・二重背景を撤去しました。
++- 新PNGは `assets/cards/new-20260831/` と `assets/career/new-20260831/`。ZIP原本、旧PNG、以前の比較成果物は保持しています。
++- 寸法・透過領域・元ZIPメンバー・配置先・SHA-256は今回の `asset-map.json`、現在の使用パス一覧はルートの `asset-map.json` に記録しています。
++- PC 4列/SP縦4枚、タブレット768〜1023pxのみ既存の2列を維持。1101〜1439pxは既存の中間幅と1440pxの値を補間しています。
++- ナビとCTAは既存の動作を維持。キャリアの「＋」・先輩ページドットには元々開閉/切替機能はありません。今回も新機能は追加せず、装飾画像として扱っています。
++- **素材差し替えは完了、完成デザインへの全体寸法一致は未達**です。新SP素材は縦長のため、全内容表示を守ると390px幅でページが約2762px長くなります。PCもカード比率が異なり約170px短くなります。詳細な推奨素材比率は今回の検証記録を参照してください。
++- 公開・デプロイは実施していません。
+ 
+ ## 起動方法
+ 

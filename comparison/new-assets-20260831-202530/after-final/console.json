@@ -1,0 +1,32 @@
+[
+  {
+    "level": "error",
+    "message": "Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received",
+    "timestamp": "2026-08-31T11:42:01.813Z",
+    "url": "http://127.0.0.1:4173/?qa=new-assets-before#people"
+  },
+  {
+    "level": "error",
+    "message": "Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received",
+    "timestamp": "2026-08-31T11:42:01.814Z",
+    "url": "http://127.0.0.1:4173/?qa=new-assets-before#people"
+  },
+  {
+    "level": "error",
+    "message": "Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received",
+    "timestamp": "2026-08-31T11:42:01.814Z",
+    "url": "http://127.0.0.1:4173/?qa=new-assets-before#people"
+  },
+  {
+    "level": "error",
+    "message": "Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received",
+    "timestamp": "2026-08-31T11:42:01.814Z",
+    "url": "http://127.0.0.1:4173/?qa=new-assets-before#people"
+  },
+  {
+    "level": "error",
+    "message": "Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received",
+    "timestamp": "2026-08-31T12:01:32.059Z",
+    "url": "http://127.0.0.1:4173/?qa=new-assets-responsive#flow"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "careerScroll": {
+    "hash": "#career",
+    "top": 0.109375
+  },
+  "peopleScroll": {
+    "hash": "#people",
+    "top": 0.0078125
+  },
+  "menuOpen": {
+    "expanded": "true",
+    "hidden": false
+  },
+  "menuNavigate": {
+    "closed": true,
+    "hash": "#flow",
+    "top": 0.078125
+  },
+  "entry": {
+    "clampedAtPageEnd": true,
+    "expectedScrollY": 3029,
+    "hash": "#flow",
+    "pass": true,
+    "scrollY": 3029.5,
+    "sectionTop": 135
+  },
+  "links": [
+    "#",
+    "#"
+  ],
+  "consoleErrors": [
+    {
+      "level": "error",
+      "message": "Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received",
+      "timestamp": "2026-08-31T04:39:12.062Z",
+      "url": "http://127.0.0.1:4173/?audit=20260831-loop6-390#flow"
+    },
+    {
+      "level": "error",
+      "message": "Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received",
+      "timestamp": "2026-08-31T04:39:12.064Z",
+      "url": "http://127.0.0.1:4173/?audit=20260831-loop6-390#flow"
+    },
+    {
+      "level": "error",
+      "message": "Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received",
+      "timestamp": "2026-08-31T04:39:12.064Z",
+      "url": "http://127.0.0.1:4173/?audit=20260831-loop6-390#flow"
+    },
+    {
+      "level": "error",
+      "message": "Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received",
+      "timestamp": "2026-08-31T04:39:12.064Z",
+      "url": "http://127.0.0.1:4173/?audit=20260831-loop6-390#flow"
+    },
+    {
+      "level": "error",
+      "message": "Error: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received",
+      "timestamp": "2026-08-31T04:39:12.064Z",
+      "url": "http://127.0.0.1:4173/?audit=20260831-loop6-390#flow"
+    }
+  ]
+}

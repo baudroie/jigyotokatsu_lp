@@ -1,0 +1,368 @@
+[
+  {
+    "columns": "333px",
+    "controls": 0,
+    "images": [
+      {
+        "center": 187.5,
+        "height": 512.3046875,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_01_year1_candidate.png",
+        "width": 333,
+        "x": 21,
+        "y": 2968.5078125
+      },
+      {
+        "center": 187.5,
+        "height": 512.3046875,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_02_year2-3_advisor.png",
+        "width": 333,
+        "x": 21,
+        "y": 3480.8125
+      },
+      {
+        "center": 187.5,
+        "height": 512.3046875,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_03_year4-5_business-head.png",
+        "width": 333,
+        "x": 21,
+        "y": 3993.1171875
+      },
+      {
+        "center": 187.5,
+        "height": 512.3046875,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_04_year6-plus_president.png",
+        "width": 333,
+        "x": 21,
+        "y": 4505.421875
+      }
+    ],
+    "lineLinks": [
+      "https://s.lmes.jp/landing-qr/1657893371-rRVdmjzQ?uLand=Pfwucb",
+      "https://s.lmes.jp/landing-qr/1657893371-rRVdmjzQ?uLand=Pfwucb"
+    ],
+    "pageWidth": 375,
+    "plus": 0,
+    "width": 375
+  },
+  {
+    "columns": "348px",
+    "controls": 0,
+    "images": [
+      {
+        "center": 195,
+        "height": 535.3828125,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_01_year1_candidate.png",
+        "width": 348,
+        "x": 21,
+        "y": 3049.28125
+      },
+      {
+        "center": 195,
+        "height": 535.3828125,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_02_year2-3_advisor.png",
+        "width": 348,
+        "x": 21,
+        "y": 3584.6640625
+      },
+      {
+        "center": 195,
+        "height": 535.3828125,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_03_year4-5_business-head.png",
+        "width": 348,
+        "x": 21,
+        "y": 4120.046875
+      },
+      {
+        "center": 195,
+        "height": 535.3828125,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_04_year6-plus_president.png",
+        "width": 348,
+        "x": 21,
+        "y": 4655.4296875
+      }
+    ],
+    "lineLinks": [
+      "https://s.lmes.jp/landing-qr/1657893371-rRVdmjzQ?uLand=Pfwucb",
+      "https://s.lmes.jp/landing-qr/1657893371-rRVdmjzQ?uLand=Pfwucb"
+    ],
+    "pageWidth": 390,
+    "plus": 0,
+    "width": 390
+  },
+  {
+    "columns": "382px",
+    "controls": 0,
+    "images": [
+      {
+        "center": 215,
+        "height": 587.6875,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_01_year1_candidate.png",
+        "width": 382,
+        "x": 24,
+        "y": 3260.5546875
+      },
+      {
+        "center": 215,
+        "height": 587.6875,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_02_year2-3_advisor.png",
+        "width": 382,
+        "x": 24,
+        "y": 3848.2421875
+      },
+      {
+        "center": 215,
+        "height": 587.6875,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_03_year4-5_business-head.png",
+        "width": 382,
+        "x": 24,
+        "y": 4435.9296875
+      },
+      {
+        "center": 215,
+        "height": 587.6875,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_04_year6-plus_president.png",
+        "width": 382,
+        "x": 24,
+        "y": 5023.6171875
+      }
+    ],
+    "lineLinks": [
+      "https://s.lmes.jp/landing-qr/1657893371-rRVdmjzQ?uLand=Pfwucb",
+      "https://s.lmes.jp/landing-qr/1657893371-rRVdmjzQ?uLand=Pfwucb"
+    ],
+    "pageWidth": 430,
+    "plus": 0,
+    "width": 430
+  },
+  {
+    "columns": "382px",
+    "controls": 0,
+    "images": [
+      {
+        "center": 383.5,
+        "height": 587.6875,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_01_year1_candidate.png",
+        "width": 382,
+        "x": 192.5,
+        "y": 3485.2265625
+      },
+      {
+        "center": 383.5,
+        "height": 587.6875,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_02_year2-3_advisor.png",
+        "width": 382,
+        "x": 192.5,
+        "y": 4072.9140625
+      },
+      {
+        "center": 383.5,
+        "height": 587.6875,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_03_year4-5_business-head.png",
+        "width": 382,
+        "x": 192.5,
+        "y": 4660.6015625
+      },
+      {
+        "center": 383.5,
+        "height": 587.6875,
+        "loaded": true,
+        "naturalHeight": 1600,
+        "naturalWidth": 1040,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_04_year6-plus_president.png",
+        "width": 382,
+        "x": 192.5,
+        "y": 5248.2890625
+      }
+    ],
+    "lineLinks": [
+      "https://s.lmes.jp/landing-qr/1657893371-rRVdmjzQ?uLand=Pfwucb",
+      "https://s.lmes.jp/landing-qr/1657893371-rRVdmjzQ?uLand=Pfwucb"
+    ],
+    "pageWidth": 767,
+    "plus": 0,
+    "width": 767
+  },
+  {
+    "columns": "355px 355px",
+    "controls": 0,
+    "images": [
+      {
+        "center": 197.5,
+        "height": 230.75,
+        "loaded": true,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_01_year1_candidate.png",
+        "width": 355,
+        "x": 20,
+        "y": 1689.171875
+      },
+      {
+        "center": 570.5,
+        "height": 230.75,
+        "loaded": true,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_02_year2-3_advisor.png",
+        "width": 355,
+        "x": 393,
+        "y": 1689.171875
+      },
+      {
+        "center": 197.5,
+        "height": 230.75,
+        "loaded": true,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_03_year4-5_business-head.png",
+        "width": 355,
+        "x": 20,
+        "y": 1949.921875
+      },
+      {
+        "center": 570.5,
+        "height": 230.75,
+        "loaded": true,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_04_year6-plus_president.png",
+        "width": 355,
+        "x": 393,
+        "y": 1949.921875
+      }
+    ],
+    "lineLinks": [
+      "https://s.lmes.jp/landing-qr/1657893371-rRVdmjzQ?uLand=Pfwucb",
+      "https://s.lmes.jp/landing-qr/1657893371-rRVdmjzQ?uLand=Pfwucb"
+    ],
+    "pageWidth": 768,
+    "plus": 0,
+    "width": 768
+  },
+  {
+    "columns": "331.25px 331.25px 331.25px 331.25px",
+    "controls": 0,
+    "images": [
+      {
+        "center": 215.625,
+        "height": 215.3125,
+        "loaded": true,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_01_year1_candidate.png",
+        "width": 331.25,
+        "x": 50,
+        "y": 2222.3046875
+      },
+      {
+        "center": 551.875,
+        "height": 215.3125,
+        "loaded": true,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_02_year2-3_advisor.png",
+        "width": 331.25,
+        "x": 386.25,
+        "y": 2222.3046875
+      },
+      {
+        "center": 888.125,
+        "height": 215.3125,
+        "loaded": true,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_03_year4-5_business-head.png",
+        "width": 331.25,
+        "x": 722.5,
+        "y": 2222.3046875
+      },
+      {
+        "center": 1224.375,
+        "height": 215.3125,
+        "loaded": true,
+        "naturalHeight": 1040,
+        "naturalWidth": 1600,
+        "objectFit": "contain",
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_04_year6-plus_president.png",
+        "width": 331.25,
+        "x": 1058.75,
+        "y": 2222.3046875
+      }
+    ],
+    "lineLinks": [
+      "https://s.lmes.jp/landing-qr/1657893371-rRVdmjzQ?uLand=Pfwucb",
+      "https://s.lmes.jp/landing-qr/1657893371-rRVdmjzQ?uLand=Pfwucb"
+    ],
+    "pageWidth": 1440,
+    "plus": 0,
+    "width": 1440
+  }
+]
