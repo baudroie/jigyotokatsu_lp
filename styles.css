@@ -23,8 +23,7 @@ button { font: inherit; }
 .brand img { width: 100%; margin-block: -7% -9%; }
 .entry-button { display: flow-root; width: 248px; }
 .entry-button img { width: 100%; margin-block: -2% -3%; }
-.image-button img, .entry-button img, .final-line img { transition: filter .2s ease; }
-.image-button:hover img, .entry-button:hover img, .final-line:hover img { filter: brightness(1.04); }
+.image-button img, .entry-button img, .final-line img { transition: transform .2s ease, filter .2s ease; }
 a:focus-visible,button:focus-visible { outline: 3px solid #ff8a00; outline-offset: 4px; }
 .hero-content { position: relative; z-index: 2; width: min(var(--content),calc(100% - 120px)); margin: 28px auto 0; }
 .hero-title { margin: 0; max-width: 1100px; color: #fff; font-family: "Arial Black", "Hiragino Sans", "Noto Sans JP", "Yu Gothic", sans-serif; font-size: clamp(74px,8.8vw,128px); font-weight: 900; line-height: 1.13; letter-spacing: .01em; text-shadow: 0 4px 9px #0006; transform: skewX(-3deg); }
@@ -79,6 +78,7 @@ a:focus-visible,button:focus-visible { outline: 3px solid #ff8a00; outline-offse
 .speech { flex-shrink: 0; width: 100%; margin-block: -9% -11%; }
 .story-body { flex-shrink: 0; width: 100%; margin-block: -16% -18%; }
 .people-divider { position: absolute; left: 50%; top: 16%; bottom: 8%; width: 1px; background: #ddd; }
+.people-track { display: contents; }
 
 .flow { padding: 0 0 57px; background: #fff; }
 .flow-title { width: min(390px,80%); }
@@ -230,3 +230,38 @@ a:focus-visible,button:focus-visible { outline: 3px solid #ff8a00; outline-offse
  .flow-card h3 { font-size: 14px; }
 }
 @media(prefers-reduced-motion:reduce) { html { scroll-behavior: auto; } *,*::before,*::after { transition-duration: .01ms !important; } }
+
+/* Progressive enhancement: only JS marks observed elements as reveal targets.
+   Individual translate preserves existing transforms (including the HERO skew).
+   No dimensions, spacing, background, or image scale change during animation. */
+.reveal { opacity: 0; translate: 0 20px; transition: opacity 700ms cubic-bezier(.22,1,.36,1), translate 700ms cubic-bezier(.22,1,.36,1); transition-delay: var(--reveal-delay,0ms); }
+.reveal--fade { translate: none; }
+.reveal--right { translate: -20px 0; }
+.reveal--left { translate: 20px 0; }
+.reveal.is-visible { opacity: 1; translate: none; }
+@media (min-width:768px) and (hover:hover) and (pointer:fine) {
+ .image-button:hover img,.entry-button:hover img,.final-line:hover img { transform: translateY(-2px); filter: brightness(1.04); }
+}
+@media (max-width:767px) {
+ .benefit-card.reveal,.career-item.reveal { transition-delay: 0ms; }
+ .person-story.reveal { translate: none; transition-delay: 0ms; }
+ /* The two slides share one natural-height grid row. No fixed height/crop.
+    display:contents above leaves the desktop's original two columns intact. */
+ /* Clip only the offscreen slide horizontally. Text PNGs retain their full
+    vertical canvas, including the existing transparent negative margins. */
+ .carousel-enabled .people-panel { overflow-x: clip; overflow-y: visible; touch-action: pan-y pinch-zoom; }
+ .carousel-enabled .people-track { display: grid; grid-template-columns: repeat(2,100%); align-items: stretch; transform: translateX(calc(var(--people-index,0) * -100%)); transition: transform 450ms cubic-bezier(.22,1,.36,1); }
+ .carousel-enabled .story-b.desktop-only { display: grid !important; }
+ .carousel-enabled .person-story { user-select: none; }
+ /* Keep the old 230x76.667 PNG footprint and margins; replace its three
+    decorative dots with two real controls of the same 12px dot/8px gap. */
+ .people-pagination.mobile-only { display: flex !important; align-items: center; justify-content: center; aspect-ratio: 3 / 1; }
+ .people-pagination button { display: grid; place-items: center; flex: 0 0 20px; height: 40px; padding: 0; border: 0; background: transparent; cursor: pointer; }
+ .people-pagination button::before { content: ""; display: block; width: 12px; height: 12px; border-radius: 50%; background: #d4d4d4; }
+ .people-pagination button[aria-current="true"]::before { background: #ff7900; }
+}
+@media (prefers-reduced-motion:reduce) {
+ .reveal { opacity: 1 !important; translate: none !important; transition: none !important; }
+ .people-track,.image-button img,.entry-button img,.final-line img { transition: none !important; }
+ .image-button:hover img,.entry-button:hover img,.final-line:hover img { transform: none; }
+}

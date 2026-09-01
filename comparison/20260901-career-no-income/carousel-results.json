@@ -1,0 +1,26 @@
+{
+  "beforeSwipe": {
+    "active": "1人目の先輩を見る",
+    "box": {
+      "height": 212,
+      "width": 358,
+      "x": 16,
+      "y": 64.21875
+    },
+    "dots": 2,
+    "track": "matrix(1, 0, 0, 1, 0, 0)"
+  },
+  "afterSwipe": {
+    "active": "2人目の先輩を見る",
+    "dots": 2,
+    "height": 212,
+    "status": "2 / 2：入社2年で組織を率いるリーダーに",
+    "track": "matrix(1, 0, 0, 1, -356, 0)"
+  },
+  "afterDot": {
+    "active": "1人目の先輩を見る",
+    "height": 212,
+    "track": "matrix(1, 0, 0, 1, 0, 0)"
+  },
+  "logs": []
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "kind": "PC",
+    "source": "新素材/キャリア/PC/pc_01_year1_candidate.png",
+    "placed": "assets/career/no-income-20260901/pc_01_year1_candidate.png",
+    "size": [
+      1600,
+      1040
+    ],
+    "mode": "RGBA",
+    "alphaBounds": [
+      24,
+      24,
+      1576,
+      1016
+    ],
+    "sha256": "9be767e8ef0d92d4908d2de2a96629ebe2b49a1dcd8a731f9d3d372d2113429f",
+    "copyIdentical": true
+  },
+  {
+    "kind": "PC",
+    "source": "新素材/キャリア/PC/pc_02_year2-3_advisor.png",
+    "placed": "assets/career/no-income-20260901/pc_02_year2-3_advisor.png",
+    "size": [
+      1600,
+      1040
+    ],
+    "mode": "RGBA",
+    "alphaBounds": [
+      24,
+      24,
+      1576,
+      1016
+    ],
+    "sha256": "ec89fd348943a398650ef4ff1768e22cc668ea03e2ab5ad04b79fe30f67d24a7",
+    "copyIdentical": true
+  },
+  {
+    "kind": "PC",
+    "source": "新素材/キャリア/PC/pc_03_year4-5_business-head.png",
+    "placed": "assets/career/no-income-20260901/pc_03_year4-5_business-head.png",
+    "size": [
+      1600,
+      1040
+    ],
+    "mode": "RGBA",
+    "alphaBounds": [
+      24,
+      24,
+      1576,
+      1016
+    ],
+    "sha256": "f6417bbf4b969d4b8bd935bcd14d668a23a37241381fc6f4c30d6b3a6b4cbbe8",
+    "copyIdentical": true
+  },
+  {
+    "kind": "PC",
+    "source": "新素材/キャリア/PC/pc_04_year6-plus_president.png",
+    "placed": "assets/career/no-income-20260901/pc_04_year6-plus_president.png",
+    "size": [
+      1600,
+      1040
+    ],
+    "mode": "RGBA",
+    "alphaBounds": [
+      24,
+      24,
+      1576,
+      1016
+    ],
+    "sha256": "3819da568c3cabfa5808d194a2665d4a27a3469bec41764c200d0af019e963ff",
+    "copyIdentical": true
+  },
+  {
+    "kind": "SP",
+    "source": "新素材/キャリア/SP/sp_01_year1_candidate.png",
+    "placed": "assets/career/no-income-20260901/sp_01_year1_candidate.png",
+    "size": [
+      1040,
+      1600
+    ],
+    "mode": "RGBA",
+    "alphaBounds": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "sha256": "543d7e16cefe980d5cc283c6c5b535ec9e7eb640c9e3955ee2be97aedfffe0ac",
+    "copyIdentical": true
+  },
+  {
+    "kind": "SP",
+    "source": "新素材/キャリア/SP/sp_02_year2-3_advisor.png",
+    "placed": "assets/career/no-income-20260901/sp_02_year2-3_advisor.png",
+    "size": [
+      1040,
+      1600
+    ],
+    "mode": "RGBA",
+    "alphaBounds": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "sha256": "2f4b8fe4eaa9988c6c9b8be3a8370194bf9a023d51080e13b6c4e7e352417974",
+    "copyIdentical": true
+  },
+  {
+    "kind": "SP",
+    "source": "新素材/キャリア/SP/sp_03_year4-5_business-head.png",
+    "placed": "assets/career/no-income-20260901/sp_03_year4-5_business-head.png",
+    "size": [
+      1040,
+      1600
+    ],
+    "mode": "RGBA",
+    "alphaBounds": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "sha256": "714b89baf2bfdf13e0d46a76c8f68fb2a07ec911177d31bfa4820eae95dc22ce",
+    "copyIdentical": true
+  },
+  {
+    "kind": "SP",
+    "source": "新素材/キャリア/SP/sp_04_year6-plus_president.png",
+    "placed": "assets/career/no-income-20260901/sp_04_year6-plus_president.png",
+    "size": [
+      1040,
+      1600
+    ],
+    "mode": "RGBA",
+    "alphaBounds": [
+      24,
+      24,
+      1016,
+      1576
+    ],
+    "sha256": "878e47b59dc64babd08a105aa8ac8a5791990ad7c85b0bb67687a7d62f9d50ae",
+    "copyIdentical": true
+  }
+]

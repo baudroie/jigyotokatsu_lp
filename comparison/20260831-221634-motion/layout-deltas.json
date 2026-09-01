@@ -1,0 +1,263 @@
+[
+  {
+    "width": 1440,
+    "height": 3760,
+    "sections": [
+      {
+        "name": "hero",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "benefits",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "frontline",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "field desktop-only",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "career",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "people carousel-enabled",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "flow",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "final-cta",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "site-footer",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "height": 6482,
+    "sections": [
+      {
+        "name": "hero",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "benefits",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "frontline",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "field desktop-only",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "career",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "people carousel-enabled",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "flow",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "final-cta",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "site-footer",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "height": 6301,
+    "sections": [
+      {
+        "name": "hero",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "benefits",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "frontline",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "field desktop-only",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "career",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "people carousel-enabled",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "flow",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "final-cta",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      },
+      {
+        "name": "site-footer",
+        "topDelta": 0,
+        "heightDelta": 0,
+        "widthDelta": 0,
+        "paddingUnchanged": true,
+        "marginUnchanged": true,
+        "gapUnchanged": true
+      }
+    ]
+  }
+]

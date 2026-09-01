@@ -1,0 +1,187 @@
+[
+  {
+    "width": 1440,
+    "start": {
+      "hero": [
+        {
+          "class": "brand reveal reveal--up is-visible",
+          "delay": "0s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        },
+        {
+          "class": "hero-title reveal reveal--up is-visible",
+          "delay": "0.12s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        },
+        {
+          "class": "hero-sub reveal reveal--up is-visible",
+          "delay": "0.24s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        },
+        {
+          "class": "hero-detail desktop-only reveal reveal--up is-visible",
+          "delay": "0.36s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        },
+        {
+          "class": "image-button line-link reveal reveal--up is-visible",
+          "delay": "0.48s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        },
+        {
+          "class": "image-button reveal reveal--up is-visible",
+          "delay": "0.6s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        }
+      ],
+      "pending": 37,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "end": {
+      "opacityProblems": [],
+      "pendingVisible": [],
+      "visibleCount": 43
+    },
+    "widths": [
+      1440,
+      1440,
+      1440,
+      1440,
+      1440,
+      1440
+    ]
+  },
+  {
+    "width": 390,
+    "start": {
+      "hero": [
+        {
+          "class": "brand reveal reveal--up is-visible",
+          "delay": "0s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        },
+        {
+          "class": "hero-title reveal reveal--up is-visible",
+          "delay": "0.12s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        },
+        {
+          "class": "hero-sub reveal reveal--up is-visible",
+          "delay": "0.24s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        },
+        {
+          "class": "hero-detail desktop-only reveal reveal--up is-visible",
+          "delay": "0s",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "class": "image-button line-link reveal reveal--up is-visible",
+          "delay": "0.36s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        },
+        {
+          "class": "image-button reveal reveal--up is-visible",
+          "delay": "0.48s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        }
+      ],
+      "pending": 39,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "end": {
+      "opacityProblems": [],
+      "pendingVisible": [],
+      "visibleCount": 35
+    },
+    "widths": [
+      390,
+      390,
+      390,
+      390,
+      390,
+      390,
+      390,
+      390,
+      390,
+      390
+    ]
+  },
+  {
+    "width": 375,
+    "start": {
+      "hero": [
+        {
+          "class": "brand reveal reveal--up is-visible",
+          "delay": "0s",
+          "opacity": "0.205713",
+          "translate": "0px 15.8857px"
+        },
+        {
+          "class": "hero-title reveal reveal--up is-visible",
+          "delay": "0.12s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        },
+        {
+          "class": "hero-sub reveal reveal--up is-visible",
+          "delay": "0.24s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        },
+        {
+          "class": "hero-detail desktop-only reveal reveal--up is-visible",
+          "delay": "0s",
+          "opacity": "1",
+          "translate": "none"
+        },
+        {
+          "class": "image-button line-link reveal reveal--up is-visible",
+          "delay": "0.36s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        },
+        {
+          "class": "image-button reveal reveal--up is-visible",
+          "delay": "0.48s",
+          "opacity": "0",
+          "translate": "0px 20px"
+        }
+      ],
+      "pending": 39,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    "end": {
+      "opacityProblems": [],
+      "pendingVisible": [],
+      "visibleCount": 35
+    },
+    "widths": [
+      375,
+      375,
+      375,
+      375,
+      375,
+      375,
+      375,
+      375,
+      375,
+      375
+    ]
+  }
+]

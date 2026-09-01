@@ -19,8 +19,10 @@
   "frontline": "assets/frontline/",
   "field": ["sales.png", "recruiting.png", "organization.png", "business.png", "strategy.png", "pmi.png"],
   "career": {
-    "desktop": ["assets/career/new-20260831/pc_01_year1_candidate.png", "assets/career/new-20260831/pc_02_year2-3_advisor.png", "assets/career/new-20260831/pc_03_year4-5_business-head.png", "assets/career/new-20260831/pc_04_year6-plus_president.png"],
-    "mobile": ["assets/career/new-20260831/sp_01_year1_candidate.png", "assets/career/new-20260831/sp_02_year2-3_advisor.png", "assets/career/new-20260831/sp_03_year4-5_business-head.png", "assets/career/new-20260831/sp_04_year6-plus_president.png"]
+    "desktop": ["assets/career/no-income-20260901/pc_01_year1_candidate.png", "assets/career/no-income-20260901/pc_02_year2-3_advisor.png", "assets/career/no-income-20260901/pc_03_year4-5_business-head.png", "assets/career/no-income-20260901/pc_04_year6-plus_president.png"],
+    "mobile": ["assets/career/no-income-20260901/sp_01_year1_candidate.png", "assets/career/no-income-20260901/sp_02_year2-3_advisor.png", "assets/career/no-income-20260901/sp_03_year4-5_business-head.png", "assets/career/no-income-20260901/sp_04_year6-plus_president.png"],
+    "source": "新素材/キャリア/",
+    "variant": "年収記載なし"
   },
   "newCardsManifest": "comparison/new-assets-20260831-202530/asset-map.json",
   "people": ["person-a.png", "person-b.png"],

@@ -1,0 +1,44 @@
+[
+  {
+    "width": 390,
+    "swipe": {
+      "active": "2人目の先輩を見る",
+      "clipX": "clip",
+      "clipY": "visible",
+      "panelHeight": 212,
+      "sectionHeight": 328.0703125,
+      "slides": [
+        {
+          "ariaHidden": "true",
+          "inert": true
+        },
+        {
+          "ariaHidden": "false",
+          "inert": false
+        }
+      ]
+    },
+    "dotReturnsFirst": true
+  },
+  {
+    "width": 375,
+    "swipe": {
+      "active": "2人目の先輩を見る",
+      "clipX": "clip",
+      "clipY": "visible",
+      "panelHeight": 212,
+      "sectionHeight": 326.96875,
+      "slides": [
+        {
+          "ariaHidden": "true",
+          "inert": true
+        },
+        {
+          "ariaHidden": "false",
+          "inert": false
+        }
+      ]
+    },
+    "dotReturnsFirst": true
+  }
+]

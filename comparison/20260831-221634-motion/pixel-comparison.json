@@ -1,0 +1,41 @@
+[
+  {
+    "width": 1440,
+    "size": [
+      1440,
+      3760
+    ],
+    "changedPixelBoundingBox": [
+      15,
+      8,
+      1425,
+      2449
+    ]
+  },
+  {
+    "width": 390,
+    "size": [
+      390,
+      6482
+    ],
+    "changedPixelBoundingBox": [
+      15,
+      31,
+      376,
+      6193
+    ]
+  },
+  {
+    "width": 375,
+    "size": [
+      375,
+      6301
+    ],
+    "changedPixelBoundingBox": [
+      0,
+      31,
+      375,
+      5841
+    ]
+  }
+]

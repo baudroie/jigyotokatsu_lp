@@ -1,0 +1,159 @@
+{
+  "animationStart": {
+    "clientWidth": 390,
+    "hero": [
+      {
+        "class": "brand reveal reveal--up is-visible",
+        "delay": "0s",
+        "opacity": "1",
+        "translate": "none",
+        "visible": true
+      },
+      {
+        "class": "hero-title reveal reveal--up is-visible",
+        "delay": "0.12s",
+        "opacity": "1",
+        "translate": "none",
+        "visible": true
+      },
+      {
+        "class": "hero-sub reveal reveal--up is-visible",
+        "delay": "0.24s",
+        "opacity": "1",
+        "translate": "none",
+        "visible": true
+      },
+      {
+        "class": "hero-detail desktop-only reveal reveal--up is-visible",
+        "delay": "0s",
+        "opacity": "1",
+        "translate": "none",
+        "visible": true
+      },
+      {
+        "class": "image-button line-link reveal reveal--up is-visible",
+        "delay": "0.36s",
+        "opacity": "1",
+        "translate": "none",
+        "visible": true
+      },
+      {
+        "class": "image-button reveal reveal--up is-visible",
+        "delay": "0.48s",
+        "opacity": "1",
+        "translate": "none",
+        "visible": true
+      }
+    ],
+    "pending": 28,
+    "scrollY": 0,
+    "visible": 7
+  },
+  "animationProgress": [
+    {
+      "client": 390,
+      "pending": 28,
+      "scrollY": 520,
+      "visible": 7,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "pending": 27,
+      "scrollY": 1040,
+      "visible": 8,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "pending": 26,
+      "scrollY": 1559.5,
+      "visible": 9,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "pending": 19,
+      "scrollY": 2080,
+      "visible": 16,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "pending": 17,
+      "scrollY": 2600,
+      "visible": 18,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "pending": 16,
+      "scrollY": 3120,
+      "visible": 19,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "pending": 15,
+      "scrollY": 3640,
+      "visible": 20,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "pending": 14,
+      "scrollY": 4160,
+      "visible": 21,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "pending": 10,
+      "scrollY": 4680,
+      "visible": 25,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "pending": 3,
+      "scrollY": 5200,
+      "visible": 32,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "pending": 0,
+      "scrollY": 5582.5,
+      "visible": 35,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "pending": 0,
+      "scrollY": 5582.5,
+      "visible": 35,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "pending": 0,
+      "scrollY": 5582.5,
+      "visible": 35,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "pending": 0,
+      "scrollY": 5582.5,
+      "visible": 35,
+      "width": 390
+    }
+  ],
+  "animationEnd": {
+    "clientWidth": 390,
+    "opacityProblems": 0,
+    "pending": 0,
+    "scrollWidth": 390,
+    "visible": 35
+  }
+}

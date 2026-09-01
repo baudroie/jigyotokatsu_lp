@@ -1,0 +1,1205 @@
+[
+  {
+    "fontStatus": "loaded",
+    "height": 3760,
+    "images": [
+      {
+        "height": 83.328125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/hero/logo.png",
+        "width": 250,
+        "x": 30,
+        "y": -1.5
+      },
+      {
+        "height": 82.6640625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/hero/entry.png",
+        "width": 248,
+        "x": 1175,
+        "y": 11.046875
+      },
+      {
+        "height": 178.328125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/hero/line-cta.png",
+        "width": 535,
+        "x": 60,
+        "y": 602.1484375
+      },
+      {
+        "height": 178.328125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/hero/career-cta.png",
+        "width": 535,
+        "x": 613,
+        "y": 602.1484375
+      },
+      {
+        "height": 266.3984375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_01_pc.png",
+        "width": 444,
+        "x": 50,
+        "y": 789
+      },
+      {
+        "height": 266.3984375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_02_pc.png",
+        "width": 444,
+        "x": 498,
+        "y": 789
+      },
+      {
+        "height": 266.3984375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_03_pc.png",
+        "width": 444,
+        "x": 946,
+        "y": 789
+      },
+      {
+        "height": 213.328125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/title.png",
+        "width": 640,
+        "x": 400,
+        "y": 1051.8046875
+      },
+      {
+        "height": 168,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/icon-ma.png",
+        "width": 168,
+        "x": 257,
+        "y": 1212.734375
+      },
+      {
+        "height": 38.5,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/arrow-1.png",
+        "width": 77,
+        "x": 475,
+        "y": 1277.734375
+      },
+      {
+        "height": 168,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/icon-pmi.png",
+        "width": 168,
+        "x": 602,
+        "y": 1212.734375
+      },
+      {
+        "height": 38.5,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/arrow-2.png",
+        "width": 77,
+        "x": 820,
+        "y": 1277.734375
+      },
+      {
+        "height": 168,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/icon-people.png",
+        "width": 168,
+        "x": 947,
+        "y": 1212.734375
+      },
+      {
+        "height": 216.6640625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/field/title.png",
+        "width": 650,
+        "x": 395,
+        "y": 1613.625
+      },
+      {
+        "height": 351.1015625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/field/sales.png",
+        "width": 263.328125,
+        "x": 0,
+        "y": 1763.7890625
+      },
+      {
+        "height": 351.109375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/field/recruiting.png",
+        "width": 263.3359375,
+        "x": 235.328125,
+        "y": 1763.7890625
+      },
+      {
+        "height": 351.1015625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/field/organization.png",
+        "width": 263.328125,
+        "x": 470.6640625,
+        "y": 1763.7890625
+      },
+      {
+        "height": 351.109375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/field/business.png",
+        "width": 263.3359375,
+        "x": 705.9921875,
+        "y": 1763.7890625
+      },
+      {
+        "height": 351.109375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/field/strategy.png",
+        "width": 263.3359375,
+        "x": 941.328125,
+        "y": 1763.7890625
+      },
+      {
+        "height": 351.1015625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/field/pmi.png",
+        "width": 263.328125,
+        "x": 1176.6640625,
+        "y": 1763.7890625
+      },
+      {
+        "height": 220,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/title.png",
+        "width": 660,
+        "x": 390,
+        "y": 2062.3984375
+      },
+      {
+        "height": 215.3125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_01_year1_candidate.png",
+        "width": 331.25,
+        "x": 50,
+        "y": 2222.3046875
+      },
+      {
+        "height": 215.3125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_02_year2-3_advisor.png",
+        "width": 331.25,
+        "x": 386.25,
+        "y": 2222.3046875
+      },
+      {
+        "height": 215.3125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_03_year4-5_business-head.png",
+        "width": 331.25,
+        "x": 722.5,
+        "y": 2222.3046875
+      },
+      {
+        "height": 215.3125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/pc_04_year6-plus_president.png",
+        "width": 331.25,
+        "x": 1058.75,
+        "y": 2222.3046875
+      },
+      {
+        "height": 350,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/note.png",
+        "width": 1050,
+        "x": 195,
+        "y": 2310.1171875
+      },
+      {
+        "height": 203.328125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/title.png",
+        "width": 610,
+        "x": 415,
+        "y": 2474.171875
+      },
+      {
+        "height": 353.6953125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/person-a.png",
+        "width": 235.796875,
+        "x": 53,
+        "y": 2604.671875
+      },
+      {
+        "height": 203.59375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/bubble-a.png",
+        "width": 407.1953125,
+        "x": 288.796875,
+        "y": 2575.1640625
+      },
+      {
+        "height": 305.390625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/body-a.png",
+        "width": 407.1953125,
+        "x": 288.796875,
+        "y": 2688.8203125
+      },
+      {
+        "height": 353.6953125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/person-b.png",
+        "width": 235.796875,
+        "x": 732,
+        "y": 2604.671875
+      },
+      {
+        "height": 203.59375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/bubble-b.png",
+        "width": 407.1953125,
+        "x": 967.796875,
+        "y": 2575.1640625
+      },
+      {
+        "height": 305.390625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/body-b.png",
+        "width": 407.1953125,
+        "x": 967.796875,
+        "y": 2688.8203125
+      },
+      {
+        "height": 130,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/title.png",
+        "width": 390,
+        "x": 525,
+        "y": 2960.2734375
+      },
+      {
+        "height": 96,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/icon-line.png",
+        "width": 96,
+        "x": 63,
+        "y": 3114.2734375
+      },
+      {
+        "height": 96,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/icon-interview.png",
+        "width": 96,
+        "x": 401,
+        "y": 3114.2734375
+      },
+      {
+        "height": 96,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/icon-executive.png",
+        "width": 96,
+        "x": 739,
+        "y": 3114.2734375
+      },
+      {
+        "height": 96,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/icon-offer.png",
+        "width": 96,
+        "x": 1077,
+        "y": 3114.2734375
+      },
+      {
+        "height": 210,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/final-cta/title.png",
+        "width": 630,
+        "x": 90,
+        "y": 3332.8671875
+      },
+      {
+        "height": 210,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/final-cta/subtitle.png",
+        "width": 630,
+        "x": 90,
+        "y": 3416.875
+      },
+      {
+        "height": 193.1953125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/final-cta/line-cta.png",
+        "width": 579.6015625,
+        "x": 790.3984375,
+        "y": 3370.671875
+      }
+    ],
+    "pageWidth": 1440,
+    "people": [
+      {
+        "class": "people-panel",
+        "height": 440,
+        "width": 1360,
+        "x": 40,
+        "y": 2531.3671875
+      },
+      {
+        "class": "person-story story-a reveal reveal--right is-visible",
+        "height": 438,
+        "width": 679,
+        "x": 41,
+        "y": 2532.3671875
+      },
+      {
+        "class": "person-story story-b desktop-only reveal reveal--left is-visible",
+        "height": 438,
+        "width": 679,
+        "x": 720,
+        "y": 2532.3671875
+      },
+      {
+        "class": "people-dots people-pagination mobile-only reveal reveal--fade",
+        "height": 0,
+        "width": 0,
+        "x": 0,
+        "y": 2860.5
+      }
+    ],
+    "sections": [
+      {
+        "gap": "normal",
+        "height": 845,
+        "margin": "0px",
+        "name": "hero",
+        "padding": "0px",
+        "top": 0,
+        "width": 1440
+      },
+      {
+        "gap": "normal",
+        "height": 300.3984375,
+        "margin": "-56px 0px 0px",
+        "name": "benefits",
+        "padding": "0px 0px 34px",
+        "top": 789,
+        "width": 1440
+      },
+      {
+        "gap": "normal",
+        "height": 595.2265625,
+        "margin": "0px",
+        "name": "frontline",
+        "padding": "20px 0px 58px",
+        "top": 1089.3984375,
+        "width": 1440
+      },
+      {
+        "gap": "normal",
+        "height": 435.2734375,
+        "margin": "0px",
+        "name": "field desktop-only",
+        "padding": "7px 0px 5px",
+        "top": 1684.625,
+        "width": 1440
+      },
+      {
+        "gap": "normal",
+        "height": 405.46875,
+        "margin": "0px",
+        "name": "career",
+        "padding": "25px 0px 28px",
+        "top": 2119.8984375,
+        "width": 1440
+      },
+      {
+        "gap": "normal",
+        "height": 470,
+        "margin": "0px",
+        "name": "people carousel-enabled",
+        "padding": "6px 38px 24px",
+        "top": 2525.3671875,
+        "width": 1440
+      },
+      {
+        "gap": "normal",
+        "height": 326.90625,
+        "margin": "0px",
+        "name": "flow",
+        "padding": "0px 0px 57px",
+        "top": 2995.3671875,
+        "width": 1440
+      },
+      {
+        "gap": "normal 40px",
+        "height": 290,
+        "margin": "0px",
+        "name": "final-cta",
+        "padding": "35px 70px",
+        "top": 3322.2734375,
+        "width": 1440
+      },
+      {
+        "gap": "normal",
+        "height": 148,
+        "margin": "0px",
+        "name": "site-footer",
+        "padding": "24px 40px",
+        "top": 3612.2734375,
+        "width": 1440
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "fontStatus": "loaded",
+    "height": 6482,
+    "images": [
+      {
+        "height": 48.328125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/hero/logo.png",
+        "width": 145,
+        "x": 20,
+        "y": 21.8515625
+      },
+      {
+        "height": 60,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/hero/hamburger.png",
+        "width": 60,
+        "x": 320,
+        "y": 26
+      },
+      {
+        "height": 122,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/hero/line-cta.png",
+        "width": 366,
+        "x": 12,
+        "y": 426.890625
+      },
+      {
+        "height": 122,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/hero/career-cta.png",
+        "width": 366,
+        "x": 12,
+        "y": 548.890625
+      },
+      {
+        "height": 584.609375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_01_sp.png",
+        "width": 380,
+        "x": 5,
+        "y": 692.890625
+      },
+      {
+        "height": 584.609375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_02_sp.png",
+        "width": 380,
+        "x": 5,
+        "y": 1277.5
+      },
+      {
+        "height": 584.609375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_03_sp.png",
+        "width": 380,
+        "x": 5,
+        "y": 1862.109375
+      },
+      {
+        "height": 121.6640625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/title.png",
+        "width": 365,
+        "x": 12.5,
+        "y": 2469.875
+      },
+      {
+        "height": 90,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/icon-ma.png",
+        "width": 90,
+        "x": 26.6640625,
+        "y": 2577.390625
+      },
+      {
+        "height": 14,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/arrow-1.png",
+        "width": 28,
+        "x": 119.328125,
+        "y": 2617.390625
+      },
+      {
+        "height": 90,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/icon-pmi.png",
+        "width": 90,
+        "x": 149.9921875,
+        "y": 2577.390625
+      },
+      {
+        "height": 14,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/arrow-2.png",
+        "width": 28,
+        "x": 242.6640625,
+        "y": 2617.390625
+      },
+      {
+        "height": 90,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/icon-people.png",
+        "width": 90,
+        "x": 273.328125,
+        "y": 2577.390625
+      },
+      {
+        "height": 124,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/title.png",
+        "width": 372,
+        "x": 9,
+        "y": 2963.5
+      },
+      {
+        "height": 535.3828125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_01_year1_candidate.png",
+        "width": 348,
+        "x": 21,
+        "y": 3049.28125
+      },
+      {
+        "height": 535.3828125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_02_year2-3_advisor.png",
+        "width": 348,
+        "x": 21,
+        "y": 3584.6640625
+      },
+      {
+        "height": 535.3828125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_03_year4-5_business-head.png",
+        "width": 348,
+        "x": 21,
+        "y": 4120.046875
+      },
+      {
+        "height": 535.3828125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_04_year6-plus_president.png",
+        "width": 348,
+        "x": 21,
+        "y": 4655.4296875
+      },
+      {
+        "height": 120,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/title.png",
+        "width": 360,
+        "x": 15,
+        "y": 5194.6171875
+      },
+      {
+        "height": 184.671875,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/person-a.png",
+        "width": 123.1171875,
+        "x": 24,
+        "y": 5298.546875
+      },
+      {
+        "height": 109.4375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/bubble-a.png",
+        "width": 218.875,
+        "x": 147.1171875,
+        "y": 5285.3125
+      },
+      {
+        "height": 164.15625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/body-a.png",
+        "width": 218.875,
+        "x": 147.1171875,
+        "y": 5347.6640625
+      },
+      {
+        "height": 184.671875,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/person-b.png",
+        "width": 123.1171875,
+        "x": 380,
+        "y": 5298.546875
+      },
+      {
+        "height": 109.4375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/bubble-b.png",
+        "width": 218.875,
+        "x": 503.1171875,
+        "y": 5285.3125
+      },
+      {
+        "height": 164.15625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/body-b.png",
+        "width": 218.875,
+        "x": 503.1171875,
+        "y": 5347.6640625
+      },
+      {
+        "height": 81.6640625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/title.png",
+        "width": 245,
+        "x": 72.5,
+        "y": 5538.8359375
+      },
+      {
+        "height": 60,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/icon-line.png",
+        "width": 60,
+        "x": 24,
+        "y": 5617
+      },
+      {
+        "height": 60,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/icon-interview.png",
+        "width": 60,
+        "x": 24,
+        "y": 5699
+      },
+      {
+        "height": 60,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/icon-executive.png",
+        "width": 60,
+        "x": 24,
+        "y": 5781
+      },
+      {
+        "height": 60,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/icon-offer.png",
+        "width": 60,
+        "x": 24,
+        "y": 5863
+      },
+      {
+        "height": 110.9140625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/final-cta/title.png",
+        "width": 332.7578125,
+        "x": 28.6171875,
+        "y": 5947.0546875
+      },
+      {
+        "height": 118,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/final-cta/line-cta.png",
+        "width": 354,
+        "x": 18,
+        "y": 6083.5546875
+      }
+    ],
+    "pageWidth": 390,
+    "people": [
+      {
+        "class": "people-panel",
+        "height": 212,
+        "width": 358,
+        "x": 16,
+        "y": 5279.21875
+      },
+      {
+        "class": "person-story story-a reveal reveal--right is-visible",
+        "height": 210,
+        "width": 356,
+        "x": 17,
+        "y": 5280.21875
+      },
+      {
+        "class": "person-story story-b desktop-only reveal reveal--left is-visible",
+        "height": 210,
+        "width": 356,
+        "x": 373,
+        "y": 5280.21875
+      },
+      {
+        "class": "people-dots people-pagination mobile-only reveal reveal--fade is-visible",
+        "height": 76.6640625,
+        "width": 230,
+        "x": 80,
+        "y": 5479.21875
+      }
+    ],
+    "sections": [
+      {
+        "gap": "normal",
+        "height": 756.890625,
+        "margin": "0px",
+        "name": "hero",
+        "padding": "0px 0px 86px",
+        "top": 0,
+        "width": 390
+      },
+      {
+        "gap": "normal",
+        "height": 1779.828125,
+        "margin": "-64px 0px 0px",
+        "name": "benefits",
+        "padding": "0px 0px 18px",
+        "top": 692.890625,
+        "width": 390
+      },
+      {
+        "gap": "normal",
+        "height": 511.28125,
+        "margin": "0px",
+        "name": "frontline",
+        "padding": "30px 0px 52px",
+        "top": 2472.71875,
+        "width": 390
+      },
+      {
+        "gap": "normal",
+        "height": 0,
+        "margin": "0px",
+        "name": "field desktop-only",
+        "padding": "7px 0px 5px",
+        "top": 5582.5,
+        "width": 0
+      },
+      {
+        "gap": "normal",
+        "height": 2230.8125,
+        "margin": "0px",
+        "name": "career",
+        "padding": "26px 0px 24px",
+        "top": 2984,
+        "width": 390
+      },
+      {
+        "gap": "normal",
+        "height": 328.0703125,
+        "margin": "0px",
+        "name": "people carousel-enabled",
+        "padding": "22px 15px 1px",
+        "top": 5214.8125,
+        "width": 390
+      },
+      {
+        "gap": "normal",
+        "height": 409.1171875,
+        "margin": "0px",
+        "name": "flow",
+        "padding": "18px 0px 22px",
+        "top": 5542.8828125,
+        "width": 390
+      },
+      {
+        "gap": "normal 40px",
+        "height": 276.5546875,
+        "margin": "0px",
+        "name": "final-cta",
+        "padding": "25px 18px 27px",
+        "top": 5952,
+        "width": 390
+      },
+      {
+        "gap": "normal",
+        "height": 254,
+        "margin": "0px",
+        "name": "site-footer",
+        "padding": "31px 22px 26px",
+        "top": 6228.5546875,
+        "width": 390
+      }
+    ],
+    "width": 390
+  },
+  {
+    "fontStatus": "loaded",
+    "height": 6301,
+    "images": [
+      {
+        "height": 48.328125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/hero/logo.png",
+        "width": 145,
+        "x": 20,
+        "y": 21.8515625
+      },
+      {
+        "height": 60,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/hero/hamburger.png",
+        "width": 60,
+        "x": 305,
+        "y": 26
+      },
+      {
+        "height": 117,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/hero/line-cta.png",
+        "width": 351,
+        "x": 12,
+        "y": 426.890625
+      },
+      {
+        "height": 117,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/hero/career-cta.png",
+        "width": 351,
+        "x": 12,
+        "y": 543.890625
+      },
+      {
+        "height": 561.53125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_01_sp.png",
+        "width": 365,
+        "x": 5,
+        "y": 682.890625
+      },
+      {
+        "height": 561.53125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_02_sp.png",
+        "width": 365,
+        "x": 5,
+        "y": 1244.421875
+      },
+      {
+        "height": 561.53125,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/cards/new-20260831/benefit_03_sp.png",
+        "width": 365,
+        "x": 5,
+        "y": 1805.953125
+      },
+      {
+        "height": 120,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/title.png",
+        "width": 360,
+        "x": 7.5,
+        "y": 2391.0859375
+      },
+      {
+        "height": 90,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/icon-ma.png",
+        "width": 90,
+        "x": 22.5,
+        "y": 2497.4921875
+      },
+      {
+        "height": 14,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/arrow-1.png",
+        "width": 28,
+        "x": 113.4921875,
+        "y": 2537.4921875
+      },
+      {
+        "height": 90,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/icon-pmi.png",
+        "width": 90,
+        "x": 142.5,
+        "y": 2497.4921875
+      },
+      {
+        "height": 14,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/arrow-2.png",
+        "width": 28,
+        "x": 233.4921875,
+        "y": 2537.4921875
+      },
+      {
+        "height": 90,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/frontline/icon-people.png",
+        "width": 90,
+        "x": 262.5,
+        "y": 2497.4921875
+      },
+      {
+        "height": 120,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/title.png",
+        "width": 360,
+        "x": 7.5,
+        "y": 2885.1015625
+      },
+      {
+        "height": 512.3046875,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_01_year1_candidate.png",
+        "width": 333,
+        "x": 21,
+        "y": 2968.5078125
+      },
+      {
+        "height": 512.3046875,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_02_year2-3_advisor.png",
+        "width": 333,
+        "x": 21,
+        "y": 3480.8125
+      },
+      {
+        "height": 512.3046875,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_03_year4-5_business-head.png",
+        "width": 333,
+        "x": 21,
+        "y": 3993.1171875
+      },
+      {
+        "height": 512.3046875,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/career/new-20260831/sp_04_year6-plus_president.png",
+        "width": 333,
+        "x": 21,
+        "y": 4505.421875
+      },
+      {
+        "height": 115,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/title.png",
+        "width": 345,
+        "x": 15,
+        "y": 5023.328125
+      },
+      {
+        "height": 177.65625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/person-a.png",
+        "width": 118.4375,
+        "x": 23,
+        "y": 5131.375
+      },
+      {
+        "height": 105.2734375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/bubble-a.png",
+        "width": 210.5546875,
+        "x": 141.4375,
+        "y": 5114.8359375
+      },
+      {
+        "height": 157.9140625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/body-a.png",
+        "width": 210.5546875,
+        "x": 141.4375,
+        "y": 5175.265625
+      },
+      {
+        "height": 177.65625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/person-b.png",
+        "width": 118.4375,
+        "x": 366,
+        "y": 5131.375
+      },
+      {
+        "height": 105.2734375,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/bubble-b.png",
+        "width": 210.5546875,
+        "x": 484.4375,
+        "y": 5114.8359375
+      },
+      {
+        "height": 157.9140625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/people/body-b.png",
+        "width": 210.5546875,
+        "x": 484.4375,
+        "y": 5175.265625
+      },
+      {
+        "height": 81.6640625,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/title.png",
+        "width": 245,
+        "x": 65,
+        "y": 5364.6484375
+      },
+      {
+        "height": 60,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/icon-line.png",
+        "width": 60,
+        "x": 21,
+        "y": 5442.8125
+      },
+      {
+        "height": 60,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/icon-interview.png",
+        "width": 60,
+        "x": 21,
+        "y": 5524.8125
+      },
+      {
+        "height": 60,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/icon-executive.png",
+        "width": 60,
+        "x": 21,
+        "y": 5606.8125
+      },
+      {
+        "height": 60,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/flow/icon-offer.png",
+        "width": 60,
+        "x": 21,
+        "y": 5688.8125
+      },
+      {
+        "height": 106.21875,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/final-cta/title.png",
+        "width": 318.65625,
+        "x": 28.171875,
+        "y": 5774.140625
+      },
+      {
+        "height": 113,
+        "loaded": true,
+        "src": "http://127.0.0.1:4173/assets/final-cta/line-cta.png",
+        "width": 339,
+        "x": 18,
+        "y": 5907.5
+      }
+    ],
+    "pageWidth": 375,
+    "people": [
+      {
+        "class": "people-panel",
+        "height": 212,
+        "width": 345,
+        "x": 15,
+        "y": 5105.03125
+      },
+      {
+        "class": "person-story story-a reveal reveal--right is-visible",
+        "height": 210,
+        "width": 343,
+        "x": 16,
+        "y": 5106.03125
+      },
+      {
+        "class": "person-story story-b desktop-only reveal reveal--left is-visible",
+        "height": 210,
+        "width": 343,
+        "x": 359,
+        "y": 5106.03125
+      },
+      {
+        "class": "people-dots people-pagination mobile-only reveal reveal--fade is-visible",
+        "height": 76.6640625,
+        "width": 230,
+        "x": 72.5,
+        "y": 5305.03125
+      }
+    ],
+    "sections": [
+      {
+        "gap": "normal",
+        "height": 746.890625,
+        "margin": "0px",
+        "name": "hero",
+        "padding": "0px 0px 86px",
+        "top": 0,
+        "width": 375
+      },
+      {
+        "gap": "normal",
+        "height": 1710.59375,
+        "margin": "-64px 0px 0px",
+        "name": "benefits",
+        "padding": "0px 0px 18px",
+        "top": 682.890625,
+        "width": 375
+      },
+      {
+        "gap": "normal",
+        "height": 510.6171875,
+        "margin": "0px",
+        "name": "frontline",
+        "padding": "30px 0px 52px",
+        "top": 2393.484375,
+        "width": 375
+      },
+      {
+        "gap": "normal",
+        "height": 0,
+        "margin": "0px",
+        "name": "field desktop-only",
+        "padding": "7px 0px 5px",
+        "top": 5401.5,
+        "width": 0
+      },
+      {
+        "gap": "normal",
+        "height": 2137.625,
+        "margin": "0px",
+        "name": "career",
+        "padding": "26px 0px 24px",
+        "top": 2904.1015625,
+        "width": 375
+      },
+      {
+        "gap": "normal",
+        "height": 326.96875,
+        "margin": "0px",
+        "name": "people carousel-enabled",
+        "padding": "22px 15px 1px",
+        "top": 5041.7265625,
+        "width": 375
+      },
+      {
+        "gap": "normal",
+        "height": 409.1171875,
+        "margin": "0px",
+        "name": "flow",
+        "padding": "18px 0px 22px",
+        "top": 5368.6953125,
+        "width": 375
+      },
+      {
+        "gap": "normal 40px",
+        "height": 269.6875,
+        "margin": "0px",
+        "name": "final-cta",
+        "padding": "25px 18px 27px",
+        "top": 5777.8125,
+        "width": 375
+      },
+      {
+        "gap": "normal",
+        "height": 254,
+        "margin": "0px",
+        "name": "site-footer",
+        "padding": "31px 22px 26px",
+        "top": 6047.5,
+        "width": 375
+      }
+    ],
+    "width": 375
+  }
+]

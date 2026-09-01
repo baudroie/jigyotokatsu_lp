@@ -1,0 +1,152 @@
+[
+  {
+    "test": "menu-navigation",
+    "result": {
+      "dots": [
+        {
+          "current": "true",
+          "label": "1人目の先輩を見る"
+        },
+        {
+          "current": "false",
+          "label": "2人目の先輩を見る"
+        }
+      ],
+      "height": 212,
+      "live": "",
+      "scrollWidth": 390,
+      "sectionHeight": 328.0703125,
+      "slides": [
+        {
+          "height": 210,
+          "hidden": "false"
+        },
+        {
+          "height": 210,
+          "hidden": "true"
+        }
+      ],
+      "width": 390
+    }
+  },
+  {
+    "test": "dot-to-second",
+    "result": {
+      "dots": [
+        {
+          "current": "false",
+          "label": "1人目の先輩を見る"
+        },
+        {
+          "current": "true",
+          "label": "2人目の先輩を見る"
+        }
+      ],
+      "height": 212,
+      "live": "2 / 2：入社2年で組織を率いるリーダーに",
+      "scrollWidth": 390,
+      "sectionHeight": 328.0703125,
+      "slides": [
+        {
+          "height": 210,
+          "hidden": "true"
+        },
+        {
+          "height": 210,
+          "hidden": "false"
+        }
+      ],
+      "width": 390
+    }
+  },
+  {
+    "test": "keyboard-to-first",
+    "result": {
+      "dots": [
+        {
+          "current": "true",
+          "label": "1人目の先輩を見る"
+        },
+        {
+          "current": "false",
+          "label": "2人目の先輩を見る"
+        }
+      ],
+      "height": 212,
+      "live": "1 / 2：1人のメンバーから1人の社長へ",
+      "scrollWidth": 390,
+      "sectionHeight": 328.0703125,
+      "slides": [
+        {
+          "height": 210,
+          "hidden": "false"
+        },
+        {
+          "height": 210,
+          "hidden": "true"
+        }
+      ],
+      "width": 390
+    }
+  },
+  {
+    "test": "tablet-shows-both",
+    "result": {
+      "dots": [
+        {
+          "current": "true",
+          "label": "1人目の先輩を見る"
+        },
+        {
+          "current": "false",
+          "label": "2人目の先輩を見る"
+        }
+      ],
+      "height": 290,
+      "live": "",
+      "scrollWidth": 768,
+      "sectionHeight": 320,
+      "slides": [
+        {
+          "height": 288,
+          "hidden": null
+        },
+        {
+          "height": 288,
+          "hidden": null
+        }
+      ],
+      "width": 768
+    }
+  },
+  {
+    "test": "mobile-reset-first",
+    "result": {
+      "dots": [
+        {
+          "current": "true",
+          "label": "1人目の先輩を見る"
+        },
+        {
+          "current": "false",
+          "label": "2人目の先輩を見る"
+        }
+      ],
+      "height": 212,
+      "live": "",
+      "scrollWidth": 390,
+      "sectionHeight": 328.0703125,
+      "slides": [
+        {
+          "height": 210,
+          "hidden": "false"
+        },
+        {
+          "height": 210,
+          "hidden": "true"
+        }
+      ],
+      "width": 390
+    }
+  }
+]

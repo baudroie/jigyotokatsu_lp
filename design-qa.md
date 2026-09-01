@@ -1,77 +1,42 @@
-# Design QA — 2026-08-31
+# Design QA — 2026-09-01 キャリア年収なし素材・モーション
 
-final result: blocked
+final result: passed
 
-This supersedes the previous PASS report. Matching page height is not evidence that text images are uncut.
+## Source and implementation
 
-## Source and capture
-
-- Visual truth: デザイン案web.png (661×1804) / デザイン案mobile.png (183×1793).
-- Rendered implementation: comparison/20260831-loop7/desktop-1440.png (1440×3929) / mobile-390.png (390×4178).
-- Viewports: 1440×900 and 390×844; DPR=1; initial state, menu closed.
-- Normalization: width only, preserving aspect ratio; desktop becomes661×1804, mobile183×1960. Blank canvas pads the shorter side, never stretches it.
-- Full-view evidence: comparison/20260831-loop7/{desktop,mobile}-side-by-side.png, -overlay.png (50%), -diff.png.
-- Focused evidence: same folder, {desktop,mobile}-{hero,benefits,career,people,final-cta}-focused.png. These align section starts only and preserve original scale.
-- Additional final responsive evidence: comparison/20260831-responsive-final/ at1280,768,375px.
-- In-app full-width capture was blocked by its viewport/capture limitation in prior work; Chrome browser-rendered captures are used.
+- Source visual truth: `新素材/キャリア/PC/*.png`（4枚、各1600×1040）と `新素材/キャリア/SP/*.png`（4枚、各1040×1600）。年収記載なし。
+- Implementation: `assets/career/no-income-20260901/` の同名8枚を `index.html` のpicture/sourceで参照。
+- Browser captures: `comparison/20260901-career-no-income/after-raw-1440-final.png`（1440×3760）/ `after-raw-390-final.png`（390×6482）。CSS実表示幅1440/390、全reveal完了後。
+- Focused evidence: `desktop-source-implementation.png`（PC4枚）/ `mobile-source-implementation.png`（SP1枚）/ `source-contact-sheet.jpg`（全8枚）。元比率を維持し、ページ全体を別の高さへ引き伸ばしていない。
+- 変更前のQAは `comparison/20260901-career-no-income/previous-design-qa.md` に保持。
 
 ## Findings
 
-### [P1] Composite Benefits image cannot satisfy whole-PNG display and vertical cards simultaneously
-
-The provided cards-strip.png is a heading plus three cards in a single2048×768 PNG.
-Existing desktop/mobile viewports still select individual cards from it. Each complete card's text, illustration, and lower border now fits, and CSS duplicate white backgrounds/borders/shadows are removed. The whole source PNG is nevertheless NOT displayed.
-Evidence: Benefits focused comparisons and the3 clipping candidates in each viewport's image-layout-audit.json.
-Need individual source PNGs or explicit permission for asset extraction. Do not mark the strict no-partial-PNG condition PASS.
-
-### [P1] Career source artwork has a different aspect ratio from the compact reference cards
-
-All four complete PNGs, including titles, descriptions, salary figures and people, are displayed with natural aspect ratio. No clipping ancestor, fixed image height, cover, or outer CSS card remains.
-The SP reference's card content is compact and omits the body text present in the supplied source. Keeping all source content at readable width makes Career1083.4px tall vs726.7px reference, a356.7px section-height difference.
-This causes the downstream Mobile sections' start/end positions to remain about356px lower. Their own heights are matched; translating them upwards would overlap content.
-Desktop section boundaries match within1px, but the source's shorter, wider internal cards do not match the reference card height. No distortion is used to conceal this.
-Need compact source assets or acceptance of this aspect-ratio-driven difference.
+P0/P1/P2なし。8枚すべてが正しいPC/SPの表示幅で読み込まれ、年収を含まない画像内容・代替テキストになっている。旧参照はHTML/asset-mapから除去し、旧ファイル自体は保持した。
 
 ## Required fidelity surfaces
 
-- Fonts/typography: HTML Hero copy size and mobile line breaks refined, field/flow hierarchy preserved. Raster-internal fonts are supplied artwork, outside this turn's artwork-redesign scope.
-- Spacing/layout: Desktop section boundaries within1px of width-normalized reference. SP Hero/Benefits/Frontline and the individual heights of People/Flow/CTA/Footer match within about1px. Career and cumulative Mobile positions remain NG as above.
-- Colors: Benefits surrounding canvas sampled from reference bottom-left offwhite pixels (#f6f6f6); final CTA decorative background expanded to remove the external frame. Existing image colors untouched. Mobile orange bottom boundary retained; exact composite-background treatment remains part of Benefits NG.
-- Image quality: all76 visible image instances across PC/SP retain natural ratio (41PC,35SP). Non-composite clipping candidates0/0. Composite clipping candidates3/3. Never claim that means all-img clipping0.
-- Copy/content: no visible wording or section-order changes; only responsive line breaks. Hero heading unified so it is available to assistive technology on mobile.
-- Responsive: no document horizontal overflow at1440,1280,768,390,375px without body overflow-x hiding. Tablet Career uses2 columns; SP Field stays hidden.
-- Accessibility: image alternatives, focus styles, menu aria-expanded preserved; decorative plus has no false “open details” label. Comprehensive assistive-technology certification not performed.
+- Fonts/typography: カード内文字は新しい完成PNGそのもの。HTMLのfont-size・family・line-heightは未変更。altから旧年収だけを除去。
+- Spacing/layout rhythm: PCカード331.25×215.3125px、SP390で348×535.3828px。ページ高は変更前と同じPC3760px/SP6482px。section width/height、padding、margin、gapは未変更。
+- Colors/tokens: CSS色・背景・影・radiusは未変更。新PNGの色を加工していない。
+- Image quality/asset fidelity: sourceと配置先のSHA-256が全8枚で一致。自然寸法、RGBA、24px透過境界、object-fit:contain、overflow:visibleを確認。crop・再圧縮・変形なし。
+- Copy/content: 年次・役割・説明文は新PNGどおり。カード外の既存PC年収注記は別素材かつ変更対象外なので維持。
+- Responsive/accessibility: 767px以下はSP、768px以上はPC。currentSrcを1440/390/375相当で確認。＋とキャリア詳細ボタンは前回指示どおり0件。
+- Interaction/motion: IntersectionObserverの一度だけ表示、reduced motion、SP先輩2名カルーセル、2ドット、スワイプ、キーボードを維持。静止時opacity1/translate none。
 
-## Iteration history
+## Comparison history
 
-1. Baseline captured before edits: clipping candidates25PC/19SP.
-2. LOOP1: remove fixed image clipping and duplicate card surfaces; image candidates reduce to3/3, but natural transparent canvases make sections too tall.
-3. LOOP2: layout-only compensation for transparent gutters; section-height correction; sources are never masked or re-saved.
-4. LOOP3: recompute precise SP People/Flow boundaries; reposition People heading/panel; balance section padding.
-5. LOOP4: Hero text scale, Frontline/Flow rhythm, Footer; include complete Benefits card bodies in existing composite windows.
-6. LOOP5: tablet minimum-height excess and card readability; single accessible h1.
-7. LOOP6: SP background focal point and final CTA column alignment.
-8. LOOP7: fix transparent Career image intercepting Career-details clicks with pointer-events:none on noninteractive images.
+1. 初回比較: 新旧ファイル名は同じだがSHA-256が全8枚で異なり、HTMLは旧 `assets/career/new-20260831/` を参照していた。
+2. 修正: 新素材を別ディレクトリへ原寸コピーし、pictureのPC/SP参照とalt、asset-mapを更新。
+3. 修正後比較: focused source/implementationで人物・年次・役割・説明文・年収なしを確認。表示寸法・ページ高さ差0。追加P0/P1/P2なし。
 
-Every correction loop has1440/390 full-page screenshots and width-normalized side-by-side/overlay evidence. Full history and boundary tables are in visual-qa.md.
+## Verification
 
-## Browser interaction checks
+- `node --check script.js`: PASS。
+- `comparison/20260831-221634-motion/check-motion.cjs`: 7/7 PASS。
+- Chrome 1440/390の上から下までのスクロール: 表示レイアウトを持つ未発火reveal 0、opacity不正0、横overflowなし。
+- 390px carousel: Slide1→左スワイプ→Slide2→active dot変更→dotでSlide1へ復帰。panel高さ212px不変。
+- 375pxは前回の同一CSS/JSの実測QAを維持し、今回のカード参照はSP4枚・自然寸法1040×1600・表示幅333pxを確認。
+- 新規ブラウザタブ console error/warning: 0。
 
-- Hero career CTA -> #career, top0.109px: PASS.
-- Career details -> #people, top0.008px after click-interception fix: PASS.
-- Menu open and selection -> #flow, menu closes: PASS.
-- Desktop ENTRY -> #flow, scroll clamped at the page's maximum because less than one viewport remains: PASS.
-- LINE URL stays #, as provided; external destination not tested/configured.
-- Browser log includes5 message-channel listener warnings with an extension-style signature. LP JS contains no corresponding async listener; warnings are retained verbatim in functional-tests.json, not misreported as0 errors.
-
-## Implementation checklist
-
-- [x] Existing assets preserved; no generation, re-save, destructive edits.
-- [x] Career/people/title/CTA text is no longer container-cropped.
-- [x] Full PC/SP screenshots, overlays, image audit and boundary metrics saved.
-- [x]7 correction loops and alternate-width checks.
-- [ ] Individual Benefits assets / extraction decision.
-- [ ] Compact Career assets / aspect-ratio difference decision.
-- [ ] Re-run comparison and achieve all-section PASS after these constraints are resolved.
-
-final result: blocked
+final result: passed
